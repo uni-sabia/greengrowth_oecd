@@ -1,0 +1,1414 @@
+COU,Country,VAR,Variable,YEA,Year,Unit Code,Unit,PowerCode,Value
+DEU,Germany,NRG_INT,"Energy intensity, TPES per capita",2000,2000,TOE,Tonnes of oil equivalent (toe),Units,4.135054
+DEU,Germany,NRG_INT,"Energy intensity, TPES per capita",2001,2001,TOE,Tonnes of oil equivalent (toe),Units,4.25631
+DEU,Germany,NRG_INT,"Energy intensity, TPES per capita",2002,2002,TOE,Tonnes of oil equivalent (toe),Units,4.156662
+DEU,Germany,NRG_INT,"Energy intensity, TPES per capita",2003,2003,TOE,Tonnes of oil equivalent (toe),Units,4.142641
+DEU,Germany,NRG_INT,"Energy intensity, TPES per capita",2004,2004,TOE,Tonnes of oil equivalent (toe),Units,4.175624
+DEU,Germany,NRG_INT,"Energy intensity, TPES per capita",2005,2005,TOE,Tonnes of oil equivalent (toe),Units,4.153524
+DEU,Germany,NRG_INT,"Energy intensity, TPES per capita",2006,2006,TOE,Tonnes of oil equivalent (toe),Units,4.282956
+DEU,Germany,NRG_INT,"Energy intensity, TPES per capita",2007,2007,TOE,Tonnes of oil equivalent (toe),Units,4.072672
+DEU,Germany,NRG_INT,"Energy intensity, TPES per capita",2008,2008,TOE,Tonnes of oil equivalent (toe),Units,4.134471
+DEU,Germany,NRG_INT,"Energy intensity, TPES per capita",2009,2009,TOE,Tonnes of oil equivalent (toe),Units,3.868976
+DEU,Germany,NRG_INT,"Energy intensity, TPES per capita",2010,2010,TOE,Tonnes of oil equivalent (toe),Units,4.077189
+DEU,Germany,NRG_INT,"Energy intensity, TPES per capita",2011,2011,TOE,Tonnes of oil equivalent (toe),Units,3.863924
+DEU,Germany,NRG_INT,"Energy intensity, TPES per capita",2012,2012,TOE,Tonnes of oil equivalent (toe),Units,3.887017
+DEU,Germany,NRG_INT,"Energy intensity, TPES per capita",2013,2013,TOE,Tonnes of oil equivalent (toe),Units,3.960215
+DEU,Germany,NRG_INT,"Energy intensity, TPES per capita",2014,2014,TOE,Tonnes of oil equivalent (toe),Units,3.772653
+DEU,Germany,NRG_INT,"Energy intensity, TPES per capita",2015,2015,TOE,Tonnes of oil equivalent (toe),Units,3.776192
+DEU,Germany,NRG_INT,"Energy intensity, TPES per capita",2016,2016,TOE,Tonnes of oil equivalent (toe),Units,3.772317
+DEU,Germany,NRG_INT,"Energy intensity, TPES per capita",2017,2017,TOE,Tonnes of oil equivalent (toe),Units,3.763126
+DEU,Germany,NRG_INT,"Energy intensity, TPES per capita",2018,2018,TOE,Tonnes of oil equivalent (toe),Units,3.634059
+DEU,Germany,RE_TPES,"Renewable energy supply, % total energy supply",2000,2000,PC,Percentage,Units,2.66877
+DEU,Germany,RE_TPES,"Renewable energy supply, % total energy supply",2001,2001,PC,Percentage,Units,2.779404
+DEU,Germany,RE_TPES,"Renewable energy supply, % total energy supply",2002,2002,PC,Percentage,Units,3.181633
+DEU,Germany,RE_TPES,"Renewable energy supply, % total energy supply",2003,2003,PC,Percentage,Units,4.070405
+DEU,Germany,RE_TPES,"Renewable energy supply, % total energy supply",2004,2004,PC,Percentage,Units,4.695461
+DEU,Germany,RE_TPES,"Renewable energy supply, % total energy supply",2005,2005,PC,Percentage,Units,5.476207
+DEU,Germany,RE_TPES,"Renewable energy supply, % total energy supply",2006,2006,PC,Percentage,Units,6.491337
+DEU,Germany,RE_TPES,"Renewable energy supply, % total energy supply",2007,2007,PC,Percentage,Units,7.91105
+DEU,Germany,RE_TPES,"Renewable energy supply, % total energy supply",2008,2008,PC,Percentage,Units,8.116325
+DEU,Germany,RE_TPES,"Renewable energy supply, % total energy supply",2009,2009,PC,Percentage,Units,8.653355
+DEU,Germany,RE_TPES,"Renewable energy supply, % total energy supply",2010,2010,PC,Percentage,Units,9.333115
+DEU,Germany,RE_TPES,"Renewable energy supply, % total energy supply",2011,2011,PC,Percentage,Units,10.19525
+DEU,Germany,RE_TPES,"Renewable energy supply, % total energy supply",2012,2012,PC,Percentage,Units,11.36963
+DEU,Germany,RE_TPES,"Renewable energy supply, % total energy supply",2013,2013,PC,Percentage,Units,11.47268
+DEU,Germany,RE_TPES,"Renewable energy supply, % total energy supply",2014,2014,PC,Percentage,Units,11.91894
+DEU,Germany,RE_TPES,"Renewable energy supply, % total energy supply",2015,2015,PC,Percentage,Units,12.63579
+DEU,Germany,RE_TPES,"Renewable energy supply, % total energy supply",2016,2016,PC,Percentage,Units,12.53076
+DEU,Germany,RE_TPES,"Renewable energy supply, % total energy supply",2017,2017,PC,Percentage,Units,13.3247
+DEU,Germany,RE_TPES,"Renewable energy supply, % total energy supply",2018,2018,PC,Percentage,Units,13.86558
+DEU,Germany,RE_NRG,"Renewable electricity, % total electricity generation",2000,2000,PC,Percentage,Units,6.198531
+DEU,Germany,RE_NRG,"Renewable electricity, % total electricity generation",2001,2001,PC,Percentage,Units,6.512444
+DEU,Germany,RE_NRG,"Renewable electricity, % total electricity generation",2002,2002,PC,Percentage,Units,7.6427
+DEU,Germany,RE_NRG,"Renewable electricity, % total electricity generation",2003,2003,PC,Percentage,Units,7.718132
+DEU,Germany,RE_NRG,"Renewable electricity, % total electricity generation",2004,2004,PC,Percentage,Units,9.464608
+DEU,Germany,RE_NRG,"Renewable electricity, % total electricity generation",2005,2005,PC,Percentage,Units,10.28694
+DEU,Germany,RE_NRG,"Renewable electricity, % total electricity generation",2006,2006,PC,Percentage,Units,11.44873
+DEU,Germany,RE_NRG,"Renewable electricity, % total electricity generation",2007,2007,PC,Percentage,Units,14.08619
+DEU,Germany,RE_NRG,"Renewable electricity, % total electricity generation",2008,2008,PC,Percentage,Units,14.84316
+DEU,Germany,RE_NRG,"Renewable electricity, % total electricity generation",2009,2009,PC,Percentage,Units,16.23814
+DEU,Germany,RE_NRG,"Renewable electricity, % total electricity generation",2010,2010,PC,Percentage,Units,16.78261
+DEU,Germany,RE_NRG,"Renewable electricity, % total electricity generation",2011,2011,PC,Percentage,Units,20.42507
+DEU,Germany,RE_NRG,"Renewable electricity, % total electricity generation",2012,2012,PC,Percentage,Units,22.9893
+DEU,Germany,RE_NRG,"Renewable electricity, % total electricity generation",2013,2013,PC,Percentage,Units,24.06935
+DEU,Germany,RE_NRG,"Renewable electricity, % total electricity generation",2014,2014,PC,Percentage,Units,26.13173
+DEU,Germany,RE_NRG,"Renewable electricity, % total electricity generation",2015,2015,PC,Percentage,Units,29.38816
+DEU,Germany,RE_NRG,"Renewable electricity, % total electricity generation",2016,2016,PC,Percentage,Units,29.41285
+DEU,Germany,RE_NRG,"Renewable electricity, % total electricity generation",2017,2017,PC,Percentage,Units,33.39771
+DEU,Germany,RE_NRG,"Renewable electricity, % total electricity generation",2018,2018,PC,Percentage,Units,35.2858
+DEU,Germany,ENVRD_GBAORD,"Green R&D budget, % total R&D budget",2000,2000,PC,Percentage,Units,3.336841
+DEU,Germany,ENVRD_GBAORD,"Green R&D budget, % total R&D budget",2001,2001,PC,Percentage,Units,3.108377
+DEU,Germany,ENVRD_GBAORD,"Green R&D budget, % total R&D budget",2002,2002,PC,Percentage,Units,3.074264
+DEU,Germany,ENVRD_GBAORD,"Green R&D budget, % total R&D budget",2003,2003,PC,Percentage,Units,3.316192
+DEU,Germany,ENVRD_GBAORD,"Green R&D budget, % total R&D budget",2004,2004,PC,Percentage,Units,3.458047
+DEU,Germany,ENVRD_GBAORD,"Green R&D budget, % total R&D budget",2005,2005,PC,Percentage,Units,3.445546
+DEU,Germany,ENVRD_GBAORD,"Green R&D budget, % total R&D budget",2006,2006,PC,Percentage,Units,3.116227
+DEU,Germany,ENVRD_GBAORD,"Green R&D budget, % total R&D budget",2007,2007,PC,Percentage,Units,3.152961
+DEU,Germany,ENVRD_GBAORD,"Green R&D budget, % total R&D budget",2008,2008,PC,Percentage,Units,3.034721
+DEU,Germany,ENVRD_GBAORD,"Green R&D budget, % total R&D budget",2009,2009,PC,Percentage,Units,2.890306
+DEU,Germany,ENVRD_GBAORD,"Green R&D budget, % total R&D budget",2010,2010,PC,Percentage,Units,2.761436
+DEU,Germany,ENVRD_GBAORD,"Green R&D budget, % total R&D budget",2011,2011,PC,Percentage,Units,2.704479
+DEU,Germany,ENVRD_GBAORD,"Green R&D budget, % total R&D budget",2012,2012,PC,Percentage,Units,2.85614
+DEU,Germany,ENVRD_GBAORD,"Green R&D budget, % total R&D budget",2013,2013,PC,Percentage,Units,2.781046
+DEU,Germany,ENVRD_GBAORD,"Green R&D budget, % total R&D budget",2014,2014,PC,Percentage,Units,2.984618
+DEU,Germany,ENVRD_GBAORD,"Green R&D budget, % total R&D budget",2015,2015,PC,Percentage,Units,2.901878
+DEU,Germany,ENVRD_GBAORD,"Green R&D budget, % total R&D budget",2016,2016,PC,Percentage,Units,2.699142
+DEU,Germany,ENVRD_GBAORD,"Green R&D budget, % total R&D budget",2017,2017,PC,Percentage,Units,2.80544
+DEU,Germany,ENVRD_GBAORD,"Green R&D budget, % total R&D budget",2018,2018,PC,Percentage,Units,2.770341
+DEU,Germany,ENVRD_GBAORD,"Green R&D budget, % total R&D budget",2019,2019,PC,Percentage,Units,2.837009
+DEU,Germany,RERD_ERD,"RE R&D budget, % total energy R&D budget",2000,2000,PC,Percentage,Units,27.2226
+DEU,Germany,RERD_ERD,"RE R&D budget, % total energy R&D budget",2001,2001,PC,Percentage,Units,24.10256
+DEU,Germany,RERD_ERD,"RE R&D budget, % total energy R&D budget",2002,2002,PC,Percentage,Units,28.54442
+DEU,Germany,RERD_ERD,"RE R&D budget, % total energy R&D budget",2003,2003,PC,Percentage,Units,18.35275
+DEU,Germany,RERD_ERD,"RE R&D budget, % total energy R&D budget",2004,2004,PC,Percentage,Units,15.34033
+DEU,Germany,RERD_ERD,"RE R&D budget, % total energy R&D budget",2005,2005,PC,Percentage,Units,23.32719
+DEU,Germany,RERD_ERD,"RE R&D budget, % total energy R&D budget",2006,2006,PC,Percentage,Units,22.33851
+DEU,Germany,RERD_ERD,"RE R&D budget, % total energy R&D budget",2007,2007,PC,Percentage,Units,22.08323
+DEU,Germany,RERD_ERD,"RE R&D budget, % total energy R&D budget",2008,2008,PC,Percentage,Units,24.85793
+DEU,Germany,RERD_ERD,"RE R&D budget, % total energy R&D budget",2009,2009,PC,Percentage,Units,30.76718
+DEU,Germany,RERD_ERD,"RE R&D budget, % total energy R&D budget",2010,2010,PC,Percentage,Units,30.66806
+DEU,Germany,RERD_ERD,"RE R&D budget, % total energy R&D budget",2011,2011,PC,Percentage,Units,34.06514
+DEU,Germany,RERD_ERD,"RE R&D budget, % total energy R&D budget",2012,2012,PC,Percentage,Units,33.83849
+DEU,Germany,RERD_ERD,"RE R&D budget, % total energy R&D budget",2013,2013,PC,Percentage,Units,31.63418
+DEU,Germany,RERD_ERD,"RE R&D budget, % total energy R&D budget",2014,2014,PC,Percentage,Units,30.69994
+DEU,Germany,RERD_ERD,"RE R&D budget, % total energy R&D budget",2015,2015,PC,Percentage,Units,30.44824
+DEU,Germany,RERD_ERD,"RE R&D budget, % total energy R&D budget",2016,2016,PC,Percentage,Units,27.83599
+DEU,Germany,RERD_ERD,"RE R&D budget, % total energy R&D budget",2017,2017,PC,Percentage,Units,29.00454
+DEU,Germany,RERD_ERD,"RE R&D budget, % total energy R&D budget",2018,2018,PC,Percentage,Units,19.66263
+DEU,Germany,RERD_ERD,"RE R&D budget, % total energy R&D budget",2019,2019,PC,Percentage,Units,21.00621
+DEU,Germany,GPAT_DE_AI,"Development of environment-related technologies, % inventions worldwide",2000,2000,PC,Percentage,Units,17.92
+DEU,Germany,GPAT_DE_AI,"Development of environment-related technologies, % inventions worldwide",2001,2001,PC,Percentage,Units,17.15
+DEU,Germany,GPAT_DE_AI,"Development of environment-related technologies, % inventions worldwide",2002,2002,PC,Percentage,Units,16.28
+DEU,Germany,GPAT_DE_AI,"Development of environment-related technologies, % inventions worldwide",2003,2003,PC,Percentage,Units,15.05
+DEU,Germany,GPAT_DE_AI,"Development of environment-related technologies, % inventions worldwide",2004,2004,PC,Percentage,Units,14.32
+DEU,Germany,GPAT_DE_AI,"Development of environment-related technologies, % inventions worldwide",2005,2005,PC,Percentage,Units,13.8
+DEU,Germany,GPAT_DE_AI,"Development of environment-related technologies, % inventions worldwide",2006,2006,PC,Percentage,Units,14.34
+DEU,Germany,GPAT_DE_AI,"Development of environment-related technologies, % inventions worldwide",2007,2007,PC,Percentage,Units,13.81
+DEU,Germany,GPAT_DE_AI,"Development of environment-related technologies, % inventions worldwide",2008,2008,PC,Percentage,Units,14.39
+DEU,Germany,GPAT_DE_AI,"Development of environment-related technologies, % inventions worldwide",2009,2009,PC,Percentage,Units,13.87
+DEU,Germany,GPAT_DE_AI,"Development of environment-related technologies, % inventions worldwide",2010,2010,PC,Percentage,Units,13.28
+DEU,Germany,GPAT_DE_AI,"Development of environment-related technologies, % inventions worldwide",2011,2011,PC,Percentage,Units,12.5
+DEU,Germany,GPAT_DE_AI,"Development of environment-related technologies, % inventions worldwide",2012,2012,PC,Percentage,Units,11.43
+DEU,Germany,GPAT_DE_AI,"Development of environment-related technologies, % inventions worldwide",2013,2013,PC,Percentage,Units,10.83
+DEU,Germany,GPAT_DE_AI,"Development of environment-related technologies, % inventions worldwide",2014,2014,PC,Percentage,Units,10.85
+DEU,Germany,GPAT_DE_AI,"Development of environment-related technologies, % inventions worldwide",2015,2015,PC,Percentage,Units,10.82
+DEU,Germany,GPAT_DE_AI,"Development of environment-related technologies, % inventions worldwide",2016,2016,PC,Percentage,Units,10.76
+DEU,Germany,GDP_RCAP,Real GDP per capita,2000,2000,USD,US Dollar,Units,40305.04
+DEU,Germany,GDP_RCAP,Real GDP per capita,2001,2001,USD,US Dollar,Units,40962.63
+DEU,Germany,GDP_RCAP,Real GDP per capita,2002,2002,USD,US Dollar,Units,40840.61
+DEU,Germany,GDP_RCAP,Real GDP per capita,2003,2003,USD,US Dollar,Units,40509.83
+DEU,Germany,GDP_RCAP,Real GDP per capita,2004,2004,USD,US Dollar,Units,40975.74
+DEU,Germany,GDP_RCAP,Real GDP per capita,2005,2005,USD,US Dollar,Units,41293.64
+DEU,Germany,GDP_RCAP,Real GDP per capita,2006,2006,USD,US Dollar,Units,42937.5
+DEU,Germany,GDP_RCAP,Real GDP per capita,2007,2007,USD,US Dollar,Units,44324.54
+DEU,Germany,GDP_RCAP,Real GDP per capita,2008,2008,USD,US Dollar,Units,44868.14
+DEU,Germany,GDP_RCAP,Real GDP per capita,2009,2009,USD,US Dollar,Units,42398.65
+DEU,Germany,GDP_RCAP,Real GDP per capita,2010,2010,USD,US Dollar,Units,44210.35
+DEU,Germany,GDP_RCAP,Real GDP per capita,2011,2011,USD,US Dollar,Units,45928.95
+DEU,Germany,GDP_RCAP,Real GDP per capita,2012,2012,USD,US Dollar,Units,46055
+DEU,Germany,GDP_RCAP,Real GDP per capita,2013,2013,USD,US Dollar,Units,46137.28
+DEU,Germany,GDP_RCAP,Real GDP per capita,2014,2014,USD,US Dollar,Units,47004.34
+DEU,Germany,GDP_RCAP,Real GDP per capita,2015,2015,USD,US Dollar,Units,47625.02
+DEU,Germany,GDP_RCAP,Real GDP per capita,2016,2016,USD,US Dollar,Units,48446.35
+DEU,Germany,GDP_RCAP,Real GDP per capita,2017,2017,USD,US Dollar,Units,49361.54
+DEU,Germany,GDP_RCAP,Real GDP per capita,2018,2018,USD,US Dollar,Units,49834.55
+DEU,Germany,GDP_RCAP,Real GDP per capita,2019,2019,USD,US Dollar,Units,49880.1
+KOR,Korea,NRG_INT,"Energy intensity, TPES per capita",2000,2000,TOE,Tonnes of oil equivalent (toe),Units,3.971318
+KOR,Korea,NRG_INT,"Energy intensity, TPES per capita",2001,2001,TOE,Tonnes of oil equivalent (toe),Units,4.004907
+KOR,Korea,NRG_INT,"Energy intensity, TPES per capita",2002,2002,TOE,Tonnes of oil equivalent (toe),Units,4.139664
+KOR,Korea,NRG_INT,"Energy intensity, TPES per capita",2003,2003,TOE,Tonnes of oil equivalent (toe),Units,4.201165
+KOR,Korea,NRG_INT,"Energy intensity, TPES per capita",2004,2004,TOE,Tonnes of oil equivalent (toe),Units,4.295984
+KOR,Korea,NRG_INT,"Energy intensity, TPES per capita",2005,2005,TOE,Tonnes of oil equivalent (toe),Units,4.317955
+KOR,Korea,NRG_INT,"Energy intensity, TPES per capita",2006,2006,TOE,Tonnes of oil equivalent (toe),Units,4.372648
+KOR,Korea,NRG_INT,"Energy intensity, TPES per capita",2007,2007,TOE,Tonnes of oil equivalent (toe),Units,4.532351
+KOR,Korea,NRG_INT,"Energy intensity, TPES per capita",2008,2008,TOE,Tonnes of oil equivalent (toe),Units,4.617805
+KOR,Korea,NRG_INT,"Energy intensity, TPES per capita",2009,2009,TOE,Tonnes of oil equivalent (toe),Units,4.646076
+KOR,Korea,NRG_INT,"Energy intensity, TPES per capita",2010,2010,TOE,Tonnes of oil equivalent (toe),Units,5.046438
+KOR,Korea,NRG_INT,"Energy intensity, TPES per capita",2011,2011,TOE,Tonnes of oil equivalent (toe),Units,5.232459
+KOR,Korea,NRG_INT,"Energy intensity, TPES per capita",2012,2012,TOE,Tonnes of oil equivalent (toe),Units,5.263237
+KOR,Korea,NRG_INT,"Energy intensity, TPES per capita",2013,2013,TOE,Tonnes of oil equivalent (toe),Units,5.240466
+KOR,Korea,NRG_INT,"Energy intensity, TPES per capita",2014,2014,TOE,Tonnes of oil equivalent (toe),Units,5.304172
+KOR,Korea,NRG_INT,"Energy intensity, TPES per capita",2015,2015,TOE,Tonnes of oil equivalent (toe),Units,5.365259
+KOR,Korea,NRG_INT,"Energy intensity, TPES per capita",2016,2016,TOE,Tonnes of oil equivalent (toe),Units,5.539288
+KOR,Korea,NRG_INT,"Energy intensity, TPES per capita",2017,2017,TOE,Tonnes of oil equivalent (toe),Units,5.523931
+KOR,Korea,NRG_INT,"Energy intensity, TPES per capita",2018,2018,TOE,Tonnes of oil equivalent (toe),Units,5.515881
+KOR,Korea,RE_TPES,"Renewable energy supply, % total energy supply",2000,2000,PC,Percentage,Units,0.4028529
+KOR,Korea,RE_TPES,"Renewable energy supply, % total energy supply",2001,2001,PC,Percentage,Units,0.4108678
+KOR,Korea,RE_TPES,"Renewable energy supply, % total energy supply",2002,2002,PC,Percentage,Units,0.4106652
+KOR,Korea,RE_TPES,"Renewable energy supply, % total energy supply",2003,2003,PC,Percentage,Units,0.4966659
+KOR,Korea,RE_TPES,"Renewable energy supply, % total energy supply",2004,2004,PC,Percentage,Units,0.460814
+KOR,Korea,RE_TPES,"Renewable energy supply, % total energy supply",2005,2005,PC,Percentage,Units,0.5131034
+KOR,Korea,RE_TPES,"Renewable energy supply, % total energy supply",2006,2006,PC,Percentage,Units,0.5516125
+KOR,Korea,RE_TPES,"Renewable energy supply, % total energy supply",2007,2007,PC,Percentage,Units,0.5948444
+KOR,Korea,RE_TPES,"Renewable energy supply, % total energy supply",2008,2008,PC,Percentage,Units,0.6001365
+KOR,Korea,RE_TPES,"Renewable energy supply, % total energy supply",2009,2009,PC,Percentage,Units,0.6638404
+KOR,Korea,RE_TPES,"Renewable energy supply, % total energy supply",2010,2010,PC,Percentage,Units,0.7247159
+KOR,Korea,RE_TPES,"Renewable energy supply, % total energy supply",2011,2011,PC,Percentage,Units,0.7447103
+KOR,Korea,RE_TPES,"Renewable energy supply, % total energy supply",2012,2012,PC,Percentage,Units,0.8638194
+KOR,Korea,RE_TPES,"Renewable energy supply, % total energy supply",2013,2013,PC,Percentage,Units,1.005932
+KOR,Korea,RE_TPES,"Renewable energy supply, % total energy supply",2014,2014,PC,Percentage,Units,1.465915
+KOR,Korea,RE_TPES,"Renewable energy supply, % total energy supply",2015,2015,PC,Percentage,Units,1.475728
+KOR,Korea,RE_TPES,"Renewable energy supply, % total energy supply",2016,2016,PC,Percentage,Units,1.522244
+KOR,Korea,RE_TPES,"Renewable energy supply, % total energy supply",2017,2017,PC,Percentage,Units,1.671904
+KOR,Korea,RE_TPES,"Renewable energy supply, % total energy supply",2018,2018,PC,Percentage,Units,1.943619
+KOR,Korea,RE_NRG,"Renewable electricity, % total electricity generation",2000,2000,PC,Percentage,Units,1.424828
+KOR,Korea,RE_NRG,"Renewable electricity, % total electricity generation",2001,2001,PC,Percentage,Units,1.377383
+KOR,Korea,RE_NRG,"Renewable electricity, % total electricity generation",2002,2002,PC,Percentage,Units,1.041224
+KOR,Korea,RE_NRG,"Renewable electricity, % total electricity generation",2003,2003,PC,Percentage,Units,1.492755
+KOR,Korea,RE_NRG,"Renewable electricity, % total electricity generation",2004,2004,PC,Percentage,Units,1.263188
+KOR,Korea,RE_NRG,"Renewable electricity, % total electricity generation",2005,2005,PC,Percentage,Units,1.044669
+KOR,Korea,RE_NRG,"Renewable electricity, % total electricity generation",2006,2006,PC,Percentage,Units,0.9988316
+KOR,Korea,RE_NRG,"Renewable electricity, % total electricity generation",2007,2007,PC,Percentage,Units,1.069957
+KOR,Korea,RE_NRG,"Renewable electricity, % total electricity generation",2008,2008,PC,Percentage,Units,0.9857277
+KOR,Korea,RE_NRG,"Renewable electricity, % total electricity generation",2009,2009,PC,Percentage,Units,1.037691
+KOR,Korea,RE_NRG,"Renewable electricity, % total electricity generation",2010,2010,PC,Percentage,Units,1.245375
+KOR,Korea,RE_NRG,"Renewable electricity, % total electricity generation",2011,2011,PC,Percentage,Units,1.438123
+KOR,Korea,RE_NRG,"Renewable electricity, % total electricity generation",2012,2012,PC,Percentage,Units,1.335945
+KOR,Korea,RE_NRG,"Renewable electricity, % total electricity generation",2013,2013,PC,Percentage,Units,1.632859
+KOR,Korea,RE_NRG,"Renewable electricity, % total electricity generation",2014,2014,PC,Percentage,Units,1.566868
+KOR,Korea,RE_NRG,"Renewable electricity, % total electricity generation",2015,2015,PC,Percentage,Units,1.938268
+KOR,Korea,RE_NRG,"Renewable electricity, % total electricity generation",2016,2016,PC,Percentage,Units,2.842438
+KOR,Korea,RE_NRG,"Renewable electricity, % total electricity generation",2017,2017,PC,Percentage,Units,3.309265
+KOR,Korea,RE_NRG,"Renewable electricity, % total electricity generation",2018,2018,PC,Percentage,Units,3.928011
+KOR,Korea,ENVRD_GBAORD,"Green R&D budget, % total R&D budget",2000,2000,PC,Percentage,Units,3.754297
+KOR,Korea,ENVRD_GBAORD,"Green R&D budget, % total R&D budget",2001,2001,PC,Percentage,Units,4.495556
+KOR,Korea,ENVRD_GBAORD,"Green R&D budget, % total R&D budget",2002,2002,PC,Percentage,Units,4.540258
+KOR,Korea,ENVRD_GBAORD,"Green R&D budget, % total R&D budget",2003,2003,PC,Percentage,Units,4.400375
+KOR,Korea,ENVRD_GBAORD,"Green R&D budget, % total R&D budget",2004,2004,PC,Percentage,Units,4.605295
+KOR,Korea,ENVRD_GBAORD,"Green R&D budget, % total R&D budget",2005,2005,PC,Percentage,Units,4.131288
+KOR,Korea,ENVRD_GBAORD,"Green R&D budget, % total R&D budget",2006,2006,PC,Percentage,Units,2.89236
+KOR,Korea,ENVRD_GBAORD,"Green R&D budget, % total R&D budget",2007,2007,PC,Percentage,Units,2.765033
+KOR,Korea,ENVRD_GBAORD,"Green R&D budget, % total R&D budget",2008,2008,PC,Percentage,Units,2.648652
+KOR,Korea,ENVRD_GBAORD,"Green R&D budget, % total R&D budget",2009,2009,PC,Percentage,Units,2.225713
+KOR,Korea,ENVRD_GBAORD,"Green R&D budget, % total R&D budget",2010,2010,PC,Percentage,Units,2.065959
+KOR,Korea,ENVRD_GBAORD,"Green R&D budget, % total R&D budget",2011,2011,PC,Percentage,Units,2.594756
+KOR,Korea,ENVRD_GBAORD,"Green R&D budget, % total R&D budget",2012,2012,PC,Percentage,Units,2.333463
+KOR,Korea,ENVRD_GBAORD,"Green R&D budget, % total R&D budget",2013,2013,PC,Percentage,Units,2.272367
+KOR,Korea,ENVRD_GBAORD,"Green R&D budget, % total R&D budget",2014,2014,PC,Percentage,Units,2.349635
+KOR,Korea,ENVRD_GBAORD,"Green R&D budget, % total R&D budget",2015,2015,PC,Percentage,Units,2.520677
+KOR,Korea,ENVRD_GBAORD,"Green R&D budget, % total R&D budget",2016,2016,PC,Percentage,Units,2.649561
+KOR,Korea,ENVRD_GBAORD,"Green R&D budget, % total R&D budget",2017,2017,PC,Percentage,Units,2.821692
+KOR,Korea,ENVRD_GBAORD,"Green R&D budget, % total R&D budget",2018,2018,PC,Percentage,Units,3.003868
+KOR,Korea,RERD_ERD,"RE R&D budget, % total energy R&D budget",2002,2002,PC,Percentage,Units,11.01561
+KOR,Korea,RERD_ERD,"RE R&D budget, % total energy R&D budget",2004,2004,PC,Percentage,Units,10.49748
+KOR,Korea,RERD_ERD,"RE R&D budget, % total energy R&D budget",2005,2005,PC,Percentage,Units,14.795
+KOR,Korea,RERD_ERD,"RE R&D budget, % total energy R&D budget",2006,2006,PC,Percentage,Units,15.63034
+KOR,Korea,RERD_ERD,"RE R&D budget, % total energy R&D budget",2007,2007,PC,Percentage,Units,13.84414
+KOR,Korea,RERD_ERD,"RE R&D budget, % total energy R&D budget",2008,2008,PC,Percentage,Units,20.02136
+KOR,Korea,RERD_ERD,"RE R&D budget, % total energy R&D budget",2009,2009,PC,Percentage,Units,24.34491
+KOR,Korea,RERD_ERD,"RE R&D budget, % total energy R&D budget",2010,2010,PC,Percentage,Units,28.10475
+KOR,Korea,RERD_ERD,"RE R&D budget, % total energy R&D budget",2011,2011,PC,Percentage,Units,26.21754
+KOR,Korea,RERD_ERD,"RE R&D budget, % total energy R&D budget",2012,2012,PC,Percentage,Units,22.32899
+KOR,Korea,RERD_ERD,"RE R&D budget, % total energy R&D budget",2013,2013,PC,Percentage,Units,25.95957
+KOR,Korea,RERD_ERD,"RE R&D budget, % total energy R&D budget",2014,2014,PC,Percentage,Units,24.93197
+KOR,Korea,RERD_ERD,"RE R&D budget, % total energy R&D budget",2015,2015,PC,Percentage,Units,23.19096
+KOR,Korea,RERD_ERD,"RE R&D budget, % total energy R&D budget",2016,2016,PC,Percentage,Units,26.29036
+KOR,Korea,RERD_ERD,"RE R&D budget, % total energy R&D budget",2017,2017,PC,Percentage,Units,24.34934
+KOR,Korea,RERD_ERD,"RE R&D budget, % total energy R&D budget",2018,2018,PC,Percentage,Units,24.84289
+KOR,Korea,GPAT_DE_AI,"Development of environment-related technologies, % inventions worldwide",2000,2000,PC,Percentage,Units,2.66
+KOR,Korea,GPAT_DE_AI,"Development of environment-related technologies, % inventions worldwide",2001,2001,PC,Percentage,Units,2.71
+KOR,Korea,GPAT_DE_AI,"Development of environment-related technologies, % inventions worldwide",2002,2002,PC,Percentage,Units,3.16
+KOR,Korea,GPAT_DE_AI,"Development of environment-related technologies, % inventions worldwide",2003,2003,PC,Percentage,Units,4.1
+KOR,Korea,GPAT_DE_AI,"Development of environment-related technologies, % inventions worldwide",2004,2004,PC,Percentage,Units,5.28
+KOR,Korea,GPAT_DE_AI,"Development of environment-related technologies, % inventions worldwide",2005,2005,PC,Percentage,Units,6.1
+KOR,Korea,GPAT_DE_AI,"Development of environment-related technologies, % inventions worldwide",2006,2006,PC,Percentage,Units,6.15
+KOR,Korea,GPAT_DE_AI,"Development of environment-related technologies, % inventions worldwide",2007,2007,PC,Percentage,Units,5.89
+KOR,Korea,GPAT_DE_AI,"Development of environment-related technologies, % inventions worldwide",2008,2008,PC,Percentage,Units,6.25
+KOR,Korea,GPAT_DE_AI,"Development of environment-related technologies, % inventions worldwide",2009,2009,PC,Percentage,Units,7.79
+KOR,Korea,GPAT_DE_AI,"Development of environment-related technologies, % inventions worldwide",2010,2010,PC,Percentage,Units,8.66
+KOR,Korea,GPAT_DE_AI,"Development of environment-related technologies, % inventions worldwide",2011,2011,PC,Percentage,Units,8.78
+KOR,Korea,GPAT_DE_AI,"Development of environment-related technologies, % inventions worldwide",2012,2012,PC,Percentage,Units,9.14
+KOR,Korea,GPAT_DE_AI,"Development of environment-related technologies, % inventions worldwide",2013,2013,PC,Percentage,Units,9.6
+KOR,Korea,GPAT_DE_AI,"Development of environment-related technologies, % inventions worldwide",2014,2014,PC,Percentage,Units,10.9
+KOR,Korea,GPAT_DE_AI,"Development of environment-related technologies, % inventions worldwide",2015,2015,PC,Percentage,Units,10.16
+KOR,Korea,GPAT_DE_AI,"Development of environment-related technologies, % inventions worldwide",2016,2016,PC,Percentage,Units,11.02
+KOR,Korea,GDP_RCAP,Real GDP per capita,2000,2000,USD,US Dollar,Units,22243.2
+KOR,Korea,GDP_RCAP,Real GDP per capita,2001,2001,USD,US Dollar,Units,23162.67
+KOR,Korea,GDP_RCAP,Real GDP per capita,2002,2002,USD,US Dollar,Units,24799.54
+KOR,Korea,GDP_RCAP,Real GDP per capita,2003,2003,USD,US Dollar,Units,25441.53
+KOR,Korea,GDP_RCAP,Real GDP per capita,2004,2004,USD,US Dollar,Units,26635.48
+KOR,Korea,GDP_RCAP,Real GDP per capita,2005,2005,USD,US Dollar,Units,27664.64
+KOR,Korea,GDP_RCAP,Real GDP per capita,2006,2006,USD,US Dollar,Units,29014.13
+KOR,Korea,GDP_RCAP,Real GDP per capita,2007,2007,USD,US Dollar,Units,30600.18
+KOR,Korea,GDP_RCAP,Real GDP per capita,2008,2008,USD,US Dollar,Units,31427.53
+KOR,Korea,GDP_RCAP,Real GDP per capita,2009,2009,USD,US Dollar,Units,31570.75
+KOR,Korea,GDP_RCAP,Real GDP per capita,2010,2010,USD,US Dollar,Units,33584.2
+KOR,Korea,GDP_RCAP,Real GDP per capita,2011,2011,USD,US Dollar,Units,34653.78
+KOR,Korea,GDP_RCAP,Real GDP per capita,2012,2012,USD,US Dollar,Units,35291.77
+KOR,Korea,GDP_RCAP,Real GDP per capita,2013,2013,USD,US Dollar,Units,36202.49
+KOR,Korea,GDP_RCAP,Real GDP per capita,2014,2014,USD,US Dollar,Units,37168.3
+KOR,Korea,GDP_RCAP,Real GDP per capita,2015,2015,USD,US Dollar,Units,38050.61
+KOR,Korea,GDP_RCAP,Real GDP per capita,2016,2016,USD,US Dollar,Units,39048.7
+KOR,Korea,GDP_RCAP,Real GDP per capita,2017,2017,USD,US Dollar,Units,40193.44
+KOR,Korea,GDP_RCAP,Real GDP per capita,2018,2018,USD,US Dollar,Units,41203.86
+KOR,Korea,GDP_RCAP,Real GDP per capita,2019,2019,USD,US Dollar,Units,41997.59
+NLD,Netherlands,NRG_INT,"Energy intensity, TPES per capita",2000,2000,TOE,Tonnes of oil equivalent (toe),Units,4.69516
+NLD,Netherlands,NRG_INT,"Energy intensity, TPES per capita",2001,2001,TOE,Tonnes of oil equivalent (toe),Units,4.791638
+NLD,Netherlands,NRG_INT,"Energy intensity, TPES per capita",2002,2002,TOE,Tonnes of oil equivalent (toe),Units,4.816095
+NLD,Netherlands,NRG_INT,"Energy intensity, TPES per capita",2003,2003,TOE,Tonnes of oil equivalent (toe),Units,4.966931
+NLD,Netherlands,NRG_INT,"Energy intensity, TPES per capita",2004,2004,TOE,Tonnes of oil equivalent (toe),Units,4.984042
+NLD,Netherlands,NRG_INT,"Energy intensity, TPES per capita",2005,2005,TOE,Tonnes of oil equivalent (toe),Units,4.882828
+NLD,Netherlands,NRG_INT,"Energy intensity, TPES per capita",2006,2006,TOE,Tonnes of oil equivalent (toe),Units,4.813112
+NLD,Netherlands,NRG_INT,"Energy intensity, TPES per capita",2007,2007,TOE,Tonnes of oil equivalent (toe),Units,4.775953
+NLD,Netherlands,NRG_INT,"Energy intensity, TPES per capita",2008,2008,TOE,Tonnes of oil equivalent (toe),Units,4.719912
+NLD,Netherlands,NRG_INT,"Energy intensity, TPES per capita",2009,2009,TOE,Tonnes of oil equivalent (toe),Units,4.638954
+NLD,Netherlands,NRG_INT,"Energy intensity, TPES per capita",2010,2010,TOE,Tonnes of oil equivalent (toe),Units,4.958722
+NLD,Netherlands,NRG_INT,"Energy intensity, TPES per capita",2011,2011,TOE,Tonnes of oil equivalent (toe),Units,4.599482
+NLD,Netherlands,NRG_INT,"Energy intensity, TPES per capita",2012,2012,TOE,Tonnes of oil equivalent (toe),Units,4.589131
+NLD,Netherlands,NRG_INT,"Energy intensity, TPES per capita",2013,2013,TOE,Tonnes of oil equivalent (toe),Units,4.478223
+NLD,Netherlands,NRG_INT,"Energy intensity, TPES per capita",2014,2014,TOE,Tonnes of oil equivalent (toe),Units,4.20849
+NLD,Netherlands,NRG_INT,"Energy intensity, TPES per capita",2015,2015,TOE,Tonnes of oil equivalent (toe),Units,4.255219
+NLD,Netherlands,NRG_INT,"Energy intensity, TPES per capita",2016,2016,TOE,Tonnes of oil equivalent (toe),Units,4.333712
+NLD,Netherlands,NRG_INT,"Energy intensity, TPES per capita",2017,2017,TOE,Tonnes of oil equivalent (toe),Units,4.361818
+NLD,Netherlands,NRG_INT,"Energy intensity, TPES per capita",2018,2018,TOE,Tonnes of oil equivalent (toe),Units,4.275257
+NLD,Netherlands,RE_TPES,"Renewable energy supply, % total energy supply",2000,2000,PC,Percentage,Units,1.796031
+NLD,Netherlands,RE_TPES,"Renewable energy supply, % total energy supply",2001,2001,PC,Percentage,Units,1.843576
+NLD,Netherlands,RE_TPES,"Renewable energy supply, % total energy supply",2002,2002,PC,Percentage,Units,2.002861
+NLD,Netherlands,RE_TPES,"Renewable energy supply, % total energy supply",2003,2003,PC,Percentage,Units,1.885198
+NLD,Netherlands,RE_TPES,"Renewable energy supply, % total energy supply",2004,2004,PC,Percentage,Units,2.212476
+NLD,Netherlands,RE_TPES,"Renewable energy supply, % total energy supply",2005,2005,PC,Percentage,Units,2.820391
+NLD,Netherlands,RE_TPES,"Renewable energy supply, % total energy supply",2006,2006,PC,Percentage,Units,3.034324
+NLD,Netherlands,RE_TPES,"Renewable energy supply, % total energy supply",2007,2007,PC,Percentage,Units,3.178791
+NLD,Netherlands,RE_TPES,"Renewable energy supply, % total energy supply",2008,2008,PC,Percentage,Units,3.707161
+NLD,Netherlands,RE_TPES,"Renewable energy supply, % total energy supply",2009,2009,PC,Percentage,Units,4.226685
+NLD,Netherlands,RE_TPES,"Renewable energy supply, % total energy supply",2010,2010,PC,Percentage,Units,3.928632
+NLD,Netherlands,RE_TPES,"Renewable energy supply, % total energy supply",2011,2011,PC,Percentage,Units,4.46439
+NLD,Netherlands,RE_TPES,"Renewable energy supply, % total energy supply",2012,2012,PC,Percentage,Units,4.580846
+NLD,Netherlands,RE_TPES,"Renewable energy supply, % total energy supply",2013,2013,PC,Percentage,Units,4.524785
+NLD,Netherlands,RE_TPES,"Renewable energy supply, % total energy supply",2014,2014,PC,Percentage,Units,4.783942
+NLD,Netherlands,RE_TPES,"Renewable energy supply, % total energy supply",2015,2015,PC,Percentage,Units,4.965523
+NLD,Netherlands,RE_TPES,"Renewable energy supply, % total energy supply",2016,2016,PC,Percentage,Units,5.008697
+NLD,Netherlands,RE_TPES,"Renewable energy supply, % total energy supply",2017,2017,PC,Percentage,Units,5.417273
+NLD,Netherlands,RE_TPES,"Renewable energy supply, % total energy supply",2018,2018,PC,Percentage,Units,6.04382
+NLD,Netherlands,RE_NRG,"Renewable electricity, % total electricity generation",2000,2000,PC,Percentage,Units,3.314738
+NLD,Netherlands,RE_NRG,"Renewable electricity, % total electricity generation",2001,2001,PC,Percentage,Units,3.525405
+NLD,Netherlands,RE_NRG,"Renewable electricity, % total electricity generation",2002,2002,PC,Percentage,Units,4.141401
+NLD,Netherlands,RE_NRG,"Renewable electricity, % total electricity generation",2003,2003,PC,Percentage,Units,4.092214
+NLD,Netherlands,RE_NRG,"Renewable electricity, % total electricity generation",2004,2004,PC,Percentage,Units,5.243346
+NLD,Netherlands,RE_NRG,"Renewable electricity, % total electricity generation",2005,2005,PC,Percentage,Units,7.452739
+NLD,Netherlands,RE_NRG,"Renewable electricity, % total electricity generation",2006,2006,PC,Percentage,Units,8.145135
+NLD,Netherlands,RE_NRG,"Renewable electricity, % total electricity generation",2007,2007,PC,Percentage,Units,7.210642
+NLD,Netherlands,RE_NRG,"Renewable electricity, % total electricity generation",2008,2008,PC,Percentage,Units,8.86176
+NLD,Netherlands,RE_NRG,"Renewable electricity, % total electricity generation",2009,2009,PC,Percentage,Units,9.530386
+NLD,Netherlands,RE_NRG,"Renewable electricity, % total electricity generation",2010,2010,PC,Percentage,Units,9.388022
+NLD,Netherlands,RE_NRG,"Renewable electricity, % total electricity generation",2011,2011,PC,Percentage,Units,10.81072
+NLD,Netherlands,RE_NRG,"Renewable electricity, % total electricity generation",2012,2012,PC,Percentage,Units,12.08989
+NLD,Netherlands,RE_NRG,"Renewable electricity, % total electricity generation",2013,2013,PC,Percentage,Units,11.91184
+NLD,Netherlands,RE_NRG,"Renewable electricity, % total electricity generation",2014,2014,PC,Percentage,Units,11.26968
+NLD,Netherlands,RE_NRG,"Renewable electricity, % total electricity generation",2015,2015,PC,Percentage,Units,12.39808
+NLD,Netherlands,RE_NRG,"Renewable electricity, % total electricity generation",2016,2016,PC,Percentage,Units,12.82592
+NLD,Netherlands,RE_NRG,"Renewable electricity, % total electricity generation",2017,2017,PC,Percentage,Units,14.86999
+NLD,Netherlands,RE_NRG,"Renewable electricity, % total electricity generation",2018,2018,PC,Percentage,Units,16.49719
+NLD,Netherlands,ENVRD_GBAORD,"Green R&D budget, % total R&D budget",2000,2000,PC,Percentage,Units,3.471484
+NLD,Netherlands,ENVRD_GBAORD,"Green R&D budget, % total R&D budget",2001,2001,PC,Percentage,Units,3.031293
+NLD,Netherlands,ENVRD_GBAORD,"Green R&D budget, % total R&D budget",2002,2002,PC,Percentage,Units,2.630492
+NLD,Netherlands,ENVRD_GBAORD,"Green R&D budget, % total R&D budget",2003,2003,PC,Percentage,Units,2.507164
+NLD,Netherlands,ENVRD_GBAORD,"Green R&D budget, % total R&D budget",2004,2004,PC,Percentage,Units,1.707712
+NLD,Netherlands,ENVRD_GBAORD,"Green R&D budget, % total R&D budget",2005,2005,PC,Percentage,Units,1.098661
+NLD,Netherlands,ENVRD_GBAORD,"Green R&D budget, % total R&D budget",2006,2006,PC,Percentage,Units,1.864875
+NLD,Netherlands,ENVRD_GBAORD,"Green R&D budget, % total R&D budget",2007,2007,PC,Percentage,Units,0.6529313
+NLD,Netherlands,ENVRD_GBAORD,"Green R&D budget, % total R&D budget",2008,2008,PC,Percentage,Units,0.4116906
+NLD,Netherlands,ENVRD_GBAORD,"Green R&D budget, % total R&D budget",2009,2009,PC,Percentage,Units,0.2855424
+NLD,Netherlands,ENVRD_GBAORD,"Green R&D budget, % total R&D budget",2010,2010,PC,Percentage,Units,0.04669468
+NLD,Netherlands,ENVRD_GBAORD,"Green R&D budget, % total R&D budget",2011,2011,PC,Percentage,Units,0.8497548
+NLD,Netherlands,ENVRD_GBAORD,"Green R&D budget, % total R&D budget",2012,2012,PC,Percentage,Units,0.8914481
+NLD,Netherlands,ENVRD_GBAORD,"Green R&D budget, % total R&D budget",2013,2013,PC,Percentage,Units,0.722629
+NLD,Netherlands,ENVRD_GBAORD,"Green R&D budget, % total R&D budget",2014,2014,PC,Percentage,Units,0.5483622
+NLD,Netherlands,ENVRD_GBAORD,"Green R&D budget, % total R&D budget",2015,2015,PC,Percentage,Units,0.643433
+NLD,Netherlands,ENVRD_GBAORD,"Green R&D budget, % total R&D budget",2016,2016,PC,Percentage,Units,0.5895011
+NLD,Netherlands,ENVRD_GBAORD,"Green R&D budget, % total R&D budget",2017,2017,PC,Percentage,Units,0.6577365
+NLD,Netherlands,ENVRD_GBAORD,"Green R&D budget, % total R&D budget",2018,2018,PC,Percentage,Units,0.6358107
+NLD,Netherlands,ENVRD_GBAORD,"Green R&D budget, % total R&D budget",2019,2019,PC,Percentage,Units,0.7120605
+NLD,Netherlands,RERD_ERD,"RE R&D budget, % total energy R&D budget",2000,2000,PC,Percentage,Units,24.102
+NLD,Netherlands,RERD_ERD,"RE R&D budget, % total energy R&D budget",2001,2001,PC,Percentage,Units,25.75288
+NLD,Netherlands,RERD_ERD,"RE R&D budget, % total energy R&D budget",2002,2002,PC,Percentage,Units,31.34058
+NLD,Netherlands,RERD_ERD,"RE R&D budget, % total energy R&D budget",2003,2003,PC,Percentage,Units,37.8057
+NLD,Netherlands,RERD_ERD,"RE R&D budget, % total energy R&D budget",2005,2005,PC,Percentage,Units,33.02905
+NLD,Netherlands,RERD_ERD,"RE R&D budget, % total energy R&D budget",2006,2006,PC,Percentage,Units,34.53183
+NLD,Netherlands,RERD_ERD,"RE R&D budget, % total energy R&D budget",2007,2007,PC,Percentage,Units,32.05005
+NLD,Netherlands,RERD_ERD,"RE R&D budget, % total energy R&D budget",2008,2008,PC,Percentage,Units,31.88897
+NLD,Netherlands,RERD_ERD,"RE R&D budget, % total energy R&D budget",2009,2009,PC,Percentage,Units,29.22485
+NLD,Netherlands,RERD_ERD,"RE R&D budget, % total energy R&D budget",2010,2010,PC,Percentage,Units,39.52058
+NLD,Netherlands,RERD_ERD,"RE R&D budget, % total energy R&D budget",2011,2011,PC,Percentage,Units,35.41788
+NLD,Netherlands,RERD_ERD,"RE R&D budget, % total energy R&D budget",2012,2012,PC,Percentage,Units,46.54959
+NLD,Netherlands,RERD_ERD,"RE R&D budget, % total energy R&D budget",2013,2013,PC,Percentage,Units,48.23083
+NLD,Netherlands,RERD_ERD,"RE R&D budget, % total energy R&D budget",2014,2014,PC,Percentage,Units,41.7243
+NLD,Netherlands,RERD_ERD,"RE R&D budget, % total energy R&D budget",2015,2015,PC,Percentage,Units,55.78926
+NLD,Netherlands,RERD_ERD,"RE R&D budget, % total energy R&D budget",2016,2016,PC,Percentage,Units,42.3017
+NLD,Netherlands,RERD_ERD,"RE R&D budget, % total energy R&D budget",2017,2017,PC,Percentage,Units,40.50536
+NLD,Netherlands,RERD_ERD,"RE R&D budget, % total energy R&D budget",2018,2018,PC,Percentage,Units,42.91097
+NLD,Netherlands,GPAT_DE_AI,"Development of environment-related technologies, % inventions worldwide",2000,2000,PC,Percentage,Units,1.35
+NLD,Netherlands,GPAT_DE_AI,"Development of environment-related technologies, % inventions worldwide",2001,2001,PC,Percentage,Units,1.35
+NLD,Netherlands,GPAT_DE_AI,"Development of environment-related technologies, % inventions worldwide",2002,2002,PC,Percentage,Units,1.32
+NLD,Netherlands,GPAT_DE_AI,"Development of environment-related technologies, % inventions worldwide",2003,2003,PC,Percentage,Units,1.33
+NLD,Netherlands,GPAT_DE_AI,"Development of environment-related technologies, % inventions worldwide",2004,2004,PC,Percentage,Units,1.29
+NLD,Netherlands,GPAT_DE_AI,"Development of environment-related technologies, % inventions worldwide",2005,2005,PC,Percentage,Units,1.25
+NLD,Netherlands,GPAT_DE_AI,"Development of environment-related technologies, % inventions worldwide",2006,2006,PC,Percentage,Units,1.3
+NLD,Netherlands,GPAT_DE_AI,"Development of environment-related technologies, % inventions worldwide",2007,2007,PC,Percentage,Units,1.41
+NLD,Netherlands,GPAT_DE_AI,"Development of environment-related technologies, % inventions worldwide",2008,2008,PC,Percentage,Units,1.42
+NLD,Netherlands,GPAT_DE_AI,"Development of environment-related technologies, % inventions worldwide",2009,2009,PC,Percentage,Units,1.5
+NLD,Netherlands,GPAT_DE_AI,"Development of environment-related technologies, % inventions worldwide",2010,2010,PC,Percentage,Units,1.23
+NLD,Netherlands,GPAT_DE_AI,"Development of environment-related technologies, % inventions worldwide",2011,2011,PC,Percentage,Units,1.34
+NLD,Netherlands,GPAT_DE_AI,"Development of environment-related technologies, % inventions worldwide",2012,2012,PC,Percentage,Units,1.25
+NLD,Netherlands,GPAT_DE_AI,"Development of environment-related technologies, % inventions worldwide",2013,2013,PC,Percentage,Units,1.11
+NLD,Netherlands,GPAT_DE_AI,"Development of environment-related technologies, % inventions worldwide",2014,2014,PC,Percentage,Units,1.13
+NLD,Netherlands,GPAT_DE_AI,"Development of environment-related technologies, % inventions worldwide",2015,2015,PC,Percentage,Units,1.27
+NLD,Netherlands,GPAT_DE_AI,"Development of environment-related technologies, % inventions worldwide",2016,2016,PC,Percentage,Units,1.26
+NLD,Netherlands,GDP_RCAP,Real GDP per capita,2000,2000,USD,US Dollar,Units,45028.29
+NLD,Netherlands,GDP_RCAP,Real GDP per capita,2001,2001,USD,US Dollar,Units,45811.66
+NLD,Netherlands,GDP_RCAP,Real GDP per capita,2002,2002,USD,US Dollar,Units,45648.32
+NLD,Netherlands,GDP_RCAP,Real GDP per capita,2003,2003,USD,US Dollar,Units,45463.71
+NLD,Netherlands,GDP_RCAP,Real GDP per capita,2004,2004,USD,US Dollar,Units,46120.65
+NLD,Netherlands,GDP_RCAP,Real GDP per capita,2005,2005,USD,US Dollar,Units,46836.56
+NLD,Netherlands,GDP_RCAP,Real GDP per capita,2006,2006,USD,US Dollar,Units,48242.58
+NLD,Netherlands,GDP_RCAP,Real GDP per capita,2007,2007,USD,US Dollar,Units,49860.83
+NLD,Netherlands,GDP_RCAP,Real GDP per capita,2008,2008,USD,US Dollar,Units,50754.02
+NLD,Netherlands,GDP_RCAP,Real GDP per capita,2009,2009,USD,US Dollar,Units,48721.56
+NLD,Netherlands,GDP_RCAP,Real GDP per capita,2010,2010,USD,US Dollar,Units,49208.4
+NLD,Netherlands,GDP_RCAP,Real GDP per capita,2011,2011,USD,US Dollar,Units,49806.73
+NLD,Netherlands,GDP_RCAP,Real GDP per capita,2012,2012,USD,US Dollar,Units,49136.02
+NLD,Netherlands,GDP_RCAP,Real GDP per capita,2013,2013,USD,US Dollar,Units,48921.55
+NLD,Netherlands,GDP_RCAP,Real GDP per capita,2014,2014,USD,US Dollar,Units,49473.95
+NLD,Netherlands,GDP_RCAP,Real GDP per capita,2015,2015,USD,US Dollar,Units,50306.32
+NLD,Netherlands,GDP_RCAP,Real GDP per capita,2016,2016,USD,US Dollar,Units,51279.34
+NLD,Netherlands,GDP_RCAP,Real GDP per capita,2017,2017,USD,US Dollar,Units,52647.83
+NLD,Netherlands,GDP_RCAP,Real GDP per capita,2018,2018,USD,US Dollar,Units,53894.33
+NLD,Netherlands,GDP_RCAP,Real GDP per capita,2019,2019,USD,US Dollar,Units,54749.54
+USA,United States,NRG_INT,"Energy intensity, TPES per capita",2000,2000,TOE,Tonnes of oil equivalent (toe),Units,8.071317
+USA,United States,NRG_INT,"Energy intensity, TPES per capita",2001,2001,TOE,Tonnes of oil equivalent (toe),Units,7.837717
+USA,United States,NRG_INT,"Energy intensity, TPES per capita",2002,2002,TOE,Tonnes of oil equivalent (toe),Units,7.853214
+USA,United States,NRG_INT,"Energy intensity, TPES per capita",2003,2003,TOE,Tonnes of oil equivalent (toe),Units,7.802535
+USA,United States,NRG_INT,"Energy intensity, TPES per capita",2004,2004,TOE,Tonnes of oil equivalent (toe),Units,7.894199
+USA,United States,NRG_INT,"Energy intensity, TPES per capita",2005,2005,TOE,Tonnes of oil equivalent (toe),Units,7.860929
+USA,United States,NRG_INT,"Energy intensity, TPES per capita",2006,2006,TOE,Tonnes of oil equivalent (toe),Units,7.714072
+USA,United States,NRG_INT,"Energy intensity, TPES per capita",2007,2007,TOE,Tonnes of oil equivalent (toe),Units,7.7758
+USA,United States,NRG_INT,"Energy intensity, TPES per capita",2008,2008,TOE,Tonnes of oil equivalent (toe),Units,7.503621
+USA,United States,NRG_INT,"Energy intensity, TPES per capita",2009,2009,TOE,Tonnes of oil equivalent (toe),Units,7.067524
+USA,United States,NRG_INT,"Energy intensity, TPES per capita",2010,2010,TOE,Tonnes of oil equivalent (toe),Units,7.174129
+USA,United States,NRG_INT,"Energy intensity, TPES per capita",2011,2011,TOE,Tonnes of oil equivalent (toe),Units,7.018312
+USA,United States,NRG_INT,"Energy intensity, TPES per capita",2012,2012,TOE,Tonnes of oil equivalent (toe),Units,6.83857
+USA,United States,NRG_INT,"Energy intensity, TPES per capita",2013,2013,TOE,Tonnes of oil equivalent (toe),Units,6.904277
+USA,United States,NRG_INT,"Energy intensity, TPES per capita",2014,2014,TOE,Tonnes of oil equivalent (toe),Units,6.937186
+USA,United States,NRG_INT,"Energy intensity, TPES per capita",2015,2015,TOE,Tonnes of oil equivalent (toe),Units,6.814001
+USA,United States,NRG_INT,"Energy intensity, TPES per capita",2016,2016,TOE,Tonnes of oil equivalent (toe),Units,6.696414
+USA,United States,NRG_INT,"Energy intensity, TPES per capita",2017,2017,TOE,Tonnes of oil equivalent (toe),Units,6.629748
+USA,United States,NRG_INT,"Energy intensity, TPES per capita",2018,2018,TOE,Tonnes of oil equivalent (toe),Units,6.819919
+USA,United States,RE_TPES,"Renewable energy supply, % total energy supply",2000,2000,PC,Percentage,Units,4.484783
+USA,United States,RE_TPES,"Renewable energy supply, % total energy supply",2001,2001,PC,Percentage,Units,3.999862
+USA,United States,RE_TPES,"Renewable energy supply, % total energy supply",2002,2002,PC,Percentage,Units,4.048507
+USA,United States,RE_TPES,"Renewable energy supply, % total energy supply",2003,2003,PC,Percentage,Units,4.30125
+USA,United States,RE_TPES,"Renewable energy supply, % total energy supply",2004,2004,PC,Percentage,Units,4.393983
+USA,United States,RE_TPES,"Renewable energy supply, % total energy supply",2005,2005,PC,Percentage,Units,4.536459
+USA,United States,RE_TPES,"Renewable energy supply, % total energy supply",2006,2006,PC,Percentage,Units,4.772666
+USA,United States,RE_TPES,"Renewable energy supply, % total energy supply",2007,2007,PC,Percentage,Units,4.667181
+USA,United States,RE_TPES,"Renewable energy supply, % total energy supply",2008,2008,PC,Percentage,Units,5.071261
+USA,United States,RE_TPES,"Renewable energy supply, % total energy supply",2009,2009,PC,Percentage,Units,5.438564
+USA,United States,RE_TPES,"Renewable energy supply, % total energy supply",2010,2010,PC,Percentage,Units,5.678004
+USA,United States,RE_TPES,"Renewable energy supply, % total energy supply",2011,2011,PC,Percentage,Units,6.18371
+USA,United States,RE_TPES,"Renewable energy supply, % total energy supply",2012,2012,PC,Percentage,Units,6.431845
+USA,United States,RE_TPES,"Renewable energy supply, % total energy supply",2013,2013,PC,Percentage,Units,6.781224
+USA,United States,RE_TPES,"Renewable energy supply, % total energy supply",2014,2014,PC,Percentage,Units,6.899724
+USA,United States,RE_TPES,"Renewable energy supply, % total energy supply",2015,2015,PC,Percentage,Units,6.844656
+USA,United States,RE_TPES,"Renewable energy supply, % total energy supply",2016,2016,PC,Percentage,Units,7.169833
+USA,United States,RE_TPES,"Renewable energy supply, % total energy supply",2017,2017,PC,Percentage,Units,7.537478
+USA,United States,RE_TPES,"Renewable energy supply, % total energy supply",2018,2018,PC,Percentage,Units,7.727601
+USA,United States,RE_NRG,"Renewable electricity, % total electricity generation",2000,2000,PC,Percentage,Units,8.205997
+USA,United States,RE_NRG,"Renewable electricity, % total electricity generation",2001,2001,PC,Percentage,Units,6.783992
+USA,United States,RE_NRG,"Renewable electricity, % total electricity generation",2002,2002,PC,Percentage,Units,8.646361
+USA,United States,RE_NRG,"Renewable electricity, % total electricity generation",2003,2003,PC,Percentage,Units,8.889376
+USA,United States,RE_NRG,"Renewable electricity, % total electricity generation",2004,2004,PC,Percentage,Units,8.630185
+USA,United States,RE_NRG,"Renewable electricity, % total electricity generation",2005,2005,PC,Percentage,Units,8.578465
+USA,United States,RE_NRG,"Renewable electricity, % total electricity generation",2006,2006,PC,Percentage,Units,9.244631
+USA,United States,RE_NRG,"Renewable electricity, % total electricity generation",2007,2007,PC,Percentage,Units,8.367764
+USA,United States,RE_NRG,"Renewable electricity, % total electricity generation",2008,2008,PC,Percentage,Units,9.003541
+USA,United States,RE_NRG,"Renewable electricity, % total electricity generation",2009,2009,PC,Percentage,Units,10.29185
+USA,United States,RE_NRG,"Renewable electricity, % total electricity generation",2010,2010,PC,Percentage,Units,10.12036
+USA,United States,RE_NRG,"Renewable electricity, % total electricity generation",2011,2011,PC,Percentage,Units,12.22571
+USA,United States,RE_NRG,"Renewable electricity, % total electricity generation",2012,2012,PC,Percentage,Units,12.0074
+USA,United States,RE_NRG,"Renewable electricity, % total electricity generation",2013,2013,PC,Percentage,Units,12.63792
+USA,United States,RE_NRG,"Renewable electricity, % total electricity generation",2014,2014,PC,Percentage,Units,12.97722
+USA,United States,RE_NRG,"Renewable electricity, % total electricity generation",2015,2015,PC,Percentage,Units,13.22859
+USA,United States,RE_NRG,"Renewable electricity, % total electricity generation",2016,2016,PC,Percentage,Units,14.81712
+USA,United States,RE_NRG,"Renewable electricity, % total electricity generation",2017,2017,PC,Percentage,Units,16.84403
+USA,United States,RE_NRG,"Renewable electricity, % total electricity generation",2018,2018,PC,Percentage,Units,16.76116
+USA,United States,ENVRD_GBAORD,"Green R&D budget, % total R&D budget",2000,2000,PC,Percentage,Units,0.7385696
+USA,United States,ENVRD_GBAORD,"Green R&D budget, % total R&D budget",2001,2001,PC,Percentage,Units,0.7302198
+USA,United States,ENVRD_GBAORD,"Green R&D budget, % total R&D budget",2002,2002,PC,Percentage,Units,0.6675145
+USA,United States,ENVRD_GBAORD,"Green R&D budget, % total R&D budget",2003,2003,PC,Percentage,Units,0.5741797
+USA,United States,ENVRD_GBAORD,"Green R&D budget, % total R&D budget",2004,2004,PC,Percentage,Units,0.6229879
+USA,United States,ENVRD_GBAORD,"Green R&D budget, % total R&D budget",2005,2005,PC,Percentage,Units,0.5756657
+USA,United States,ENVRD_GBAORD,"Green R&D budget, % total R&D budget",2006,2006,PC,Percentage,Units,0.5430697
+USA,United States,ENVRD_GBAORD,"Green R&D budget, % total R&D budget",2007,2007,PC,Percentage,Units,0.6266411
+USA,United States,ENVRD_GBAORD,"Green R&D budget, % total R&D budget",2008,2008,PC,Percentage,Units,0.46954
+USA,United States,ENVRD_GBAORD,"Green R&D budget, % total R&D budget",2009,2009,PC,Percentage,Units,0.4136193
+USA,United States,ENVRD_GBAORD,"Green R&D budget, % total R&D budget",2010,2010,PC,Percentage,Units,0.501751
+USA,United States,ENVRD_GBAORD,"Green R&D budget, % total R&D budget",2011,2011,PC,Percentage,Units,0.515055
+USA,United States,ENVRD_GBAORD,"Green R&D budget, % total R&D budget",2012,2012,PC,Percentage,Units,0.4871745
+USA,United States,ENVRD_GBAORD,"Green R&D budget, % total R&D budget",2013,2013,PC,Percentage,Units,0.4926645
+USA,United States,ENVRD_GBAORD,"Green R&D budget, % total R&D budget",2014,2014,PC,Percentage,Units,0.4844356
+USA,United States,ENVRD_GBAORD,"Green R&D budget, % total R&D budget",2015,2015,PC,Percentage,Units,0.4582538
+USA,United States,ENVRD_GBAORD,"Green R&D budget, % total R&D budget",2016,2016,PC,Percentage,Units,0.4123943
+USA,United States,ENVRD_GBAORD,"Green R&D budget, % total R&D budget",2017,2017,PC,Percentage,Units,0.3966823
+USA,United States,ENVRD_GBAORD,"Green R&D budget, % total R&D budget",2018,2018,PC,Percentage,Units,0.3717319
+USA,United States,ENVRD_GBAORD,"Green R&D budget, % total R&D budget",2019,2019,PC,Percentage,Units,0.3602687
+USA,United States,RERD_ERD,"RE R&D budget, % total energy R&D budget",2000,2000,PC,Percentage,Units,9.296009
+USA,United States,RERD_ERD,"RE R&D budget, % total energy R&D budget",2001,2001,PC,Percentage,Units,8.897127
+USA,United States,RERD_ERD,"RE R&D budget, % total energy R&D budget",2002,2002,PC,Percentage,Units,8.687553
+USA,United States,RERD_ERD,"RE R&D budget, % total energy R&D budget",2003,2003,PC,Percentage,Units,8.823812
+USA,United States,RERD_ERD,"RE R&D budget, % total energy R&D budget",2004,2004,PC,Percentage,Units,8.410253
+USA,United States,RERD_ERD,"RE R&D budget, % total energy R&D budget",2005,2005,PC,Percentage,Units,7.578961
+USA,United States,RERD_ERD,"RE R&D budget, % total energy R&D budget",2006,2006,PC,Percentage,Units,6.454094
+USA,United States,RERD_ERD,"RE R&D budget, % total energy R&D budget",2007,2007,PC,Percentage,Units,13.76962
+USA,United States,RERD_ERD,"RE R&D budget, % total energy R&D budget",2008,2008,PC,Percentage,Units,10.21754
+USA,United States,RERD_ERD,"RE R&D budget, % total energy R&D budget",2009,2009,PC,Percentage,Units,22.48497
+USA,United States,RERD_ERD,"RE R&D budget, % total energy R&D budget",2010,2010,PC,Percentage,Units,27.47483
+USA,United States,RERD_ERD,"RE R&D budget, % total energy R&D budget",2011,2011,PC,Percentage,Units,18.2157
+USA,United States,RERD_ERD,"RE R&D budget, % total energy R&D budget",2012,2012,PC,Percentage,Units,24.12642
+USA,United States,RERD_ERD,"RE R&D budget, % total energy R&D budget",2013,2013,PC,Percentage,Units,16.54987
+USA,United States,RERD_ERD,"RE R&D budget, % total energy R&D budget",2014,2014,PC,Percentage,Units,14.54475
+USA,United States,RERD_ERD,"RE R&D budget, % total energy R&D budget",2015,2015,PC,Percentage,Units,14.865
+USA,United States,RERD_ERD,"RE R&D budget, % total energy R&D budget",2016,2016,PC,Percentage,Units,11.36757
+USA,United States,RERD_ERD,"RE R&D budget, % total energy R&D budget",2017,2017,PC,Percentage,Units,10.6072
+USA,United States,RERD_ERD,"RE R&D budget, % total energy R&D budget",2018,2018,PC,Percentage,Units,10.56382
+USA,United States,RERD_ERD,"RE R&D budget, % total energy R&D budget",2019,2019,PC,Percentage,Units,9.889182
+USA,United States,GPAT_DE_AI,"Development of environment-related technologies, % inventions worldwide",2000,2000,PC,Percentage,Units,22.65
+USA,United States,GPAT_DE_AI,"Development of environment-related technologies, % inventions worldwide",2001,2001,PC,Percentage,Units,22.82
+USA,United States,GPAT_DE_AI,"Development of environment-related technologies, % inventions worldwide",2002,2002,PC,Percentage,Units,24.26
+USA,United States,GPAT_DE_AI,"Development of environment-related technologies, % inventions worldwide",2003,2003,PC,Percentage,Units,22.3
+USA,United States,GPAT_DE_AI,"Development of environment-related technologies, % inventions worldwide",2004,2004,PC,Percentage,Units,22.83
+USA,United States,GPAT_DE_AI,"Development of environment-related technologies, % inventions worldwide",2005,2005,PC,Percentage,Units,23.77
+USA,United States,GPAT_DE_AI,"Development of environment-related technologies, % inventions worldwide",2006,2006,PC,Percentage,Units,24.28
+USA,United States,GPAT_DE_AI,"Development of environment-related technologies, % inventions worldwide",2007,2007,PC,Percentage,Units,25.39
+USA,United States,GPAT_DE_AI,"Development of environment-related technologies, % inventions worldwide",2008,2008,PC,Percentage,Units,25.56
+USA,United States,GPAT_DE_AI,"Development of environment-related technologies, % inventions worldwide",2009,2009,PC,Percentage,Units,24.53
+USA,United States,GPAT_DE_AI,"Development of environment-related technologies, % inventions worldwide",2010,2010,PC,Percentage,Units,23.36
+USA,United States,GPAT_DE_AI,"Development of environment-related technologies, % inventions worldwide",2011,2011,PC,Percentage,Units,22.96
+USA,United States,GPAT_DE_AI,"Development of environment-related technologies, % inventions worldwide",2012,2012,PC,Percentage,Units,24.75
+USA,United States,GPAT_DE_AI,"Development of environment-related technologies, % inventions worldwide",2013,2013,PC,Percentage,Units,26.9
+USA,United States,GPAT_DE_AI,"Development of environment-related technologies, % inventions worldwide",2014,2014,PC,Percentage,Units,24.3
+USA,United States,GPAT_DE_AI,"Development of environment-related technologies, % inventions worldwide",2015,2015,PC,Percentage,Units,24.27
+USA,United States,GPAT_DE_AI,"Development of environment-related technologies, % inventions worldwide",2016,2016,PC,Percentage,Units,24.08
+USA,United States,GDP_RCAP,Real GDP per capita,2000,2000,USD,US Dollar,Units,48810.23
+USA,United States,GDP_RCAP,Real GDP per capita,2001,2001,USD,US Dollar,Units,48795.7
+USA,United States,GDP_RCAP,Real GDP per capita,2002,2002,USD,US Dollar,Units,49183.95
+USA,United States,GDP_RCAP,Real GDP per capita,2003,2003,USD,US Dollar,Units,50148.47
+USA,United States,GDP_RCAP,Real GDP per capita,2004,2004,USD,US Dollar,Units,51601.46
+USA,United States,GDP_RCAP,Real GDP per capita,2005,2005,USD,US Dollar,Units,52936.53
+USA,United States,GDP_RCAP,Real GDP per capita,2006,2006,USD,US Dollar,Units,53942.16
+USA,United States,GDP_RCAP,Real GDP per capita,2007,2007,USD,US Dollar,Units,54433.29
+USA,United States,GDP_RCAP,Real GDP per capita,2008,2008,USD,US Dollar,Units,53843.53
+USA,United States,GDP_RCAP,Real GDP per capita,2009,2009,USD,US Dollar,Units,51994.25
+USA,United States,GDP_RCAP,Real GDP per capita,2010,2010,USD,US Dollar,Units,52860.64
+USA,United States,GDP_RCAP,Real GDP per capita,2011,2011,USD,US Dollar,Units,53237.21
+USA,United States,GDP_RCAP,Real GDP per capita,2012,2012,USD,US Dollar,Units,54008.43
+USA,United States,GDP_RCAP,Real GDP per capita,2013,2013,USD,US Dollar,Units,54593.63
+USA,United States,GDP_RCAP,Real GDP per capita,2014,2014,USD,US Dollar,Units,55573.44
+USA,United States,GDP_RCAP,Real GDP per capita,2015,2015,USD,US Dollar,Units,56796.55
+USA,United States,GDP_RCAP,Real GDP per capita,2016,2016,USD,US Dollar,Units,57344.76
+USA,United States,GDP_RCAP,Real GDP per capita,2017,2017,USD,US Dollar,Units,58330.14
+USA,United States,GDP_RCAP,Real GDP per capita,2018,2018,USD,US Dollar,Units,59668.44
+USA,United States,GDP_RCAP,Real GDP per capita,2019,2019,USD,US Dollar,Units,60695.55
+WLD,World,NRG_INT,"Energy intensity, TPES per capita",2000,2000,TOE,Tonnes of oil equivalent (toe),Units,1.631869
+WLD,World,NRG_INT,"Energy intensity, TPES per capita",2001,2001,TOE,Tonnes of oil equivalent (toe),Units,1.626024
+WLD,World,NRG_INT,"Energy intensity, TPES per capita",2002,2002,TOE,Tonnes of oil equivalent (toe),Units,1.639205
+WLD,World,NRG_INT,"Energy intensity, TPES per capita",2003,2003,TOE,Tonnes of oil equivalent (toe),Units,1.67595
+WLD,World,NRG_INT,"Energy intensity, TPES per capita",2004,2004,TOE,Tonnes of oil equivalent (toe),Units,1.729642
+WLD,World,NRG_INT,"Energy intensity, TPES per capita",2005,2005,TOE,Tonnes of oil equivalent (toe),Units,1.754813
+WLD,World,NRG_INT,"Energy intensity, TPES per capita",2006,2006,TOE,Tonnes of oil equivalent (toe),Units,1.784575
+WLD,World,NRG_INT,"Energy intensity, TPES per capita",2007,2007,TOE,Tonnes of oil equivalent (toe),Units,1.810188
+WLD,World,NRG_INT,"Energy intensity, TPES per capita",2008,2008,TOE,Tonnes of oil equivalent (toe),Units,1.809662
+WLD,World,NRG_INT,"Energy intensity, TPES per capita",2009,2009,TOE,Tonnes of oil equivalent (toe),Units,1.772725
+WLD,World,NRG_INT,"Energy intensity, TPES per capita",2010,2010,TOE,Tonnes of oil equivalent (toe),Units,1.847124
+WLD,World,NRG_INT,"Energy intensity, TPES per capita",2011,2011,TOE,Tonnes of oil equivalent (toe),Units,1.851643
+WLD,World,NRG_INT,"Energy intensity, TPES per capita",2012,2012,TOE,Tonnes of oil equivalent (toe),Units,1.857855
+WLD,World,NRG_INT,"Energy intensity, TPES per capita",2013,2013,TOE,Tonnes of oil equivalent (toe),Units,1.859395
+WLD,World,NRG_INT,"Energy intensity, TPES per capita",2014,2014,TOE,Tonnes of oil equivalent (toe),Units,1.862821
+WLD,World,NRG_INT,"Energy intensity, TPES per capita",2015,2015,TOE,Tonnes of oil equivalent (toe),Units,1.847043
+WLD,World,NRG_INT,"Energy intensity, TPES per capita",2016,2016,TOE,Tonnes of oil equivalent (toe),Units,1.837135
+WLD,World,NRG_INT,"Energy intensity, TPES per capita",2017,2017,TOE,Tonnes of oil equivalent (toe),Units,1.851153
+WLD,World,RE_TPES,"Renewable energy supply, % total energy supply",2000,2000,PC,Percentage,Units,12.73013
+WLD,World,RE_TPES,"Renewable energy supply, % total energy supply",2001,2001,PC,Percentage,Units,12.52213
+WLD,World,RE_TPES,"Renewable energy supply, % total energy supply",2002,2002,PC,Percentage,Units,12.46592
+WLD,World,RE_TPES,"Renewable energy supply, % total energy supply",2003,2003,PC,Percentage,Units,12.27936
+WLD,World,RE_TPES,"Renewable energy supply, % total energy supply",2004,2004,PC,Percentage,Units,12.08103
+WLD,World,RE_TPES,"Renewable energy supply, % total energy supply",2005,2005,PC,Percentage,Units,12.04017
+WLD,World,RE_TPES,"Renewable energy supply, % total energy supply",2006,2006,PC,Percentage,Units,11.93715
+WLD,World,RE_TPES,"Renewable energy supply, % total energy supply",2007,2007,PC,Percentage,Units,11.89467
+WLD,World,RE_TPES,"Renewable energy supply, % total energy supply",2008,2008,PC,Percentage,Units,12.06855
+WLD,World,RE_TPES,"Renewable energy supply, % total energy supply",2009,2009,PC,Percentage,Units,12.39783
+WLD,World,RE_TPES,"Renewable energy supply, % total energy supply",2010,2010,PC,Percentage,Units,12.26757
+WLD,World,RE_TPES,"Renewable energy supply, % total energy supply",2011,2011,PC,Percentage,Units,12.34125
+WLD,World,RE_TPES,"Renewable energy supply, % total energy supply",2012,2012,PC,Percentage,Units,12.59801
+WLD,World,RE_TPES,"Renewable energy supply, % total energy supply",2013,2013,PC,Percentage,Units,12.85491
+WLD,World,RE_TPES,"Renewable energy supply, % total energy supply",2014,2014,PC,Percentage,Units,12.92205
+WLD,World,RE_TPES,"Renewable energy supply, % total energy supply",2015,2015,PC,Percentage,Units,13.11657
+WLD,World,RE_TPES,"Renewable energy supply, % total energy supply",2016,2016,PC,Percentage,Units,13.45486
+WLD,World,RE_TPES,"Renewable energy supply, % total energy supply",2017,2017,PC,Percentage,Units,13.55241
+WLD,World,RE_NRG,"Renewable electricity, % total electricity generation",2000,2000,PC,Percentage,Units,18.33588
+WLD,World,RE_NRG,"Renewable electricity, % total electricity generation",2001,2001,PC,Percentage,Units,17.88014
+WLD,World,RE_NRG,"Renewable electricity, % total electricity generation",2002,2002,PC,Percentage,Units,17.82546
+WLD,World,RE_NRG,"Renewable electricity, % total electricity generation",2003,2003,PC,Percentage,Units,17.42456
+WLD,World,RE_NRG,"Renewable electricity, % total electricity generation",2004,2004,PC,Percentage,Units,17.8324
+WLD,World,RE_NRG,"Renewable electricity, % total electricity generation",2005,2005,PC,Percentage,Units,18.0237
+WLD,World,RE_NRG,"Renewable electricity, % total electricity generation",2006,2006,PC,Percentage,Units,18.14368
+WLD,World,RE_NRG,"Renewable electricity, % total electricity generation",2007,2007,PC,Percentage,Units,17.90682
+WLD,World,RE_NRG,"Renewable electricity, % total electricity generation",2008,2008,PC,Percentage,Units,18.54667
+WLD,World,RE_NRG,"Renewable electricity, % total electricity generation",2009,2009,PC,Percentage,Units,19.32675
+WLD,World,RE_NRG,"Renewable electricity, % total electricity generation",2010,2010,PC,Percentage,Units,19.51085
+WLD,World,RE_NRG,"Renewable electricity, % total electricity generation",2011,2011,PC,Percentage,Units,19.89029
+WLD,World,RE_NRG,"Renewable electricity, % total electricity generation",2012,2012,PC,Percentage,Units,20.84766
+WLD,World,RE_NRG,"Renewable electricity, % total electricity generation",2013,2013,PC,Percentage,Units,21.6611
+WLD,World,RE_NRG,"Renewable electricity, % total electricity generation",2014,2014,PC,Percentage,Units,22.26998
+WLD,World,RE_NRG,"Renewable electricity, % total electricity generation",2015,2015,PC,Percentage,Units,22.77481
+WLD,World,RE_NRG,"Renewable electricity, % total electricity generation",2016,2016,PC,Percentage,Units,23.74566
+WLD,World,RE_NRG,"Renewable electricity, % total electricity generation",2017,2017,PC,Percentage,Units,24.48415
+WLD,World,GPAT_DE_AI,"Development of environment-related technologies, % inventions worldwide",2000,2000,PC,Percentage,Units,100
+WLD,World,GPAT_DE_AI,"Development of environment-related technologies, % inventions worldwide",2001,2001,PC,Percentage,Units,100
+WLD,World,GPAT_DE_AI,"Development of environment-related technologies, % inventions worldwide",2002,2002,PC,Percentage,Units,100
+WLD,World,GPAT_DE_AI,"Development of environment-related technologies, % inventions worldwide",2003,2003,PC,Percentage,Units,100
+WLD,World,GPAT_DE_AI,"Development of environment-related technologies, % inventions worldwide",2004,2004,PC,Percentage,Units,100
+WLD,World,GPAT_DE_AI,"Development of environment-related technologies, % inventions worldwide",2005,2005,PC,Percentage,Units,100
+WLD,World,GPAT_DE_AI,"Development of environment-related technologies, % inventions worldwide",2006,2006,PC,Percentage,Units,100
+WLD,World,GPAT_DE_AI,"Development of environment-related technologies, % inventions worldwide",2007,2007,PC,Percentage,Units,100
+WLD,World,GPAT_DE_AI,"Development of environment-related technologies, % inventions worldwide",2008,2008,PC,Percentage,Units,100
+WLD,World,GPAT_DE_AI,"Development of environment-related technologies, % inventions worldwide",2009,2009,PC,Percentage,Units,100
+WLD,World,GPAT_DE_AI,"Development of environment-related technologies, % inventions worldwide",2010,2010,PC,Percentage,Units,100
+WLD,World,GPAT_DE_AI,"Development of environment-related technologies, % inventions worldwide",2011,2011,PC,Percentage,Units,100
+WLD,World,GPAT_DE_AI,"Development of environment-related technologies, % inventions worldwide",2012,2012,PC,Percentage,Units,100
+WLD,World,GPAT_DE_AI,"Development of environment-related technologies, % inventions worldwide",2013,2013,PC,Percentage,Units,100
+WLD,World,GPAT_DE_AI,"Development of environment-related technologies, % inventions worldwide",2014,2014,PC,Percentage,Units,100
+WLD,World,GPAT_DE_AI,"Development of environment-related technologies, % inventions worldwide",2015,2015,PC,Percentage,Units,100
+WLD,World,GPAT_DE_AI,"Development of environment-related technologies, % inventions worldwide",2016,2016,PC,Percentage,Units,100
+NLD,Netherlands,CO2_PBEM,Production-based CO2 emissions,2000,2000,TONNE,Tonnes,Millions,161.617
+NLD,Netherlands,CO2_PBEM,Production-based CO2 emissions,2001,2001,TONNE,Tonnes,Millions,166.59
+NLD,Netherlands,CO2_PBEM,Production-based CO2 emissions,2002,2002,TONNE,Tonnes,Millions,166.904
+NLD,Netherlands,CO2_PBEM,Production-based CO2 emissions,2003,2003,TONNE,Tonnes,Millions,169.919
+NLD,Netherlands,CO2_PBEM,Production-based CO2 emissions,2004,2004,TONNE,Tonnes,Millions,171.659
+NLD,Netherlands,CO2_PBEM,Production-based CO2 emissions,2005,2005,TONNE,Tonnes,Millions,167.49
+NLD,Netherlands,CO2_PBEM,Production-based CO2 emissions,2006,2006,TONNE,Tonnes,Millions,163.262
+NLD,Netherlands,CO2_PBEM,Production-based CO2 emissions,2007,2007,TONNE,Tonnes,Millions,164.115
+NLD,Netherlands,CO2_PBEM,Production-based CO2 emissions,2008,2008,TONNE,Tonnes,Millions,164.823
+NLD,Netherlands,CO2_PBEM,Production-based CO2 emissions,2009,2009,TONNE,Tonnes,Millions,160.072
+NLD,Netherlands,CO2_PBEM,Production-based CO2 emissions,2010,2010,TONNE,Tonnes,Millions,170.762
+NLD,Netherlands,CO2_PBEM,Production-based CO2 emissions,2011,2011,TONNE,Tonnes,Millions,158.412
+NLD,Netherlands,CO2_PBEM,Production-based CO2 emissions,2012,2012,TONNE,Tonnes,Millions,157.156
+NLD,Netherlands,CO2_PBEM,Production-based CO2 emissions,2013,2013,TONNE,Tonnes,Millions,156.791
+NLD,Netherlands,CO2_PBEM,Production-based CO2 emissions,2014,2014,TONNE,Tonnes,Millions,149.503
+NLD,Netherlands,CO2_PBEM,Production-based CO2 emissions,2015,2015,TONNE,Tonnes,Millions,157.858
+NLD,Netherlands,CO2_PBEM,Production-based CO2 emissions,2016,2016,TONNE,Tonnes,Millions,158.034
+NLD,Netherlands,CO2_PBEM,Production-based CO2 emissions,2017,2017,TONNE,Tonnes,Millions,155.612
+NLD,Netherlands,CO2_PBEM,Production-based CO2 emissions,2018,2018,TONNE,Tonnes,Millions,150.869
+DEU,Germany,CO2_PBEM,Production-based CO2 emissions,2000,2000,TONNE,Tonnes,Millions,812.312
+DEU,Germany,CO2_PBEM,Production-based CO2 emissions,2001,2001,TONNE,Tonnes,Millions,831.479
+DEU,Germany,CO2_PBEM,Production-based CO2 emissions,2002,2002,TONNE,Tonnes,Millions,817.902
+DEU,Germany,CO2_PBEM,Production-based CO2 emissions,2003,2003,TONNE,Tonnes,Millions,820.688
+DEU,Germany,CO2_PBEM,Production-based CO2 emissions,2004,2004,TONNE,Tonnes,Millions,804.625
+DEU,Germany,CO2_PBEM,Production-based CO2 emissions,2005,2005,TONNE,Tonnes,Millions,786.931
+DEU,Germany,CO2_PBEM,Production-based CO2 emissions,2006,2006,TONNE,Tonnes,Millions,798.682
+DEU,Germany,CO2_PBEM,Production-based CO2 emissions,2007,2007,TONNE,Tonnes,Millions,767.019
+DEU,Germany,CO2_PBEM,Production-based CO2 emissions,2008,2008,TONNE,Tonnes,Millions,773.893
+DEU,Germany,CO2_PBEM,Production-based CO2 emissions,2009,2009,TONNE,Tonnes,Millions,720.183
+DEU,Germany,CO2_PBEM,Production-based CO2 emissions,2010,2010,TONNE,Tonnes,Millions,758.848
+DEU,Germany,CO2_PBEM,Production-based CO2 emissions,2011,2011,TONNE,Tonnes,Millions,731.242
+DEU,Germany,CO2_PBEM,Production-based CO2 emissions,2012,2012,TONNE,Tonnes,Millions,745.142
+DEU,Germany,CO2_PBEM,Production-based CO2 emissions,2013,2013,TONNE,Tonnes,Millions,763.652
+DEU,Germany,CO2_PBEM,Production-based CO2 emissions,2014,2014,TONNE,Tonnes,Millions,723.112
+DEU,Germany,CO2_PBEM,Production-based CO2 emissions,2015,2015,TONNE,Tonnes,Millions,729.684
+DEU,Germany,CO2_PBEM,Production-based CO2 emissions,2016,2016,TONNE,Tonnes,Millions,734.487
+DEU,Germany,CO2_PBEM,Production-based CO2 emissions,2017,2017,TONNE,Tonnes,Millions,718.794
+DEU,Germany,CO2_PBEM,Production-based CO2 emissions,2018,2018,TONNE,Tonnes,Millions,696.131
+KOR,Korea,CO2_PBEM,Production-based CO2 emissions,2000,2000,TONNE,Tonnes,Millions,431.897
+KOR,Korea,CO2_PBEM,Production-based CO2 emissions,2001,2001,TONNE,Tonnes,Millions,445.863
+KOR,Korea,CO2_PBEM,Production-based CO2 emissions,2002,2002,TONNE,Tonnes,Millions,435.895
+KOR,Korea,CO2_PBEM,Production-based CO2 emissions,2003,2003,TONNE,Tonnes,Millions,437.779
+KOR,Korea,CO2_PBEM,Production-based CO2 emissions,2004,2004,TONNE,Tonnes,Millions,459.79
+KOR,Korea,CO2_PBEM,Production-based CO2 emissions,2005,2005,TONNE,Tonnes,Millions,457.672
+KOR,Korea,CO2_PBEM,Production-based CO2 emissions,2006,2006,TONNE,Tonnes,Millions,464.712
+KOR,Korea,CO2_PBEM,Production-based CO2 emissions,2007,2007,TONNE,Tonnes,Millions,477.414
+KOR,Korea,CO2_PBEM,Production-based CO2 emissions,2008,2008,TONNE,Tonnes,Millions,488.844
+KOR,Korea,CO2_PBEM,Production-based CO2 emissions,2009,2009,TONNE,Tonnes,Millions,502.089
+KOR,Korea,CO2_PBEM,Production-based CO2 emissions,2010,2010,TONNE,Tonnes,Millions,550.916
+KOR,Korea,CO2_PBEM,Production-based CO2 emissions,2011,2011,TONNE,Tonnes,Millions,573.761
+KOR,Korea,CO2_PBEM,Production-based CO2 emissions,2012,2012,TONNE,Tonnes,Millions,575.466
+KOR,Korea,CO2_PBEM,Production-based CO2 emissions,2013,2013,TONNE,Tonnes,Millions,574.551
+KOR,Korea,CO2_PBEM,Production-based CO2 emissions,2014,2014,TONNE,Tonnes,Millions,562.679
+KOR,Korea,CO2_PBEM,Production-based CO2 emissions,2015,2015,TONNE,Tonnes,Millions,582.047
+KOR,Korea,CO2_PBEM,Production-based CO2 emissions,2016,2016,TONNE,Tonnes,Millions,589.212
+KOR,Korea,CO2_PBEM,Production-based CO2 emissions,2017,2017,TONNE,Tonnes,Millions,600.034
+KOR,Korea,CO2_PBEM,Production-based CO2 emissions,2018,2018,TONNE,Tonnes,Millions,605.775
+NLD,Netherlands,GDP_R00,"Real GDP, Index 2000=100",2000,2000,IDX,Index,Units,100
+NLD,Netherlands,GDP_R00,"Real GDP, Index 2000=100",2001,2001,IDX,Index,Units,102.327
+NLD,Netherlands,GDP_R00,"Real GDP, Index 2000=100",2002,2002,IDX,Index,Units,102.5493
+NLD,Netherlands,GDP_R00,"Real GDP, Index 2000=100",2003,2003,IDX,Index,Units,102.7089
+NLD,Netherlands,GDP_R00,"Real GDP, Index 2000=100",2004,2004,IDX,Index,Units,104.7476
+NLD,Netherlands,GDP_R00,"Real GDP, Index 2000=100",2005,2005,IDX,Index,Units,106.8959
+NLD,Netherlands,GDP_R00,"Real GDP, Index 2000=100",2006,2006,IDX,Index,Units,110.5955
+NLD,Netherlands,GDP_R00,"Real GDP, Index 2000=100",2007,2007,IDX,Index,Units,114.7681
+NLD,Netherlands,GDP_R00,"Real GDP, Index 2000=100",2008,2008,IDX,Index,Units,117.2589
+NLD,Netherlands,GDP_R00,"Real GDP, Index 2000=100",2009,2009,IDX,Index,Units,112.9592
+NLD,Netherlands,GDP_R00,"Real GDP, Index 2000=100",2010,2010,IDX,Index,Units,114.4759
+NLD,Netherlands,GDP_R00,"Real GDP, Index 2000=100",2011,2011,IDX,Index,Units,116.2517
+NLD,Netherlands,GDP_R00,"Real GDP, Index 2000=100",2012,2012,IDX,Index,Units,115.0539
+NLD,Netherlands,GDP_R00,"Real GDP, Index 2000=100",2013,2013,IDX,Index,Units,114.9041
+NLD,Netherlands,GDP_R00,"Real GDP, Index 2000=100",2014,2014,IDX,Index,Units,116.5396
+NLD,Netherlands,GDP_R00,"Real GDP, Index 2000=100",2015,2015,IDX,Index,Units,118.8229
+NLD,Netherlands,GDP_R00,"Real GDP, Index 2000=100",2016,2016,IDX,Index,Units,121.4271
+NLD,Netherlands,GDP_R00,"Real GDP, Index 2000=100",2017,2017,IDX,Index,Units,124.9617
+NLD,Netherlands,GDP_R00,"Real GDP, Index 2000=100",2018,2018,IDX,Index,Units,128.2076
+NLD,Netherlands,GDP_R00,"Real GDP, Index 2000=100",2019,2019,IDX,Index,Units,130.5288
+USA,United States,CO2_PBEM,Production-based CO2 emissions,2000,2000,TONNE,Tonnes,Millions,5729.875
+USA,United States,CO2_PBEM,Production-based CO2 emissions,2001,2001,TONNE,Tonnes,Millions,5702.169
+USA,United States,CO2_PBEM,Production-based CO2 emissions,2002,2002,TONNE,Tonnes,Millions,5545.478
+USA,United States,CO2_PBEM,Production-based CO2 emissions,2003,2003,TONNE,Tonnes,Millions,5610.75
+USA,United States,CO2_PBEM,Production-based CO2 emissions,2004,2004,TONNE,Tonnes,Millions,5688.778
+USA,United States,CO2_PBEM,Production-based CO2 emissions,2005,2005,TONNE,Tonnes,Millions,5703.22
+USA,United States,CO2_PBEM,Production-based CO2 emissions,2006,2006,TONNE,Tonnes,Millions,5602.45
+USA,United States,CO2_PBEM,Production-based CO2 emissions,2007,2007,TONNE,Tonnes,Millions,5686.716
+USA,United States,CO2_PBEM,Production-based CO2 emissions,2008,2008,TONNE,Tonnes,Millions,5512.513
+USA,United States,CO2_PBEM,Production-based CO2 emissions,2009,2009,TONNE,Tonnes,Millions,5120.69
+USA,United States,CO2_PBEM,Production-based CO2 emissions,2010,2010,TONNE,Tonnes,Millions,5352.12
+USA,United States,CO2_PBEM,Production-based CO2 emissions,2011,2011,TONNE,Tonnes,Millions,5128.178
+USA,United States,CO2_PBEM,Production-based CO2 emissions,2012,2012,TONNE,Tonnes,Millions,4903.01
+USA,United States,CO2_PBEM,Production-based CO2 emissions,2013,2013,TONNE,Tonnes,Millions,5038.524
+USA,United States,CO2_PBEM,Production-based CO2 emissions,2014,2014,TONNE,Tonnes,Millions,5046.565
+USA,United States,CO2_PBEM,Production-based CO2 emissions,2015,2015,TONNE,Tonnes,Millions,4928.611
+USA,United States,CO2_PBEM,Production-based CO2 emissions,2016,2016,TONNE,Tonnes,Millions,4838.476
+USA,United States,CO2_PBEM,Production-based CO2 emissions,2017,2017,TONNE,Tonnes,Millions,4761.302
+USA,United States,CO2_PBEM,Production-based CO2 emissions,2018,2018,TONNE,Tonnes,Millions,4921.126
+WLD,World,CO2_PBEM,Production-based CO2 emissions,2000,2000,TONNE,Tonnes,Millions,23239.771
+WLD,World,CO2_PBEM,Production-based CO2 emissions,2001,2001,TONNE,Tonnes,Millions,23588.433
+WLD,World,CO2_PBEM,Production-based CO2 emissions,2002,2002,TONNE,Tonnes,Millions,23906.096
+WLD,World,CO2_PBEM,Production-based CO2 emissions,2003,2003,TONNE,Tonnes,Millions,24942.655
+WLD,World,CO2_PBEM,Production-based CO2 emissions,2004,2004,TONNE,Tonnes,Millions,26117.202
+WLD,World,CO2_PBEM,Production-based CO2 emissions,2005,2005,TONNE,Tonnes,Millions,27074.804
+WLD,World,CO2_PBEM,Production-based CO2 emissions,2006,2006,TONNE,Tonnes,Millions,27933.529
+WLD,World,CO2_PBEM,Production-based CO2 emissions,2007,2007,TONNE,Tonnes,Millions,28983.814
+WLD,World,CO2_PBEM,Production-based CO2 emissions,2008,2008,TONNE,Tonnes,Millions,29229.233
+WLD,World,CO2_PBEM,Production-based CO2 emissions,2009,2009,TONNE,Tonnes,Millions,28845.301
+WLD,World,CO2_PBEM,Production-based CO2 emissions,2010,2010,TONNE,Tonnes,Millions,30571.351
+WLD,World,CO2_PBEM,Production-based CO2 emissions,2011,2011,TONNE,Tonnes,Millions,31392.577
+WLD,World,CO2_PBEM,Production-based CO2 emissions,2012,2012,TONNE,Tonnes,Millions,31777.485
+WLD,World,CO2_PBEM,Production-based CO2 emissions,2013,2013,TONNE,Tonnes,Millions,32362.856
+WLD,World,CO2_PBEM,Production-based CO2 emissions,2014,2014,TONNE,Tonnes,Millions,32439.16
+WLD,World,CO2_PBEM,Production-based CO2 emissions,2015,2015,TONNE,Tonnes,Millions,32430.863
+WLD,World,CO2_PBEM,Production-based CO2 emissions,2016,2016,TONNE,Tonnes,Millions,32413.755
+WLD,World,CO2_PBEM,Production-based CO2 emissions,2017,2017,TONNE,Tonnes,Millions,32839.858
+DEU,Germany,GDP_R00,"Real GDP, Index 2000=100",2000,2000,IDX,Index,Units,100
+DEU,Germany,GDP_R00,"Real GDP, Index 2000=100",2001,2001,IDX,Index,Units,101.6977
+DEU,Germany,GDP_R00,"Real GDP, Index 2000=100",2002,2002,IDX,Index,Units,101.4959
+DEU,Germany,GDP_R00,"Real GDP, Index 2000=100",2003,2003,IDX,Index,Units,100.7717
+DEU,Germany,GDP_R00,"Real GDP, Index 2000=100",2004,2004,IDX,Index,Units,101.9708
+DEU,Germany,GDP_R00,"Real GDP, Index 2000=100",2005,2005,IDX,Index,Units,102.7069
+DEU,Germany,GDP_R00,"Real GDP, Index 2000=100",2006,2006,IDX,Index,Units,106.6247
+DEU,Germany,GDP_R00,"Real GDP, Index 2000=100",2007,2007,IDX,Index,Units,109.8065
+DEU,Germany,GDP_R00,"Real GDP, Index 2000=100",2008,2008,IDX,Index,Units,110.8631
+DEU,Germany,GDP_R00,"Real GDP, Index 2000=100",2009,2009,IDX,Index,Units,104.5471
+DEU,Germany,GDP_R00,"Real GDP, Index 2000=100",2010,2010,IDX,Index,Units,108.9161
+DEU,Germany,GDP_R00,"Real GDP, Index 2000=100",2011,2011,IDX,Index,Units,113.1901
+DEU,Germany,GDP_R00,"Real GDP, Index 2000=100",2012,2012,IDX,Index,Units,113.665
+DEU,Germany,GDP_R00,"Real GDP, Index 2000=100",2013,2013,IDX,Index,Units,114.1517
+DEU,Germany,GDP_R00,"Real GDP, Index 2000=100",2014,2014,IDX,Index,Units,116.6924
+DEU,Germany,GDP_R00,"Real GDP, Index 2000=100",2015,2015,IDX,Index,Units,118.7225
+DEU,Germany,GDP_R00,"Real GDP, Index 2000=100",2016,2016,IDX,Index,Units,121.37
+DEU,Germany,GDP_R00,"Real GDP, Index 2000=100",2017,2017,IDX,Index,Units,124.3619
+DEU,Germany,GDP_R00,"Real GDP, Index 2000=100",2018,2018,IDX,Index,Units,126.2614
+DEU,Germany,GDP_R00,"Real GDP, Index 2000=100",2019,2019,IDX,Index,Units,126.9738
+KOR,Korea,GDP_R00,"Real GDP, Index 2000=100",2000,2000,IDX,Index,Units,100
+KOR,Korea,GDP_R00,"Real GDP, Index 2000=100",2001,2001,IDX,Index,Units,104.8524
+KOR,Korea,GDP_R00,"Real GDP, Index 2000=100",2002,2002,IDX,Index,Units,112.9524
+KOR,Korea,GDP_R00,"Real GDP, Index 2000=100",2003,2003,IDX,Index,Units,116.5073
+KOR,Korea,GDP_R00,"Real GDP, Index 2000=100",2004,2004,IDX,Index,Units,122.5627
+KOR,Korea,GDP_R00,"Real GDP, Index 2000=100",2005,2005,IDX,Index,Units,127.8433
+KOR,Korea,GDP_R00,"Real GDP, Index 2000=100",2006,2006,IDX,Index,Units,134.5734
+KOR,Korea,GDP_R00,"Real GDP, Index 2000=100",2007,2007,IDX,Index,Units,142.3781
+KOR,Korea,GDP_R00,"Real GDP, Index 2000=100",2008,2008,IDX,Index,Units,146.6679
+KOR,Korea,GDP_R00,"Real GDP, Index 2000=100",2009,2009,IDX,Index,Units,147.8306
+KOR,Korea,GDP_R00,"Real GDP, Index 2000=100",2010,2010,IDX,Index,Units,157.8902
+KOR,Korea,GDP_R00,"Real GDP, Index 2000=100",2011,2011,IDX,Index,Units,163.7095
+KOR,Korea,GDP_R00,"Real GDP, Index 2000=100",2012,2012,IDX,Index,Units,167.6426
+KOR,Korea,GDP_R00,"Real GDP, Index 2000=100",2013,2013,IDX,Index,Units,172.948
+KOR,Korea,GDP_R00,"Real GDP, Index 2000=100",2014,2014,IDX,Index,Units,178.4866
+KOR,Korea,GDP_R00,"Real GDP, Index 2000=100",2015,2015,IDX,Index,Units,183.5005
+KOR,Korea,GDP_R00,"Real GDP, Index 2000=100",2016,2016,IDX,Index,Units,188.908
+KOR,Korea,GDP_R00,"Real GDP, Index 2000=100",2017,2017,IDX,Index,Units,194.8768
+KOR,Korea,GDP_R00,"Real GDP, Index 2000=100",2018,2018,IDX,Index,Units,200.0702
+KOR,Korea,GDP_R00,"Real GDP, Index 2000=100",2019,2019,IDX,Index,Units,204.1379
+USA,United States,GDP_R00,"Real GDP, Index 2000=100",2000,2000,IDX,Index,Units,100
+USA,United States,GDP_R00,"Real GDP, Index 2000=100",2001,2001,IDX,Index,Units,100.9983
+USA,United States,GDP_R00,"Real GDP, Index 2000=100",2002,2002,IDX,Index,Units,102.7574
+USA,United States,GDP_R00,"Real GDP, Index 2000=100",2003,2003,IDX,Index,Units,105.6975
+USA,United States,GDP_R00,"Real GDP, Index 2000=100",2004,2004,IDX,Index,Units,109.7129
+USA,United States,GDP_R00,"Real GDP, Index 2000=100",2005,2005,IDX,Index,Units,113.5673
+USA,United States,GDP_R00,"Real GDP, Index 2000=100",2006,2006,IDX,Index,Units,116.8096
+USA,United States,GDP_R00,"Real GDP, Index 2000=100",2007,2007,IDX,Index,Units,119.0012
+USA,United States,GDP_R00,"Real GDP, Index 2000=100",2008,2008,IDX,Index,Units,118.8387
+USA,United States,GDP_R00,"Real GDP, Index 2000=100",2009,2009,IDX,Index,Units,115.824
+USA,United States,GDP_R00,"Real GDP, Index 2000=100",2010,2010,IDX,Index,Units,118.7934
+USA,United States,GDP_R00,"Real GDP, Index 2000=100",2011,2011,IDX,Index,Units,120.6357
+USA,United States,GDP_R00,"Real GDP, Index 2000=100",2012,2012,IDX,Index,Units,123.3495
+USA,United States,GDP_R00,"Real GDP, Index 2000=100",2013,2013,IDX,Index,Units,125.6217
+USA,United States,GDP_R00,"Real GDP, Index 2000=100",2014,2014,IDX,Index,Units,128.7949
+USA,United States,GDP_R00,"Real GDP, Index 2000=100",2015,2015,IDX,Index,Units,132.5403
+USA,United States,GDP_R00,"Real GDP, Index 2000=100",2016,2016,IDX,Index,Units,134.7111
+USA,United States,GDP_R00,"Real GDP, Index 2000=100",2017,2017,IDX,Index,Units,137.9034
+USA,United States,GDP_R00,"Real GDP, Index 2000=100",2018,2018,IDX,Index,Units,141.9403
+USA,United States,GDP_R00,"Real GDP, Index 2000=100",2019,2019,IDX,Index,Units,145.2526
+G20,G20,GDP_R00,"Real GDP, Index 2000=100",2000,2000,IDX,Index,Units,100
+G20,G20,GDP_R00,"Real GDP, Index 2000=100",2001,2001,IDX,Index,Units,102.2817
+G20,G20,GDP_R00,"Real GDP, Index 2000=100",2002,2002,IDX,Index,Units,104.7699
+G20,G20,GDP_R00,"Real GDP, Index 2000=100",2003,2003,IDX,Index,Units,107.9916
+G20,G20,GDP_R00,"Real GDP, Index 2000=100",2004,2004,IDX,Index,Units,112.8293
+G20,G20,GDP_R00,"Real GDP, Index 2000=100",2005,2005,IDX,Index,Units,117.6556
+G20,G20,GDP_R00,"Real GDP, Index 2000=100",2006,2006,IDX,Index,Units,123.481
+G20,G20,GDP_R00,"Real GDP, Index 2000=100",2007,2007,IDX,Index,Units,129.581
+G20,G20,GDP_R00,"Real GDP, Index 2000=100",2008,2008,IDX,Index,Units,132.7014
+G20,G20,GDP_R00,"Real GDP, Index 2000=100",2009,2009,IDX,Index,Units,131.3269
+G20,G20,GDP_R00,"Real GDP, Index 2000=100",2010,2010,IDX,Index,Units,137.9468
+G20,G20,GDP_R00,"Real GDP, Index 2000=100",2011,2011,IDX,Index,Units,143.4837
+G20,G20,GDP_R00,"Real GDP, Index 2000=100",2012,2012,IDX,Index,Units,147.6323
+G20,G20,GDP_R00,"Real GDP, Index 2000=100",2013,2013,IDX,Index,Units,152.1927
+G20,G20,GDP_R00,"Real GDP, Index 2000=100",2014,2014,IDX,Index,Units,157.3542
+G20,G20,GDP_R00,"Real GDP, Index 2000=100",2015,2015,IDX,Index,Units,162.804
+G20,G20,GDP_R00,"Real GDP, Index 2000=100",2016,2016,IDX,Index,Units,167.7268
+G20,G20,GDP_R00,"Real GDP, Index 2000=100",2017,2017,IDX,Index,Units,174.0427
+G20,G20,GDP_R00,"Real GDP, Index 2000=100",2018,2018,IDX,Index,Units,180.112
+G20,G20,GDP_R00,"Real GDP, Index 2000=100",2019,2019,IDX,Index,Units,185.3957
+G20,G20,GDP_RCAP,Real GDP per capita,2000,2000,USD,US Dollar,Units,13563.76
+G20,G20,GDP_RCAP,Real GDP per capita,2001,2001,USD,US Dollar,Units,13739.94
+G20,G20,GDP_RCAP,Real GDP per capita,2002,2002,USD,US Dollar,Units,13941.58
+G20,G20,GDP_RCAP,Real GDP per capita,2003,2003,USD,US Dollar,Units,14237.15
+G20,G20,GDP_RCAP,Real GDP per capita,2004,2004,USD,US Dollar,Units,14739
+G20,G20,GDP_RCAP,Real GDP per capita,2005,2005,USD,US Dollar,Units,15230.59
+G20,G20,GDP_RCAP,Real GDP per capita,2006,2006,USD,US Dollar,Units,15841.78
+G20,G20,GDP_RCAP,Real GDP per capita,2007,2007,USD,US Dollar,Units,16477.39
+G20,G20,GDP_RCAP,Real GDP per capita,2008,2008,USD,US Dollar,Units,16726.84
+G20,G20,GDP_RCAP,Real GDP per capita,2009,2009,USD,US Dollar,Units,16411.15
+G20,G20,GDP_RCAP,Real GDP per capita,2010,2010,USD,US Dollar,Units,17092.54
+G20,G20,GDP_RCAP,Real GDP per capita,2011,2011,USD,US Dollar,Units,17630.89
+G20,G20,GDP_RCAP,Real GDP per capita,2012,2012,USD,US Dollar,Units,17992.84
+G20,G20,GDP_RCAP,Real GDP per capita,2013,2013,USD,US Dollar,Units,18400.75
+G20,G20,GDP_RCAP,Real GDP per capita,2014,2014,USD,US Dollar,Units,18876.68
+G20,G20,GDP_RCAP,Real GDP per capita,2015,2015,USD,US Dollar,Units,19382.4
+G20,G20,GDP_RCAP,Real GDP per capita,2016,2016,USD,US Dollar,Units,19821.19
+G20,G20,GDP_RCAP,Real GDP per capita,2017,2017,USD,US Dollar,Units,20420.4
+G20,G20,GDP_RCAP,Real GDP per capita,2018,2018,USD,US Dollar,Units,20987.02
+G20,G20,GDP_RCAP,Real GDP per capita,2019,2019,USD,US Dollar,Units,21461.23
+G20,G20,NRG_INT,"Energy intensity, TPES per capita",2000,2000,TOE,Tonnes of oil equivalent (toe),Units,1.991959
+G20,G20,NRG_INT,"Energy intensity, TPES per capita",2001,2001,TOE,Tonnes of oil equivalent (toe),Units,1.984159
+G20,G20,NRG_INT,"Energy intensity, TPES per capita",2002,2002,TOE,Tonnes of oil equivalent (toe),Units,1.997984
+G20,G20,NRG_INT,"Energy intensity, TPES per capita",2003,2003,TOE,Tonnes of oil equivalent (toe),Units,2.049602
+G20,G20,NRG_INT,"Energy intensity, TPES per capita",2004,2004,TOE,Tonnes of oil equivalent (toe),Units,2.115124
+G20,G20,NRG_INT,"Energy intensity, TPES per capita",2005,2005,TOE,Tonnes of oil equivalent (toe),Units,2.147009
+G20,G20,NRG_INT,"Energy intensity, TPES per capita",2006,2006,TOE,Tonnes of oil equivalent (toe),Units,2.185491
+G20,G20,NRG_INT,"Energy intensity, TPES per capita",2007,2007,TOE,Tonnes of oil equivalent (toe),Units,2.214714
+G20,G20,NRG_INT,"Energy intensity, TPES per capita",2008,2008,TOE,Tonnes of oil equivalent (toe),Units,2.212325
+G20,G20,NRG_INT,"Energy intensity, TPES per capita",2009,2009,TOE,Tonnes of oil equivalent (toe),Units,2.171487
+G20,G20,NRG_INT,"Energy intensity, TPES per capita",2010,2010,TOE,Tonnes of oil equivalent (toe),Units,2.272464
+G20,G20,NRG_INT,"Energy intensity, TPES per capita",2011,2011,TOE,Tonnes of oil equivalent (toe),Units,2.281245
+G20,G20,NRG_INT,"Energy intensity, TPES per capita",2012,2012,TOE,Tonnes of oil equivalent (toe),Units,2.289875
+G20,G20,NRG_INT,"Energy intensity, TPES per capita",2013,2013,TOE,Tonnes of oil equivalent (toe),Units,2.295058
+G20,G20,NRG_INT,"Energy intensity, TPES per capita",2014,2014,TOE,Tonnes of oil equivalent (toe),Units,2.296051
+G20,G20,NRG_INT,"Energy intensity, TPES per capita",2015,2015,TOE,Tonnes of oil equivalent (toe),Units,2.282579
+G20,G20,NRG_INT,"Energy intensity, TPES per capita",2016,2016,TOE,Tonnes of oil equivalent (toe),Units,2.267701
+G20,G20,NRG_INT,"Energy intensity, TPES per capita",2017,2017,TOE,Tonnes of oil equivalent (toe),Units,2.291306
+G20,G20,RE_TPES,"Renewable energy supply, % total energy supply",2000,2000,PC,Percentage,Units,10.06688
+G20,G20,RE_TPES,"Renewable energy supply, % total energy supply",2001,2001,PC,Percentage,Units,9.858912
+G20,G20,RE_TPES,"Renewable energy supply, % total energy supply",2002,2002,PC,Percentage,Units,9.832425
+G20,G20,RE_TPES,"Renewable energy supply, % total energy supply",2003,2003,PC,Percentage,Units,9.741579
+G20,G20,RE_TPES,"Renewable energy supply, % total energy supply",2004,2004,PC,Percentage,Units,9.619501
+G20,G20,RE_TPES,"Renewable energy supply, % total energy supply",2005,2005,PC,Percentage,Units,9.587478
+G20,G20,RE_TPES,"Renewable energy supply, % total energy supply",2006,2006,PC,Percentage,Units,9.548011
+G20,G20,RE_TPES,"Renewable energy supply, % total energy supply",2007,2007,PC,Percentage,Units,9.593585
+G20,G20,RE_TPES,"Renewable energy supply, % total energy supply",2008,2008,PC,Percentage,Units,9.832343
+G20,G20,RE_TPES,"Renewable energy supply, % total energy supply",2009,2009,PC,Percentage,Units,10.07088
+G20,G20,RE_TPES,"Renewable energy supply, % total energy supply",2010,2010,PC,Percentage,Units,10.01611
+G20,G20,RE_TPES,"Renewable energy supply, % total energy supply",2011,2011,PC,Percentage,Units,10.01542
+G20,G20,RE_TPES,"Renewable energy supply, % total energy supply",2012,2012,PC,Percentage,Units,10.20634
+G20,G20,RE_TPES,"Renewable energy supply, % total energy supply",2013,2013,PC,Percentage,Units,10.44166
+G20,G20,RE_TPES,"Renewable energy supply, % total energy supply",2014,2014,PC,Percentage,Units,10.55825
+G20,G20,RE_TPES,"Renewable energy supply, % total energy supply",2015,2015,PC,Percentage,Units,10.71432
+G20,G20,RE_TPES,"Renewable energy supply, % total energy supply",2016,2016,PC,Percentage,Units,11.03744
+G20,G20,RE_TPES,"Renewable energy supply, % total energy supply",2017,2017,PC,Percentage,Units,11.1753
+G20,G20,RE_NRG,"Renewable electricity, % total electricity generation",2000,2000,PC,Percentage,Units,15.76278
+G20,G20,RE_NRG,"Renewable electricity, % total electricity generation",2001,2001,PC,Percentage,Units,15.43531
+G20,G20,RE_NRG,"Renewable electricity, % total electricity generation",2002,2002,PC,Percentage,Units,15.48598
+G20,G20,RE_NRG,"Renewable electricity, % total electricity generation",2003,2003,PC,Percentage,Units,15.22125
+G20,G20,RE_NRG,"Renewable electricity, % total electricity generation",2004,2004,PC,Percentage,Units,15.80783
+G20,G20,RE_NRG,"Renewable electricity, % total electricity generation",2005,2005,PC,Percentage,Units,15.89021
+G20,G20,RE_NRG,"Renewable electricity, % total electricity generation",2006,2006,PC,Percentage,Units,16.22523
+G20,G20,RE_NRG,"Renewable electricity, % total electricity generation",2007,2007,PC,Percentage,Units,16.12063
+G20,G20,RE_NRG,"Renewable electricity, % total electricity generation",2008,2008,PC,Percentage,Units,16.93414
+G20,G20,RE_NRG,"Renewable electricity, % total electricity generation",2009,2009,PC,Percentage,Units,17.91206
+G20,G20,RE_NRG,"Renewable electricity, % total electricity generation",2010,2010,PC,Percentage,Units,18.29971
+G20,G20,RE_NRG,"Renewable electricity, % total electricity generation",2011,2011,PC,Percentage,Units,18.79251
+G20,G20,RE_NRG,"Renewable electricity, % total electricity generation",2012,2012,PC,Percentage,Units,19.88647
+G20,G20,RE_NRG,"Renewable electricity, % total electricity generation",2013,2013,PC,Percentage,Units,20.8376
+G20,G20,RE_NRG,"Renewable electricity, % total electricity generation",2014,2014,PC,Percentage,Units,21.71194
+G20,G20,RE_NRG,"Renewable electricity, % total electricity generation",2015,2015,PC,Percentage,Units,22.43024
+G20,G20,RE_NRG,"Renewable electricity, % total electricity generation",2016,2016,PC,Percentage,Units,23.47119
+G20,G20,RE_NRG,"Renewable electricity, % total electricity generation",2017,2017,PC,Percentage,Units,24.29913
+G20,G20,CO2_PBEM,Production-based CO2 emissions,2000,2000,TONNE,Tonnes,Millions,19973.583984375
+G20,G20,CO2_PBEM,Production-based CO2 emissions,2001,2001,TONNE,Tonnes,Millions,20248.6484375
+G20,G20,CO2_PBEM,Production-based CO2 emissions,2002,2002,TONNE,Tonnes,Millions,20432.15234375
+G20,G20,CO2_PBEM,Production-based CO2 emissions,2003,2003,TONNE,Tonnes,Millions,21336.29296875
+G20,G20,CO2_PBEM,Production-based CO2 emissions,2004,2004,TONNE,Tonnes,Millions,22256.86328125
+G20,G20,CO2_PBEM,Production-based CO2 emissions,2005,2005,TONNE,Tonnes,Millions,22997.6484375
+G20,G20,CO2_PBEM,Production-based CO2 emissions,2006,2006,TONNE,Tonnes,Millions,23671.87109375
+G20,G20,CO2_PBEM,Production-based CO2 emissions,2007,2007,TONNE,Tonnes,Millions,24489.4765625
+G20,G20,CO2_PBEM,Production-based CO2 emissions,2008,2008,TONNE,Tonnes,Millions,24550.33984375
+G20,G20,CO2_PBEM,Production-based CO2 emissions,2009,2009,TONNE,Tonnes,Millions,24209.3359375
+G20,G20,CO2_PBEM,Production-based CO2 emissions,2010,2010,TONNE,Tonnes,Millions,25733.44140625
+G20,G20,CO2_PBEM,Production-based CO2 emissions,2011,2011,TONNE,Tonnes,Millions,26461.416015625
+G20,G20,CO2_PBEM,Production-based CO2 emissions,2012,2012,TONNE,Tonnes,Millions,26751.2734375
+G20,G20,CO2_PBEM,Production-based CO2 emissions,2013,2013,TONNE,Tonnes,Millions,27202.07421875
+G20,G20,CO2_PBEM,Production-based CO2 emissions,2014,2014,TONNE,Tonnes,Millions,27120.251953125
+G20,G20,CO2_PBEM,Production-based CO2 emissions,2015,2015,TONNE,Tonnes,Millions,27013.20703125
+G20,G20,CO2_PBEM,Production-based CO2 emissions,2016,2016,TONNE,Tonnes,Millions,26867.41796875
+G20,G20,CO2_PBEM,Production-based CO2 emissions,2017,2017,TONNE,Tonnes,Millions,27220.650390625
+NLD,Netherlands,FFRD_ERD,"Fossil fuel public RD&D budget (excluding CCS), % total energy public RD&D",2000,2000,PC,Percentage,Units,6.790778
+NLD,Netherlands,FFRD_ERD,"Fossil fuel public RD&D budget (excluding CCS), % total energy public RD&D",2001,2001,PC,Percentage,Units,4.901543
+NLD,Netherlands,FFRD_ERD,"Fossil fuel public RD&D budget (excluding CCS), % total energy public RD&D",2002,2002,PC,Percentage,Units,13.03492
+NLD,Netherlands,FFRD_ERD,"Fossil fuel public RD&D budget (excluding CCS), % total energy public RD&D",2003,2003,PC,Percentage,Units,10.20728
+NLD,Netherlands,FFRD_ERD,"Fossil fuel public RD&D budget (excluding CCS), % total energy public RD&D",2005,2005,PC,Percentage,Units,4.73029
+NLD,Netherlands,FFRD_ERD,"Fossil fuel public RD&D budget (excluding CCS), % total energy public RD&D",2006,2006,PC,Percentage,Units,7.191012
+NLD,Netherlands,FFRD_ERD,"Fossil fuel public RD&D budget (excluding CCS), % total energy public RD&D",2007,2007,PC,Percentage,Units,3.657363
+NLD,Netherlands,FFRD_ERD,"Fossil fuel public RD&D budget (excluding CCS), % total energy public RD&D",2008,2008,PC,Percentage,Units,5.687203
+NLD,Netherlands,FFRD_ERD,"Fossil fuel public RD&D budget (excluding CCS), % total energy public RD&D",2009,2009,PC,Percentage,Units,3.129514
+NLD,Netherlands,FFRD_ERD,"Fossil fuel public RD&D budget (excluding CCS), % total energy public RD&D",2010,2010,PC,Percentage,Units,0.7705876
+NLD,Netherlands,FFRD_ERD,"Fossil fuel public RD&D budget (excluding CCS), % total energy public RD&D",2011,2011,PC,Percentage,Units,3.786151
+NLD,Netherlands,FFRD_ERD,"Fossil fuel public RD&D budget (excluding CCS), % total energy public RD&D",2012,2012,PC,Percentage,Units,5.505532
+NLD,Netherlands,FFRD_ERD,"Fossil fuel public RD&D budget (excluding CCS), % total energy public RD&D",2013,2013,PC,Percentage,Units,5.561696
+NLD,Netherlands,FFRD_ERD,"Fossil fuel public RD&D budget (excluding CCS), % total energy public RD&D",2014,2014,PC,Percentage,Units,2.406882
+NLD,Netherlands,FFRD_ERD,"Fossil fuel public RD&D budget (excluding CCS), % total energy public RD&D",2015,2015,PC,Percentage,Units,7.687086
+NLD,Netherlands,FFRD_ERD,"Fossil fuel public RD&D budget (excluding CCS), % total energy public RD&D",2016,2016,PC,Percentage,Units,2.343251
+NLD,Netherlands,FFRD_ERD,"Fossil fuel public RD&D budget (excluding CCS), % total energy public RD&D",2017,2017,PC,Percentage,Units,0.3815376
+NLD,Netherlands,FFRD_ERD,"Fossil fuel public RD&D budget (excluding CCS), % total energy public RD&D",2018,2018,PC,Percentage,Units,4.835789
+NLD,Netherlands,FFS_TTAX,"Total fossil fuel support, % of total tax revenue",2000,2000,PC,Percentage,Units,0
+NLD,Netherlands,FFS_TTAX,"Total fossil fuel support, % of total tax revenue",2001,2001,PC,Percentage,Units,0.1633242
+NLD,Netherlands,FFS_TTAX,"Total fossil fuel support, % of total tax revenue",2002,2002,PC,Percentage,Units,0.1767086
+NLD,Netherlands,FFS_TTAX,"Total fossil fuel support, % of total tax revenue",2003,2003,PC,Percentage,Units,0.164668
+NLD,Netherlands,FFS_TTAX,"Total fossil fuel support, % of total tax revenue",2004,2004,PC,Percentage,Units,0.1696578
+NLD,Netherlands,FFS_TTAX,"Total fossil fuel support, % of total tax revenue",2005,2005,PC,Percentage,Units,0.1820513
+NLD,Netherlands,FFS_TTAX,"Total fossil fuel support, % of total tax revenue",2006,2006,PC,Percentage,Units,0.1737632
+NLD,Netherlands,FFS_TTAX,"Total fossil fuel support, % of total tax revenue",2007,2007,PC,Percentage,Units,0.1745813
+NLD,Netherlands,FFS_TTAX,"Total fossil fuel support, % of total tax revenue",2008,2008,PC,Percentage,Units,0.1776301
+NLD,Netherlands,FFS_TTAX,"Total fossil fuel support, % of total tax revenue",2009,2009,PC,Percentage,Units,0.1443079
+NLD,Netherlands,FFS_TTAX,"Total fossil fuel support, % of total tax revenue",2010,2010,PC,Percentage,Units,0.143303
+NLD,Netherlands,FFS_TTAX,"Total fossil fuel support, % of total tax revenue",2011,2011,PC,Percentage,Units,0.1592011
+NLD,Netherlands,FFS_TTAX,"Total fossil fuel support, % of total tax revenue",2012,2012,PC,Percentage,Units,0.1394421
+NLD,Netherlands,FFS_TTAX,"Total fossil fuel support, % of total tax revenue",2013,2013,PC,Percentage,Units,0.04915036
+NLD,Netherlands,FFS_TTAX,"Total fossil fuel support, % of total tax revenue",2014,2014,PC,Percentage,Units,0.05947551
+NLD,Netherlands,FFS_TTAX,"Total fossil fuel support, % of total tax revenue",2015,2015,PC,Percentage,Units,0.06113956
+NLD,Netherlands,FFS_TTAX,"Total fossil fuel support, % of total tax revenue",2016,2016,PC,Percentage,Units,0.107871
+NLD,Netherlands,FFS_TTAX,"Total fossil fuel support, % of total tax revenue",2017,2017,PC,Percentage,Units,0.1080107
+NLD,Netherlands,FFS_TTAX,"Total fossil fuel support, % of total tax revenue",2018,2018,PC,Percentage,Units,0.1023342
+DEU,Germany,FFRD_ERD,"Fossil fuel public RD&D budget (excluding CCS), % total energy public RD&D",2000,2000,PC,Percentage,Units,3.407526
+DEU,Germany,FFRD_ERD,"Fossil fuel public RD&D budget (excluding CCS), % total energy public RD&D",2001,2001,PC,Percentage,Units,5.982906
+DEU,Germany,FFRD_ERD,"Fossil fuel public RD&D budget (excluding CCS), % total energy public RD&D",2002,2002,PC,Percentage,Units,5.10397
+DEU,Germany,FFRD_ERD,"Fossil fuel public RD&D budget (excluding CCS), % total energy public RD&D",2003,2003,PC,Percentage,Units,2.118644
+DEU,Germany,FFRD_ERD,"Fossil fuel public RD&D budget (excluding CCS), % total energy public RD&D",2004,2004,PC,Percentage,Units,1.44935
+DEU,Germany,FFRD_ERD,"Fossil fuel public RD&D budget (excluding CCS), % total energy public RD&D",2005,2005,PC,Percentage,Units,1.909412
+DEU,Germany,FFRD_ERD,"Fossil fuel public RD&D budget (excluding CCS), % total energy public RD&D",2006,2006,PC,Percentage,Units,3.260716
+DEU,Germany,FFRD_ERD,"Fossil fuel public RD&D budget (excluding CCS), % total energy public RD&D",2007,2007,PC,Percentage,Units,4.878938
+DEU,Germany,FFRD_ERD,"Fossil fuel public RD&D budget (excluding CCS), % total energy public RD&D",2008,2008,PC,Percentage,Units,6.401967
+DEU,Germany,FFRD_ERD,"Fossil fuel public RD&D budget (excluding CCS), % total energy public RD&D",2009,2009,PC,Percentage,Units,3.202636
+DEU,Germany,FFRD_ERD,"Fossil fuel public RD&D budget (excluding CCS), % total energy public RD&D",2010,2010,PC,Percentage,Units,2.208764
+DEU,Germany,FFRD_ERD,"Fossil fuel public RD&D budget (excluding CCS), % total energy public RD&D",2011,2011,PC,Percentage,Units,3.976138
+DEU,Germany,FFRD_ERD,"Fossil fuel public RD&D budget (excluding CCS), % total energy public RD&D",2012,2012,PC,Percentage,Units,1.541972
+DEU,Germany,FFRD_ERD,"Fossil fuel public RD&D budget (excluding CCS), % total energy public RD&D",2013,2013,PC,Percentage,Units,1.993417
+DEU,Germany,FFRD_ERD,"Fossil fuel public RD&D budget (excluding CCS), % total energy public RD&D",2014,2014,PC,Percentage,Units,2.487192
+DEU,Germany,FFRD_ERD,"Fossil fuel public RD&D budget (excluding CCS), % total energy public RD&D",2015,2015,PC,Percentage,Units,2.757253
+DEU,Germany,FFRD_ERD,"Fossil fuel public RD&D budget (excluding CCS), % total energy public RD&D",2016,2016,PC,Percentage,Units,2.548556
+DEU,Germany,FFRD_ERD,"Fossil fuel public RD&D budget (excluding CCS), % total energy public RD&D",2017,2017,PC,Percentage,Units,2.692814
+DEU,Germany,FFRD_ERD,"Fossil fuel public RD&D budget (excluding CCS), % total energy public RD&D",2018,2018,PC,Percentage,Units,0.3872822
+DEU,Germany,FFRD_ERD,"Fossil fuel public RD&D budget (excluding CCS), % total energy public RD&D",2019,2019,PC,Percentage,Units,1.204412
+KOR,Korea,FFRD_ERD,"Fossil fuel public RD&D budget (excluding CCS), % total energy public RD&D",2002,2002,PC,Percentage,Units,12.65662
+KOR,Korea,FFRD_ERD,"Fossil fuel public RD&D budget (excluding CCS), % total energy public RD&D",2004,2004,PC,Percentage,Units,1.998322
+KOR,Korea,FFRD_ERD,"Fossil fuel public RD&D budget (excluding CCS), % total energy public RD&D",2005,2005,PC,Percentage,Units,1.174468
+KOR,Korea,FFRD_ERD,"Fossil fuel public RD&D budget (excluding CCS), % total energy public RD&D",2006,2006,PC,Percentage,Units,1.412049
+KOR,Korea,FFRD_ERD,"Fossil fuel public RD&D budget (excluding CCS), % total energy public RD&D",2007,2007,PC,Percentage,Units,11.18636
+KOR,Korea,FFRD_ERD,"Fossil fuel public RD&D budget (excluding CCS), % total energy public RD&D",2008,2008,PC,Percentage,Units,9.194324
+KOR,Korea,FFRD_ERD,"Fossil fuel public RD&D budget (excluding CCS), % total energy public RD&D",2009,2009,PC,Percentage,Units,12.17914
+KOR,Korea,FFRD_ERD,"Fossil fuel public RD&D budget (excluding CCS), % total energy public RD&D",2010,2010,PC,Percentage,Units,9.036226
+KOR,Korea,FFRD_ERD,"Fossil fuel public RD&D budget (excluding CCS), % total energy public RD&D",2011,2011,PC,Percentage,Units,7.162203
+KOR,Korea,FFRD_ERD,"Fossil fuel public RD&D budget (excluding CCS), % total energy public RD&D",2012,2012,PC,Percentage,Units,8.846677
+KOR,Korea,FFRD_ERD,"Fossil fuel public RD&D budget (excluding CCS), % total energy public RD&D",2013,2013,PC,Percentage,Units,11.33657
+KOR,Korea,FFRD_ERD,"Fossil fuel public RD&D budget (excluding CCS), % total energy public RD&D",2014,2014,PC,Percentage,Units,11.5435
+KOR,Korea,FFRD_ERD,"Fossil fuel public RD&D budget (excluding CCS), % total energy public RD&D",2015,2015,PC,Percentage,Units,11.82526
+KOR,Korea,FFRD_ERD,"Fossil fuel public RD&D budget (excluding CCS), % total energy public RD&D",2016,2016,PC,Percentage,Units,6.965896
+KOR,Korea,FFRD_ERD,"Fossil fuel public RD&D budget (excluding CCS), % total energy public RD&D",2017,2017,PC,Percentage,Units,6.031767
+KOR,Korea,FFRD_ERD,"Fossil fuel public RD&D budget (excluding CCS), % total energy public RD&D",2018,2018,PC,Percentage,Units,5.233546
+KOR,Korea,FFS_TTAX,"Total fossil fuel support, % of total tax revenue",2000,2000,PC,Percentage,Units,0.7182998
+KOR,Korea,FFS_TTAX,"Total fossil fuel support, % of total tax revenue",2001,2001,PC,Percentage,Units,0.8740663
+KOR,Korea,FFS_TTAX,"Total fossil fuel support, % of total tax revenue",2002,2002,PC,Percentage,Units,1.082165
+KOR,Korea,FFS_TTAX,"Total fossil fuel support, % of total tax revenue",2003,2003,PC,Percentage,Units,1.349804
+KOR,Korea,FFS_TTAX,"Total fossil fuel support, % of total tax revenue",2004,2004,PC,Percentage,Units,1.768011
+KOR,Korea,FFS_TTAX,"Total fossil fuel support, % of total tax revenue",2005,2005,PC,Percentage,Units,1.903781
+KOR,Korea,FFS_TTAX,"Total fossil fuel support, % of total tax revenue",2006,2006,PC,Percentage,Units,1.05359
+KOR,Korea,FFS_TTAX,"Total fossil fuel support, % of total tax revenue",2007,2007,PC,Percentage,Units,1.02504
+KOR,Korea,FFS_TTAX,"Total fossil fuel support, % of total tax revenue",2008,2008,PC,Percentage,Units,0.8210145
+KOR,Korea,FFS_TTAX,"Total fossil fuel support, % of total tax revenue",2009,2009,PC,Percentage,Units,0.8537605
+KOR,Korea,FFS_TTAX,"Total fossil fuel support, % of total tax revenue",2010,2010,PC,Percentage,Units,0.745919
+KOR,Korea,FFS_TTAX,"Total fossil fuel support, % of total tax revenue",2011,2011,PC,Percentage,Units,0.6464944
+KOR,Korea,FFS_TTAX,"Total fossil fuel support, % of total tax revenue",2012,2012,PC,Percentage,Units,0.5948288
+KOR,Korea,FFS_TTAX,"Total fossil fuel support, % of total tax revenue",2013,2013,PC,Percentage,Units,0.6194028
+KOR,Korea,FFS_TTAX,"Total fossil fuel support, % of total tax revenue",2014,2014,PC,Percentage,Units,0.568453
+KOR,Korea,FFS_TTAX,"Total fossil fuel support, % of total tax revenue",2015,2015,PC,Percentage,Units,0.4991212
+KOR,Korea,FFS_TTAX,"Total fossil fuel support, % of total tax revenue",2016,2016,PC,Percentage,Units,0.3751567
+KOR,Korea,FFS_TTAX,"Total fossil fuel support, % of total tax revenue",2017,2017,PC,Percentage,Units,0.3594659
+KOR,Korea,FFS_TTAX,"Total fossil fuel support, % of total tax revenue",2018,2018,PC,Percentage,Units,0.3183455
+USA,United States,FFRD_ERD,"Fossil fuel public RD&D budget (excluding CCS), % total energy public RD&D",2000,2000,PC,Percentage,Units,9.151927
+USA,United States,FFRD_ERD,"Fossil fuel public RD&D budget (excluding CCS), % total energy public RD&D",2001,2001,PC,Percentage,Units,12.53533
+USA,United States,FFRD_ERD,"Fossil fuel public RD&D budget (excluding CCS), % total energy public RD&D",2002,2002,PC,Percentage,Units,14.90635
+USA,United States,FFRD_ERD,"Fossil fuel public RD&D budget (excluding CCS), % total energy public RD&D",2003,2003,PC,Percentage,Units,15.12345
+USA,United States,FFRD_ERD,"Fossil fuel public RD&D budget (excluding CCS), % total energy public RD&D",2004,2004,PC,Percentage,Units,13.5603
+USA,United States,FFRD_ERD,"Fossil fuel public RD&D budget (excluding CCS), % total energy public RD&D",2005,2005,PC,Percentage,Units,10.27672
+USA,United States,FFRD_ERD,"Fossil fuel public RD&D budget (excluding CCS), % total energy public RD&D",2006,2006,PC,Percentage,Units,8.796101
+USA,United States,FFRD_ERD,"Fossil fuel public RD&D budget (excluding CCS), % total energy public RD&D",2007,2007,PC,Percentage,Units,8.174288
+USA,United States,FFRD_ERD,"Fossil fuel public RD&D budget (excluding CCS), % total energy public RD&D",2008,2008,PC,Percentage,Units,8.507182
+USA,United States,FFRD_ERD,"Fossil fuel public RD&D budget (excluding CCS), % total energy public RD&D",2009,2009,PC,Percentage,Units,29.6402
+USA,United States,FFRD_ERD,"Fossil fuel public RD&D budget (excluding CCS), % total energy public RD&D",2010,2010,PC,Percentage,Units,4.928691
+USA,United States,FFRD_ERD,"Fossil fuel public RD&D budget (excluding CCS), % total energy public RD&D",2011,2011,PC,Percentage,Units,3.374561
+USA,United States,FFRD_ERD,"Fossil fuel public RD&D budget (excluding CCS), % total energy public RD&D",2012,2012,PC,Percentage,Units,2.181701
+USA,United States,FFRD_ERD,"Fossil fuel public RD&D budget (excluding CCS), % total energy public RD&D",2013,2013,PC,Percentage,Units,2.949801
+USA,United States,FFRD_ERD,"Fossil fuel public RD&D budget (excluding CCS), % total energy public RD&D",2014,2014,PC,Percentage,Units,3.680654
+USA,United States,FFRD_ERD,"Fossil fuel public RD&D budget (excluding CCS), % total energy public RD&D",2015,2015,PC,Percentage,Units,3.848424
+USA,United States,FFRD_ERD,"Fossil fuel public RD&D budget (excluding CCS), % total energy public RD&D",2016,2016,PC,Percentage,Units,4.520206
+USA,United States,FFRD_ERD,"Fossil fuel public RD&D budget (excluding CCS), % total energy public RD&D",2017,2017,PC,Percentage,Units,4.59367
+USA,United States,FFRD_ERD,"Fossil fuel public RD&D budget (excluding CCS), % total energy public RD&D",2018,2018,PC,Percentage,Units,5.209502
+USA,United States,FFRD_ERD,"Fossil fuel public RD&D budget (excluding CCS), % total energy public RD&D",2019,2019,PC,Percentage,Units,4.953778
+DEU,Germany,FFS_TTAX,"Total fossil fuel support, % of total tax revenue",2000,2000,PC,Percentage,Units,0.8679472
+DEU,Germany,FFS_TTAX,"Total fossil fuel support, % of total tax revenue",2001,2001,PC,Percentage,Units,0.8319322
+DEU,Germany,FFS_TTAX,"Total fossil fuel support, % of total tax revenue",2002,2002,PC,Percentage,Units,0.7413861
+DEU,Germany,FFS_TTAX,"Total fossil fuel support, % of total tax revenue",2003,2003,PC,Percentage,Units,0.7483618
+DEU,Germany,FFS_TTAX,"Total fossil fuel support, % of total tax revenue",2004,2004,PC,Percentage,Units,0.7071124
+DEU,Germany,FFS_TTAX,"Total fossil fuel support, % of total tax revenue",2005,2005,PC,Percentage,Units,0.6316718
+DEU,Germany,FFS_TTAX,"Total fossil fuel support, % of total tax revenue",2006,2006,PC,Percentage,Units,0.5742014
+DEU,Germany,FFS_TTAX,"Total fossil fuel support, % of total tax revenue",2007,2007,PC,Percentage,Units,0.5689133
+DEU,Germany,FFS_TTAX,"Total fossil fuel support, % of total tax revenue",2008,2008,PC,Percentage,Units,0.5981885
+DEU,Germany,FFS_TTAX,"Total fossil fuel support, % of total tax revenue",2009,2009,PC,Percentage,Units,0.5757754
+DEU,Germany,FFS_TTAX,"Total fossil fuel support, % of total tax revenue",2010,2010,PC,Percentage,Units,0.5740668
+DEU,Germany,FFS_TTAX,"Total fossil fuel support, % of total tax revenue",2011,2011,PC,Percentage,Units,0.515384
+DEU,Germany,FFS_TTAX,"Total fossil fuel support, % of total tax revenue",2012,2012,PC,Percentage,Units,0.464077
+DEU,Germany,FFS_TTAX,"Total fossil fuel support, % of total tax revenue",2013,2013,PC,Percentage,Units,0.4360851
+DEU,Germany,FFS_TTAX,"Total fossil fuel support, % of total tax revenue",2014,2014,PC,Percentage,Units,0.4297098
+DEU,Germany,FFS_TTAX,"Total fossil fuel support, % of total tax revenue",2015,2015,PC,Percentage,Units,0.4025672
+DEU,Germany,FFS_TTAX,"Total fossil fuel support, % of total tax revenue",2016,2016,PC,Percentage,Units,0.4073642
+DEU,Germany,FFS_TTAX,"Total fossil fuel support, % of total tax revenue",2017,2017,PC,Percentage,Units,0.3649432
+DEU,Germany,FFS_TTAX,"Total fossil fuel support, % of total tax revenue",2018,2018,PC,Percentage,Units,0.3358516
+USA,United States,FFS_TTAX,"Total fossil fuel support, % of total tax revenue",2000,2000,PC,Percentage,Units,0.1559242
+USA,United States,FFS_TTAX,"Total fossil fuel support, % of total tax revenue",2001,2001,PC,Percentage,Units,0.1428039
+USA,United States,FFS_TTAX,"Total fossil fuel support, % of total tax revenue",2002,2002,PC,Percentage,Units,0.1811034
+USA,United States,FFS_TTAX,"Total fossil fuel support, % of total tax revenue",2003,2003,PC,Percentage,Units,0.2436725
+USA,United States,FFS_TTAX,"Total fossil fuel support, % of total tax revenue",2004,2004,PC,Percentage,Units,0.2421427
+USA,United States,FFS_TTAX,"Total fossil fuel support, % of total tax revenue",2005,2005,PC,Percentage,Units,0.24717
+USA,United States,FFS_TTAX,"Total fossil fuel support, % of total tax revenue",2006,2006,PC,Percentage,Units,0.2697635
+USA,United States,FFS_TTAX,"Total fossil fuel support, % of total tax revenue",2007,2007,PC,Percentage,Units,0.2745713
+USA,United States,FFS_TTAX,"Total fossil fuel support, % of total tax revenue",2008,2008,PC,Percentage,Units,0.2897224
+USA,United States,FFS_TTAX,"Total fossil fuel support, % of total tax revenue",2009,2009,PC,Percentage,Units,0.3626575
+USA,United States,FFS_TTAX,"Total fossil fuel support, % of total tax revenue",2010,2010,PC,Percentage,Units,0.4312208
+USA,United States,FFS_TTAX,"Total fossil fuel support, % of total tax revenue",2011,2011,PC,Percentage,Units,0.2927391
+USA,United States,FFS_TTAX,"Total fossil fuel support, % of total tax revenue",2012,2012,PC,Percentage,Units,0.2956664
+USA,United States,FFS_TTAX,"Total fossil fuel support, % of total tax revenue",2013,2013,PC,Percentage,Units,0.2628996
+USA,United States,FFS_TTAX,"Total fossil fuel support, % of total tax revenue",2014,2014,PC,Percentage,Units,0.2274292
+USA,United States,FFS_TTAX,"Total fossil fuel support, % of total tax revenue",2015,2015,PC,Percentage,Units,0.1825335
+USA,United States,FFS_TTAX,"Total fossil fuel support, % of total tax revenue",2016,2016,PC,Percentage,Units,0.1361819
+USA,United States,FFS_TTAX,"Total fossil fuel support, % of total tax revenue",2017,2017,PC,Percentage,Units,0.122677
+USA,United States,FFS_TTAX,"Total fossil fuel support, % of total tax revenue",2018,2018,PC,Percentage,Units,0.1064528
+USA,United States,FIT_SOLAR,Mean feed-in tariff for solar PV electricity generation,2000,2000,USD,US Dollar,Units,0
+USA,United States,FIT_SOLAR,Mean feed-in tariff for solar PV electricity generation,2001,2001,USD,US Dollar,Units,0
+USA,United States,FIT_SOLAR,Mean feed-in tariff for solar PV electricity generation,2002,2002,USD,US Dollar,Units,0
+USA,United States,FIT_SOLAR,Mean feed-in tariff for solar PV electricity generation,2003,2003,USD,US Dollar,Units,0
+USA,United States,FIT_SOLAR,Mean feed-in tariff for solar PV electricity generation,2004,2004,USD,US Dollar,Units,0
+USA,United States,FIT_SOLAR,Mean feed-in tariff for solar PV electricity generation,2005,2005,USD,US Dollar,Units,0
+USA,United States,FIT_SOLAR,Mean feed-in tariff for solar PV electricity generation,2006,2006,USD,US Dollar,Units,0.00730000017211
+USA,United States,FIT_SOLAR,Mean feed-in tariff for solar PV electricity generation,2007,2007,USD,US Dollar,Units,0.00730000017211
+USA,United States,FIT_SOLAR,Mean feed-in tariff for solar PV electricity generation,2008,2008,USD,US Dollar,Units,0.00730000017211
+USA,United States,FIT_SOLAR,Mean feed-in tariff for solar PV electricity generation,2009,2009,USD,US Dollar,Units,0.01040000002831
+USA,United States,FIT_SOLAR,Mean feed-in tariff for solar PV electricity generation,2010,2010,USD,US Dollar,Units,0.09769999980927
+USA,United States,FIT_SOLAR,Mean feed-in tariff for solar PV electricity generation,2011,2011,USD,US Dollar,Units,0.08449999988079
+USA,United States,FIT_SOLAR,Mean feed-in tariff for solar PV electricity generation,2012,2012,USD,US Dollar,Units,0.0768000036478
+USA,United States,FIT_SOLAR,Mean feed-in tariff for solar PV electricity generation,2013,2013,USD,US Dollar,Units,0.0819000005722
+USA,United States,FIT_SOLAR,Mean feed-in tariff for solar PV electricity generation,2014,2014,USD,US Dollar,Units,0.01119999960065
+USA,United States,FIT_SOLAR,Mean feed-in tariff for solar PV electricity generation,2015,2015,USD,US Dollar,Units,0.00289999996312
+USA,United States,FIT_SOLAR,Mean feed-in tariff for solar PV electricity generation,2016,2016,USD,US Dollar,Units,0.00170000002254
+USA,United States,FIT_SOLAR,Mean feed-in tariff for solar PV electricity generation,2017,2017,USD,US Dollar,Units,0.00089999998454
+USA,United States,FIT_SOLAR,Mean feed-in tariff for solar PV electricity generation,2018,2018,USD,US Dollar,Units,0.00380000006407
+NLD,Netherlands,FIT_SOLAR,Mean feed-in tariff for solar PV electricity generation,2000,2000,USD,US Dollar,Units,0
+NLD,Netherlands,FIT_SOLAR,Mean feed-in tariff for solar PV electricity generation,2001,2001,USD,US Dollar,Units,0
+NLD,Netherlands,FIT_SOLAR,Mean feed-in tariff for solar PV electricity generation,2002,2002,USD,US Dollar,Units,0
+NLD,Netherlands,FIT_SOLAR,Mean feed-in tariff for solar PV electricity generation,2003,2003,USD,US Dollar,Units,0.07689999789
+NLD,Netherlands,FIT_SOLAR,Mean feed-in tariff for solar PV electricity generation,2004,2004,USD,US Dollar,Units,0.09329999983311
+NLD,Netherlands,FIT_SOLAR,Mean feed-in tariff for solar PV electricity generation,2005,2005,USD,US Dollar,Units,0.12070000171661
+NLD,Netherlands,FIT_SOLAR,Mean feed-in tariff for solar PV electricity generation,2006,2006,USD,US Dollar,Units,0.11490000039339
+NLD,Netherlands,FIT_SOLAR,Mean feed-in tariff for solar PV electricity generation,2007,2007,USD,US Dollar,Units,0.10689999908209
+NLD,Netherlands,FIT_SOLAR,Mean feed-in tariff for solar PV electricity generation,2008,2008,USD,US Dollar,Units,0.82950001955032
+NLD,Netherlands,FIT_SOLAR,Mean feed-in tariff for solar PV electricity generation,2009,2009,USD,US Dollar,Units,0.68690001964569
+NLD,Netherlands,FIT_SOLAR,Mean feed-in tariff for solar PV electricity generation,2010,2010,USD,US Dollar,Units,0.59920001029968
+NLD,Netherlands,FIT_SOLAR,Mean feed-in tariff for solar PV electricity generation,2011,2011,USD,US Dollar,Units,0.16699999570847
+NLD,Netherlands,FIT_SOLAR,Mean feed-in tariff for solar PV electricity generation,2012,2012,USD,US Dollar,Units,0.14129999279976
+NLD,Netherlands,FIT_SOLAR,Mean feed-in tariff for solar PV electricity generation,2013,2013,USD,US Dollar,Units,0.14609999954701
+NLD,Netherlands,FIT_SOLAR,Mean feed-in tariff for solar PV electricity generation,2014,2014,USD,US Dollar,Units,0.14609999954701
+NLD,Netherlands,FIT_SOLAR,Mean feed-in tariff for solar PV electricity generation,2015,2015,USD,US Dollar,Units,0.1203999966383
+NLD,Netherlands,FIT_SOLAR,Mean feed-in tariff for solar PV electricity generation,2016,2016,USD,US Dollar,Units,0.12009999901056
+NLD,Netherlands,FIT_SOLAR,Mean feed-in tariff for solar PV electricity generation,2017,2017,USD,US Dollar,Units,0.12139999866486
+NLD,Netherlands,FIT_SOLAR,Mean feed-in tariff for solar PV electricity generation,2018,2018,USD,US Dollar,Units,0.12700000405312
+NLD,Netherlands,FIT_SOLAR,Mean feed-in tariff for solar PV electricity generation,2019,2019,USD,US Dollar,Units,0.10970000177622
+DEU,Germany,FIT_WIND,Mean feed-in tariff for wind electricity generation,2000,2000,USD,US Dollar,Units,0.07620000094175
+DEU,Germany,FIT_WIND,Mean feed-in tariff for wind electricity generation,2001,2001,USD,US Dollar,Units,0.0738999992609
+DEU,Germany,FIT_WIND,Mean feed-in tariff for wind electricity generation,2002,2002,USD,US Dollar,Units,0.0768000036478
+DEU,Germany,FIT_WIND,Mean feed-in tariff for wind electricity generation,2003,2003,USD,US Dollar,Units,0.09049999713898
+DEU,Germany,FIT_WIND,Mean feed-in tariff for wind electricity generation,2004,2004,USD,US Dollar,Units,0.09080000221729
+DEU,Germany,FIT_WIND,Mean feed-in tariff for wind electricity generation,2005,2005,USD,US Dollar,Units,0.09009999781847
+DEU,Germany,FIT_WIND,Mean feed-in tariff for wind electricity generation,2006,2006,USD,US Dollar,Units,0.09030000120401
+DEU,Germany,FIT_WIND,Mean feed-in tariff for wind electricity generation,2007,2007,USD,US Dollar,Units,0.09780000150204
+DEU,Germany,FIT_WIND,Mean feed-in tariff for wind electricity generation,2008,2008,USD,US Dollar,Units,0.10289999842644
+DEU,Germany,FIT_WIND,Mean feed-in tariff for wind electricity generation,2009,2009,USD,US Dollar,Units,0.11509999632835
+DEU,Germany,FIT_WIND,Mean feed-in tariff for wind electricity generation,2010,2010,USD,US Dollar,Units,0.1093999966979
+DEU,Germany,FIT_WIND,Mean feed-in tariff for wind electricity generation,2011,2011,USD,US Dollar,Units,0.11479999870062
+DEU,Germany,FIT_WIND,Mean feed-in tariff for wind electricity generation,2012,2012,USD,US Dollar,Units,0.11469999700785
+DEU,Germany,FIT_WIND,Mean feed-in tariff for wind electricity generation,2013,2013,USD,US Dollar,Units,0.11689999699593
+DEU,Germany,FIT_WIND,Mean feed-in tariff for wind electricity generation,2014,2014,USD,US Dollar,Units,0.11819999665022
+DEU,Germany,FIT_WIND,Mean feed-in tariff for wind electricity generation,2015,2015,USD,US Dollar,Units,0.09870000183582
+DEU,Germany,FIT_WIND,Mean feed-in tariff for wind electricity generation,2016,2016,USD,US Dollar,Units,0.09849999845028
+DEU,Germany,FIT_WIND,Mean feed-in tariff for wind electricity generation,2017,2017,USD,US Dollar,Units,0.09470000118017
+DEU,Germany,FIT_WIND,Mean feed-in tariff for wind electricity generation,2018,2018,USD,US Dollar,Units,0.11400000005961
+DEU,Germany,FIT_WIND,Mean feed-in tariff for wind electricity generation,2019,2019,USD,US Dollar,Units,0.10800000280142
+USA,United States,FIT_WIND,Mean feed-in tariff for wind electricity generation,2000,2000,USD,US Dollar,Units,0
+USA,United States,FIT_WIND,Mean feed-in tariff for wind electricity generation,2001,2001,USD,US Dollar,Units,0
+USA,United States,FIT_WIND,Mean feed-in tariff for wind electricity generation,2002,2002,USD,US Dollar,Units,0
+USA,United States,FIT_WIND,Mean feed-in tariff for wind electricity generation,2003,2003,USD,US Dollar,Units,0
+USA,United States,FIT_WIND,Mean feed-in tariff for wind electricity generation,2004,2004,USD,US Dollar,Units,0
+USA,United States,FIT_WIND,Mean feed-in tariff for wind electricity generation,2005,2005,USD,US Dollar,Units,0
+USA,United States,FIT_WIND,Mean feed-in tariff for wind electricity generation,2006,2006,USD,US Dollar,Units,0.00340000004508
+USA,United States,FIT_WIND,Mean feed-in tariff for wind electricity generation,2007,2007,USD,US Dollar,Units,0.00340000004508
+USA,United States,FIT_WIND,Mean feed-in tariff for wind electricity generation,2008,2008,USD,US Dollar,Units,0.01009999960661
+USA,United States,FIT_WIND,Mean feed-in tariff for wind electricity generation,2009,2009,USD,US Dollar,Units,0.01040000002831
+USA,United States,FIT_WIND,Mean feed-in tariff for wind electricity generation,2010,2010,USD,US Dollar,Units,0.0848999992013
+USA,United States,FIT_WIND,Mean feed-in tariff for wind electricity generation,2011,2011,USD,US Dollar,Units,0.07209999859333
+USA,United States,FIT_WIND,Mean feed-in tariff for wind electricity generation,2012,2012,USD,US Dollar,Units,0.06379999965429
+USA,United States,FIT_WIND,Mean feed-in tariff for wind electricity generation,2013,2013,USD,US Dollar,Units,0.05979999899864
+USA,United States,FIT_WIND,Mean feed-in tariff for wind electricity generation,2014,2014,USD,US Dollar,Units,0.0109999999404
+USA,United States,FIT_WIND,Mean feed-in tariff for wind electricity generation,2015,2015,USD,US Dollar,Units,0.00359999993816
+USA,United States,FIT_WIND,Mean feed-in tariff for wind electricity generation,2016,2016,USD,US Dollar,Units,0.00260000000708
+USA,United States,FIT_WIND,Mean feed-in tariff for wind electricity generation,2017,2017,USD,US Dollar,Units,0.00200000009499
+USA,United States,FIT_WIND,Mean feed-in tariff for wind electricity generation,2018,2018,USD,US Dollar,Units,0.01090000011027
+KOR,Korea,FIT_WIND,Mean feed-in tariff for wind electricity generation,2000,2000,USD,US Dollar,Units,0
+KOR,Korea,FIT_WIND,Mean feed-in tariff for wind electricity generation,2001,2001,USD,US Dollar,Units,0
+KOR,Korea,FIT_WIND,Mean feed-in tariff for wind electricity generation,2002,2002,USD,US Dollar,Units,0
+KOR,Korea,FIT_WIND,Mean feed-in tariff for wind electricity generation,2003,2003,USD,US Dollar,Units,0.09030000120401
+KOR,Korea,FIT_WIND,Mean feed-in tariff for wind electricity generation,2004,2004,USD,US Dollar,Units,0.09399999678135
+KOR,Korea,FIT_WIND,Mean feed-in tariff for wind electricity generation,2005,2005,USD,US Dollar,Units,0.10509999841452
+KOR,Korea,FIT_WIND,Mean feed-in tariff for wind electricity generation,2006,2006,USD,US Dollar,Units,0.11280000209808
+KOR,Korea,FIT_WIND,Mean feed-in tariff for wind electricity generation,2007,2007,USD,US Dollar,Units,0.11550000309944
+KOR,Korea,FIT_WIND,Mean feed-in tariff for wind electricity generation,2008,2008,USD,US Dollar,Units,0.09740000218153
+KOR,Korea,FIT_WIND,Mean feed-in tariff for wind electricity generation,2009,2009,USD,US Dollar,Units,0.08399999886751
+KOR,Korea,FIT_WIND,Mean feed-in tariff for wind electricity generation,2010,2010,USD,US Dollar,Units,0.09279999881983
+KOR,Korea,FIT_WIND,Mean feed-in tariff for wind electricity generation,2011,2011,USD,US Dollar,Units,0.09679999947548
+KOR,Korea,FIT_WIND,Mean feed-in tariff for wind electricity generation,2012,2012,USD,US Dollar,Units,0
+KOR,Korea,FIT_WIND,Mean feed-in tariff for wind electricity generation,2013,2013,USD,US Dollar,Units,0
+KOR,Korea,FIT_WIND,Mean feed-in tariff for wind electricity generation,2014,2014,USD,US Dollar,Units,0
+KOR,Korea,FIT_WIND,Mean feed-in tariff for wind electricity generation,2015,2015,USD,US Dollar,Units,0
+KOR,Korea,FIT_WIND,Mean feed-in tariff for wind electricity generation,2016,2016,USD,US Dollar,Units,0
+KOR,Korea,FIT_WIND,Mean feed-in tariff for wind electricity generation,2017,2017,USD,US Dollar,Units,0
+KOR,Korea,FIT_WIND,Mean feed-in tariff for wind electricity generation,2018,2018,USD,US Dollar,Units,0
+KOR,Korea,FIT_WIND,Mean feed-in tariff for wind electricity generation,2019,2019,USD,US Dollar,Units,0
+DEU,Germany,FIT_SOLAR,Mean feed-in tariff for solar PV electricity generation,2000,2000,USD,US Dollar,Units,0.07620000094175
+DEU,Germany,FIT_SOLAR,Mean feed-in tariff for solar PV electricity generation,2001,2001,USD,US Dollar,Units,0.0738999992609
+DEU,Germany,FIT_SOLAR,Mean feed-in tariff for solar PV electricity generation,2002,2002,USD,US Dollar,Units,0.0768000036478
+DEU,Germany,FIT_SOLAR,Mean feed-in tariff for solar PV electricity generation,2003,2003,USD,US Dollar,Units,0.09049999713898
+DEU,Germany,FIT_SOLAR,Mean feed-in tariff for solar PV electricity generation,2004,2004,USD,US Dollar,Units,0.67229998111725
+DEU,Germany,FIT_SOLAR,Mean feed-in tariff for solar PV electricity generation,2005,2005,USD,US Dollar,Units,0.64039999246597
+DEU,Germany,FIT_SOLAR,Mean feed-in tariff for solar PV electricity generation,2006,2006,USD,US Dollar,Units,0.61150002479553
+DEU,Germany,FIT_SOLAR,Mean feed-in tariff for solar PV electricity generation,2007,2007,USD,US Dollar,Units,0.63160002231598
+DEU,Germany,FIT_SOLAR,Mean feed-in tariff for solar PV electricity generation,2008,2008,USD,US Dollar,Units,0.6414999961853
+DEU,Germany,FIT_SOLAR,Mean feed-in tariff for solar PV electricity generation,2009,2009,USD,US Dollar,Units,0.52270001173019
+DEU,Germany,FIT_SOLAR,Mean feed-in tariff for solar PV electricity generation,2010,2010,USD,US Dollar,Units,0.44789999723434
+DEU,Germany,FIT_SOLAR,Mean feed-in tariff for solar PV electricity generation,2011,2011,USD,US Dollar,Units,0.34689998626709
+DEU,Germany,FIT_SOLAR,Mean feed-in tariff for solar PV electricity generation,2012,2012,USD,US Dollar,Units,0.25569999217987
+DEU,Germany,FIT_SOLAR,Mean feed-in tariff for solar PV electricity generation,2013,2013,USD,US Dollar,Units,0.24109999835491
+DEU,Germany,FIT_SOLAR,Mean feed-in tariff for solar PV electricity generation,2014,2014,USD,US Dollar,Units,0.21719999611378
+DEU,Germany,FIT_SOLAR,Mean feed-in tariff for solar PV electricity generation,2015,2015,USD,US Dollar,Units,0.09669999778271
+DEU,Germany,FIT_SOLAR,Mean feed-in tariff for solar PV electricity generation,2016,2016,USD,US Dollar,Units,0.09650000184774
+DEU,Germany,FIT_SOLAR,Mean feed-in tariff for solar PV electricity generation,2017,2017,USD,US Dollar,Units,0
+DEU,Germany,FIT_SOLAR,Mean feed-in tariff for solar PV electricity generation,2018,2018,USD,US Dollar,Units,0
+DEU,Germany,FIT_SOLAR,Mean feed-in tariff for solar PV electricity generation,2019,2019,USD,US Dollar,Units,0
+NLD,Netherlands,FIT_WIND,Mean feed-in tariff for wind electricity generation,2000,2000,USD,US Dollar,Units,0
+NLD,Netherlands,FIT_WIND,Mean feed-in tariff for wind electricity generation,2001,2001,USD,US Dollar,Units,0
+NLD,Netherlands,FIT_WIND,Mean feed-in tariff for wind electricity generation,2002,2002,USD,US Dollar,Units,0
+NLD,Netherlands,FIT_WIND,Mean feed-in tariff for wind electricity generation,2003,2003,USD,US Dollar,Units,0.06620000302792
+NLD,Netherlands,FIT_WIND,Mean feed-in tariff for wind electricity generation,2004,2004,USD,US Dollar,Units,0.0815000012517
+NLD,Netherlands,FIT_WIND,Mean feed-in tariff for wind electricity generation,2005,2005,USD,US Dollar,Units,0.10819999873638
+NLD,Netherlands,FIT_WIND,Mean feed-in tariff for wind electricity generation,2006,2006,USD,US Dollar,Units,0.10170000046492
+NLD,Netherlands,FIT_WIND,Mean feed-in tariff for wind electricity generation,2007,2007,USD,US Dollar,Units,0.08500000089407
+NLD,Netherlands,FIT_WIND,Mean feed-in tariff for wind electricity generation,2008,2008,USD,US Dollar,Units,0.16179999709129
+NLD,Netherlands,FIT_WIND,Mean feed-in tariff for wind electricity generation,2009,2009,USD,US Dollar,Units,0.16459999978542
+NLD,Netherlands,FIT_WIND,Mean feed-in tariff for wind electricity generation,2010,2010,USD,US Dollar,Units,0.12729999423027
+NLD,Netherlands,FIT_WIND,Mean feed-in tariff for wind electricity generation,2011,2011,USD,US Dollar,Units,0.1858000010252
+NLD,Netherlands,FIT_WIND,Mean feed-in tariff for wind electricity generation,2012,2012,USD,US Dollar,Units,0.14129999279976
+NLD,Netherlands,FIT_WIND,Mean feed-in tariff for wind electricity generation,2013,2013,USD,US Dollar,Units,0.14609999954701
+NLD,Netherlands,FIT_WIND,Mean feed-in tariff for wind electricity generation,2014,2014,USD,US Dollar,Units,0.14609999954701
+NLD,Netherlands,FIT_WIND,Mean feed-in tariff for wind electricity generation,2015,2015,USD,US Dollar,Units,0.15260000526905
+NLD,Netherlands,FIT_WIND,Mean feed-in tariff for wind electricity generation,2016,2016,USD,US Dollar,Units,0.15219999849796
+NLD,Netherlands,FIT_WIND,Mean feed-in tariff for wind electricity generation,2017,2017,USD,US Dollar,Units,0.09489999711514
+NLD,Netherlands,FIT_WIND,Mean feed-in tariff for wind electricity generation,2018,2018,USD,US Dollar,Units,0.0992000028491
+NLD,Netherlands,FIT_WIND,Mean feed-in tariff for wind electricity generation,2019,2019,USD,US Dollar,Units,0.07779999822378
+KOR,Korea,FIT_SOLAR,Mean feed-in tariff for solar PV electricity generation,2000,2000,USD,US Dollar,Units,0
+KOR,Korea,FIT_SOLAR,Mean feed-in tariff for solar PV electricity generation,2001,2001,USD,US Dollar,Units,0
+KOR,Korea,FIT_SOLAR,Mean feed-in tariff for solar PV electricity generation,2002,2002,USD,US Dollar,Units,0
+KOR,Korea,FIT_SOLAR,Mean feed-in tariff for solar PV electricity generation,2003,2003,USD,US Dollar,Units,0.60119998455048
+KOR,Korea,FIT_SOLAR,Mean feed-in tariff for solar PV electricity generation,2004,2004,USD,US Dollar,Units,0.62550002336502
+KOR,Korea,FIT_SOLAR,Mean feed-in tariff for solar PV electricity generation,2005,2005,USD,US Dollar,Units,0.69950002431869
+KOR,Korea,FIT_SOLAR,Mean feed-in tariff for solar PV electricity generation,2006,2006,USD,US Dollar,Units,0.75029999017716
+KOR,Korea,FIT_SOLAR,Mean feed-in tariff for solar PV electricity generation,2007,2007,USD,US Dollar,Units,0.74720001220703
+KOR,Korea,FIT_SOLAR,Mean feed-in tariff for solar PV electricity generation,2008,2008,USD,US Dollar,Units,0.62999999523163
+KOR,Korea,FIT_SOLAR,Mean feed-in tariff for solar PV electricity generation,2009,2009,USD,US Dollar,Units,0.42120000720024
+KOR,Korea,FIT_SOLAR,Mean feed-in tariff for solar PV electricity generation,2010,2010,USD,US Dollar,Units,0.42269998788834
+KOR,Korea,FIT_SOLAR,Mean feed-in tariff for solar PV electricity generation,2011,2011,USD,US Dollar,Units,0.4408999979496
+KOR,Korea,FIT_SOLAR,Mean feed-in tariff for solar PV electricity generation,2012,2012,USD,US Dollar,Units,0
+KOR,Korea,FIT_SOLAR,Mean feed-in tariff for solar PV electricity generation,2013,2013,USD,US Dollar,Units,0
+KOR,Korea,FIT_SOLAR,Mean feed-in tariff for solar PV electricity generation,2014,2014,USD,US Dollar,Units,0
+KOR,Korea,FIT_SOLAR,Mean feed-in tariff for solar PV electricity generation,2015,2015,USD,US Dollar,Units,0
+KOR,Korea,FIT_SOLAR,Mean feed-in tariff for solar PV electricity generation,2016,2016,USD,US Dollar,Units,0
+KOR,Korea,FIT_SOLAR,Mean feed-in tariff for solar PV electricity generation,2017,2017,USD,US Dollar,Units,0
+KOR,Korea,FIT_SOLAR,Mean feed-in tariff for solar PV electricity generation,2018,2018,USD,US Dollar,Units,0
+KOR,Korea,FIT_SOLAR,Mean feed-in tariff for solar PV electricity generation,2019,2019,USD,US Dollar,Units,0
+NLD,Netherlands,EPRICE_RES,"Residential electricity price, USD per kWh",2000,2000,USD,US Dollar,Units,0.2256066
+NLD,Netherlands,EPRICE_RES,"Residential electricity price, USD per kWh",2001,2001,USD,US Dollar,Units,0.2462394
+NLD,Netherlands,EPRICE_RES,"Residential electricity price, USD per kWh",2002,2002,USD,US Dollar,Units,0.2411077
+NLD,Netherlands,EPRICE_RES,"Residential electricity price, USD per kWh",2003,2003,USD,US Dollar,Units,0.2461839
+NLD,Netherlands,EPRICE_RES,"Residential electricity price, USD per kWh",2004,2004,USD,US Dollar,Units,0.25248
+NLD,Netherlands,EPRICE_RES,"Residential electricity price, USD per kWh",2005,2005,USD,US Dollar,Units,0.2643945
+NLD,Netherlands,EPRICE_RES,"Residential electricity price, USD per kWh",2006,2006,USD,US Dollar,Units,0.2790125
+NLD,Netherlands,EPRICE_RES,"Residential electricity price, USD per kWh",2007,2007,USD,US Dollar,Units,0.2765118
+NLD,Netherlands,EPRICE_RES,"Residential electricity price, USD per kWh",2008,2008,USD,US Dollar,Units,0.2156432
+NLD,Netherlands,EPRICE_RES,"Residential electricity price, USD per kWh",2009,2009,USD,US Dollar,Units,0.2407857
+NLD,Netherlands,EPRICE_RES,"Residential electricity price, USD per kWh",2010,2010,USD,US Dollar,Units,0.214448
+NLD,Netherlands,EPRICE_RES,"Residential electricity price, USD per kWh",2011,2011,USD,US Dollar,Units,0.2191738
+NLD,Netherlands,EPRICE_RES,"Residential electricity price, USD per kWh",2012,2012,USD,US Dollar,Units,0.2342074
+NLD,Netherlands,EPRICE_RES,"Residential electricity price, USD per kWh",2013,2013,USD,US Dollar,Units,0.2417275
+NLD,Netherlands,EPRICE_RES,"Residential electricity price, USD per kWh",2014,2014,USD,US Dollar,Units,0.2367738
+NLD,Netherlands,EPRICE_RES,"Residential electricity price, USD per kWh",2015,2015,USD,US Dollar,Units,0.2303396
+NLD,Netherlands,EPRICE_RES,"Residential electricity price, USD per kWh",2016,2016,USD,US Dollar,Units,0.1952319
+NLD,Netherlands,EPRICE_RES,"Residential electricity price, USD per kWh",2017,2017,USD,US Dollar,Units,0.1912595
+NLD,Netherlands,EPRICE_RES,"Residential electricity price, USD per kWh",2018,2018,USD,US Dollar,Units,0.2122503
+NLD,Netherlands,EPRICE_RES,"Residential electricity price, USD per kWh",2019,2019,USD,US Dollar,Units,0.2572619
+USA,United States,EPRICE_RES,"Residential electricity price, USD per kWh",2000,2000,USD,US Dollar,Units,0.1099778
+USA,United States,EPRICE_RES,"Residential electricity price, USD per kWh",2001,2001,USD,US Dollar,Units,0.1115545
+USA,United States,EPRICE_RES,"Residential electricity price, USD per kWh",2002,2002,USD,US Dollar,Units,0.1092232
+USA,United States,EPRICE_RES,"Residential electricity price, USD per kWh",2003,2003,USD,US Dollar,Units,0.1103394
+USA,United States,EPRICE_RES,"Residential electricity price, USD per kWh",2004,2004,USD,US Dollar,Units,0.110794
+USA,United States,EPRICE_RES,"Residential electricity price, USD per kWh",2005,2005,USD,US Dollar,Units,0.1131609
+USA,United States,EPRICE_RES,"Residential electricity price, USD per kWh",2006,2006,USD,US Dollar,Units,0.120952
+USA,United States,EPRICE_RES,"Residential electricity price, USD per kWh",2007,2007,USD,US Dollar,Units,0.1205959
+USA,United States,EPRICE_RES,"Residential electricity price, USD per kWh",2008,2008,USD,US Dollar,Units,0.125092
+USA,United States,EPRICE_RES,"Residential electricity price, USD per kWh",2009,2009,USD,US Dollar,Units,0.1268351
+USA,United States,EPRICE_RES,"Residential electricity price, USD per kWh",2010,2010,USD,US Dollar,Units,0.1261368
+USA,United States,EPRICE_RES,"Residential electricity price, USD per kWh",2011,2011,USD,US Dollar,Units,0.12505
+USA,United States,EPRICE_RES,"Residential electricity price, USD per kWh",2012,2012,USD,US Dollar,Units,0.1243933
+USA,United States,EPRICE_RES,"Residential electricity price, USD per kWh",2013,2013,USD,US Dollar,Units,0.1247693
+USA,United States,EPRICE_RES,"Residential electricity price, USD per kWh",2014,2014,USD,US Dollar,Units,0.1264835
+USA,United States,EPRICE_RES,"Residential electricity price, USD per kWh",2015,2015,USD,US Dollar,Units,0.12651
+USA,United States,EPRICE_RES,"Residential electricity price, USD per kWh",2016,2016,USD,US Dollar,Units,0.1242042
+USA,United States,EPRICE_RES,"Residential electricity price, USD per kWh",2017,2017,USD,US Dollar,Units,0.1251914
+USA,United States,EPRICE_RES,"Residential electricity price, USD per kWh",2018,2018,USD,US Dollar,Units,0.1222333
+USA,United States,EPRICE_RES,"Residential electricity price, USD per kWh",2019,2019,USD,US Dollar,Units,0.1211824
+DEU,Germany,EPRICE_IND,"Industry electricity price, USD per kWh",2006,2006,USD,US Dollar,Units,0.1277795
+DEU,Germany,EPRICE_IND,"Industry electricity price, USD per kWh",2007,2007,USD,US Dollar,Units,0.1363615
+DEU,Germany,EPRICE_IND,"Industry electricity price, USD per kWh",2008,2008,USD,US Dollar,Units,0.1499192
+DEU,Germany,EPRICE_IND,"Industry electricity price, USD per kWh",2009,2009,USD,US Dollar,Units,0.1676506
+DEU,Germany,EPRICE_IND,"Industry electricity price, USD per kWh",2010,2010,USD,US Dollar,Units,0.1700579
+DEU,Germany,EPRICE_IND,"Industry electricity price, USD per kWh",2011,2011,USD,US Dollar,Units,0.1853939
+DEU,Germany,EPRICE_IND,"Industry electricity price, USD per kWh",2012,2012,USD,US Dollar,Units,0.1870228
+DEU,Germany,EPRICE_IND,"Industry electricity price, USD per kWh",2013,2013,USD,US Dollar,Units,0.2022084
+DEU,Germany,EPRICE_IND,"Industry electricity price, USD per kWh",2014,2014,USD,US Dollar,Units,0.2055877
+DEU,Germany,EPRICE_IND,"Industry electricity price, USD per kWh",2015,2015,USD,US Dollar,Units,0.2000867
+DEU,Germany,EPRICE_IND,"Industry electricity price, USD per kWh",2016,2016,USD,US Dollar,Units,0.1925498
+DEU,Germany,EPRICE_IND,"Industry electricity price, USD per kWh",2017,2017,USD,US Dollar,Units,0.1898751
+DEU,Germany,EPRICE_IND,"Industry electricity price, USD per kWh",2018,2018,USD,US Dollar,Units,0.1815969
+KOR,Korea,EPRICE_RES,"Residential electricity price, USD per kWh",2000,2000,USD,US Dollar,Units,0.1685061
+KOR,Korea,EPRICE_RES,"Residential electricity price, USD per kWh",2001,2001,USD,US Dollar,Units,0.1574262
+KOR,Korea,EPRICE_RES,"Residential electricity price, USD per kWh",2002,2002,USD,US Dollar,Units,0.1512425
+KOR,Korea,EPRICE_RES,"Residential electricity price, USD per kWh",2003,2003,USD,US Dollar,Units,0.1478622
+KOR,Korea,EPRICE_RES,"Residential electricity price, USD per kWh",2004,2004,USD,US Dollar,Units,0.1481676
+KOR,Korea,EPRICE_RES,"Residential electricity price, USD per kWh",2005,2005,USD,US Dollar,Units,0.14685
+KOR,Korea,EPRICE_RES,"Residential electricity price, USD per kWh",2006,2006,USD,US Dollar,Units,0.1502515
+KOR,Korea,EPRICE_RES,"Residential electricity price, USD per kWh",2007,2007,USD,US Dollar,Units,0.1483935
+KOR,Korea,EPRICE_RES,"Residential electricity price, USD per kWh",2008,2008,USD,US Dollar,Units,0.148578
+KOR,Korea,EPRICE_RES,"Residential electricity price, USD per kWh",2009,2009,USD,US Dollar,Units,0.1441232
+KOR,Korea,EPRICE_RES,"Residential electricity price, USD per kWh",2010,2010,USD,US Dollar,Units,0.1478786
+KOR,Korea,EPRICE_RES,"Residential electricity price, USD per kWh",2011,2011,USD,US Dollar,Units,0.1694658
+KOR,Korea,EPRICE_RES,"Residential electricity price, USD per kWh",2012,2012,USD,US Dollar,Units,0.1725316
+KOR,Korea,EPRICE_RES,"Residential electricity price, USD per kWh",2013,2013,USD,US Dollar,Units,0.1753901
+KOR,Korea,EPRICE_RES,"Residential electricity price, USD per kWh",2014,2014,USD,US Dollar,Units,0.1712413
+KOR,Korea,EPRICE_RES,"Residential electricity price, USD per kWh",2015,2015,USD,US Dollar,Units,0.1640317
+KOR,Korea,EPRICE_RES,"Residential electricity price, USD per kWh",2016,2016,USD,US Dollar,Units,0.1580156
+KOR,Korea,EPRICE_RES,"Residential electricity price, USD per kWh",2017,2017,USD,US Dollar,Units,0.1380224
+KOR,Korea,EPRICE_RES,"Residential electricity price, USD per kWh",2018,2018,USD,US Dollar,Units,0.1353094
+KOR,Korea,EPRICE_RES,"Residential electricity price, USD per kWh",2019,2019,USD,US Dollar,Units,0.1341317
+NLD,Netherlands,EPRICE_IND,"Industry electricity price, USD per kWh",2007,2007,USD,US Dollar,Units,0.1394389
+NLD,Netherlands,EPRICE_IND,"Industry electricity price, USD per kWh",2008,2008,USD,US Dollar,Units,0.1405442
+NLD,Netherlands,EPRICE_IND,"Industry electricity price, USD per kWh",2009,2009,USD,US Dollar,Units,0.1539639
+NLD,Netherlands,EPRICE_IND,"Industry electricity price, USD per kWh",2010,2010,USD,US Dollar,Units,0.1339578
+NLD,Netherlands,EPRICE_IND,"Industry electricity price, USD per kWh",2011,2011,USD,US Dollar,Units,0.1298917
+NLD,Netherlands,EPRICE_IND,"Industry electricity price, USD per kWh",2012,2012,USD,US Dollar,Units,0.1286466
+NLD,Netherlands,EPRICE_IND,"Industry electricity price, USD per kWh",2013,2013,USD,US Dollar,Units,0.1283183
+NLD,Netherlands,EPRICE_IND,"Industry electricity price, USD per kWh",2014,2014,USD,US Dollar,Units,0.1340175
+NLD,Netherlands,EPRICE_IND,"Industry electricity price, USD per kWh",2015,2015,USD,US Dollar,Units,0.1205911
+NLD,Netherlands,EPRICE_IND,"Industry electricity price, USD per kWh",2016,2016,USD,US Dollar,Units,0.1145379
+NLD,Netherlands,EPRICE_IND,"Industry electricity price, USD per kWh",2017,2017,USD,US Dollar,Units,0.1125291
+NLD,Netherlands,EPRICE_IND,"Industry electricity price, USD per kWh",2018,2018,USD,US Dollar,Units,0.113258
+USA,United States,EPRICE_IND,"Industry electricity price, USD per kWh",2006,2006,USD,US Dollar,Units,0.07162016
+USA,United States,EPRICE_IND,"Industry electricity price, USD per kWh",2007,2007,USD,US Dollar,Units,0.07239602
+USA,United States,EPRICE_IND,"Industry electricity price, USD per kWh",2008,2008,USD,US Dollar,Units,0.07583489
+USA,United States,EPRICE_IND,"Industry electricity price, USD per kWh",2009,2009,USD,US Dollar,Units,0.07508478
+USA,United States,EPRICE_IND,"Industry electricity price, USD per kWh",2010,2010,USD,US Dollar,Units,0.07396933
+USA,United States,EPRICE_IND,"Industry electricity price, USD per kWh",2011,2011,USD,US Dollar,Units,0.07279732
+USA,United States,EPRICE_IND,"Industry electricity price, USD per kWh",2012,2012,USD,US Dollar,Units,0.06986717
+USA,United States,EPRICE_IND,"Industry electricity price, USD per kWh",2013,2013,USD,US Dollar,Units,0.07037053
+USA,United States,EPRICE_IND,"Industry electricity price, USD per kWh",2014,2014,USD,US Dollar,Units,0.07174946
+USA,United States,EPRICE_IND,"Industry electricity price, USD per kWh",2015,2015,USD,US Dollar,Units,0.06911
+USA,United States,EPRICE_IND,"Industry electricity price, USD per kWh",2016,2016,USD,US Dollar,Units,0.06694692
+USA,United States,EPRICE_IND,"Industry electricity price, USD per kWh",2017,2017,USD,US Dollar,Units,0.06679723
+USA,United States,EPRICE_IND,"Industry electricity price, USD per kWh",2018,2018,USD,US Dollar,Units,0.06575882
+USA,United States,EPRICE_IND,"Industry electricity price, USD per kWh",2019,2019,USD,US Dollar,Units,0.06369977
+DEU,Germany,EPRICE_RES,"Residential electricity price, USD per kWh",2000,2000,USD,US Dollar,Units,0.2036259
+DEU,Germany,EPRICE_RES,"Residential electricity price, USD per kWh",2001,2001,USD,US Dollar,Units,0.2122462
+DEU,Germany,EPRICE_RES,"Residential electricity price, USD per kWh",2002,2002,USD,US Dollar,Units,0.217904
+DEU,Germany,EPRICE_RES,"Residential electricity price, USD per kWh",2003,2003,USD,US Dollar,Units,0.232315
+DEU,Germany,EPRICE_RES,"Residential electricity price, USD per kWh",2004,2004,USD,US Dollar,Units,0.2351088
+DEU,Germany,EPRICE_RES,"Residential electricity price, USD per kWh",2005,2005,USD,US Dollar,Units,0.2518078
+DEU,Germany,EPRICE_RES,"Residential electricity price, USD per kWh",2006,2006,USD,US Dollar,Units,0.2591672
+DEU,Germany,EPRICE_RES,"Residential electricity price, USD per kWh",2007,2007,USD,US Dollar,Units,0.3038982
+DEU,Germany,EPRICE_RES,"Residential electricity price, USD per kWh",2008,2008,USD,US Dollar,Units,0.3153789
+DEU,Germany,EPRICE_RES,"Residential electricity price, USD per kWh",2009,2009,USD,US Dollar,Units,0.3208838
+DEU,Germany,EPRICE_RES,"Residential electricity price, USD per kWh",2010,2010,USD,US Dollar,Units,0.3353362
+DEU,Germany,EPRICE_RES,"Residential electricity price, USD per kWh",2011,2011,USD,US Dollar,Units,0.3487425
+DEU,Germany,EPRICE_RES,"Residential electricity price, USD per kWh",2012,2012,USD,US Dollar,Units,0.3580031
+DEU,Germany,EPRICE_RES,"Residential electricity price, USD per kWh",2013,2013,USD,US Dollar,Units,0.3889904
+DEU,Germany,EPRICE_RES,"Residential electricity price, USD per kWh",2014,2014,USD,US Dollar,Units,0.3894003
+DEU,Germany,EPRICE_RES,"Residential electricity price, USD per kWh",2015,2015,USD,US Dollar,Units,0.379027
+DEU,Germany,EPRICE_RES,"Residential electricity price, USD per kWh",2016,2016,USD,US Dollar,Units,0.3777305
+DEU,Germany,EPRICE_RES,"Residential electricity price, USD per kWh",2017,2017,USD,US Dollar,Units,0.3832457
+DEU,Germany,EPRICE_RES,"Residential electricity price, USD per kWh",2018,2018,USD,US Dollar,Units,0.3707866
+NLD,Netherlands,EPEA_GDP,"National expenditure on environmental protection, % GDP",2013,2013,PC,Percentage,Units,2.555056
+NLD,Netherlands,EPEA_GDP,"National expenditure on environmental protection, % GDP",2014,2014,PC,Percentage,Units,2.714486
+NLD,Netherlands,EPEA_GDP,"National expenditure on environmental protection, % GDP",2015,2015,PC,Percentage,Units,2.631824
+NLD,Netherlands,EPEA_GDP,"National expenditure on environmental protection, % GDP",2016,2016,PC,Percentage,Units,2.421291
+DEU,Germany,EPEA_GDP,"National expenditure on environmental protection, % GDP",2010,2010,PC,Percentage,Units,2.032288
+DEU,Germany,EPEA_GDP,"National expenditure on environmental protection, % GDP",2011,2011,PC,Percentage,Units,2.0389
+DEU,Germany,EPEA_GDP,"National expenditure on environmental protection, % GDP",2012,2012,PC,Percentage,Units,2.077033
+DEU,Germany,EPEA_GDP,"National expenditure on environmental protection, % GDP",2013,2013,PC,Percentage,Units,2.096395
+DEU,Germany,EPEA_GDP,"National expenditure on environmental protection, % GDP",2014,2014,PC,Percentage,Units,2.159573
+DEU,Germany,EPEA_GDP,"National expenditure on environmental protection, % GDP",2015,2015,PC,Percentage,Units,2.123779
+DEU,Germany,EPEA_GDP,"National expenditure on environmental protection, % GDP",2016,2016,PC,Percentage,Units,2.112951
+KOR,Korea,EPEA_GDP,"National expenditure on environmental protection, % GDP",2004,2004,PC,Percentage,Units,2.369078
+KOR,Korea,EPEA_GDP,"National expenditure on environmental protection, % GDP",2005,2005,PC,Percentage,Units,2.39823
+KOR,Korea,EPEA_GDP,"National expenditure on environmental protection, % GDP",2006,2006,PC,Percentage,Units,2.492501
+KOR,Korea,EPEA_GDP,"National expenditure on environmental protection, % GDP",2007,2007,PC,Percentage,Units,2.494478
+KOR,Korea,EPEA_GDP,"National expenditure on environmental protection, % GDP",2008,2008,PC,Percentage,Units,2.485018
+KOR,Korea,EPEA_GDP,"National expenditure on environmental protection, % GDP",2009,2009,PC,Percentage,Units,2.581107
+KOR,Korea,EPEA_GDP,"National expenditure on environmental protection, % GDP",2010,2010,PC,Percentage,Units,2.377181
+KOR,Korea,EPEA_GDP,"National expenditure on environmental protection, % GDP",2011,2011,PC,Percentage,Units,2.330834
+KOR,Korea,EPEA_GDP,"National expenditure on environmental protection, % GDP",2012,2012,PC,Percentage,Units,2.2963
+KOR,Korea,EPEA_GDP,"National expenditure on environmental protection, % GDP",2013,2013,PC,Percentage,Units,2.228965
+KOR,Korea,EPEA_GDP,"National expenditure on environmental protection, % GDP",2014,2014,PC,Percentage,Units,2.160176
+KOR,Korea,EPEA_GDP,"National expenditure on environmental protection, % GDP",2015,2015,PC,Percentage,Units,2.103931
+KOR,Korea,EPEA_GDP,"National expenditure on environmental protection, % GDP",2016,2016,PC,Percentage,Units,2.077584
+KOR,Korea,EPEA_GDP,"National expenditure on environmental protection, % GDP",2017,2017,PC,Percentage,Units,2.020294
+DEU,Germany,CO2_INTPROD,"CO2 intensity of GDP, CO2 emissions per unit of GDP",2000,2000,,,Units,0.2475908
+DEU,Germany,CO2_INTPROD,"CO2 intensity of GDP, CO2 emissions per unit of GDP",2001,2001,,,Units,0.249202
+DEU,Germany,CO2_INTPROD,"CO2 intensity of GDP, CO2 emissions per unit of GDP",2002,2002,,,Units,0.2456203
+DEU,Germany,CO2_INTPROD,"CO2 intensity of GDP, CO2 emissions per unit of GDP",2003,2003,,,Units,0.2482282
+DEU,Germany,CO2_INTPROD,"CO2 intensity of GDP, CO2 emissions per unit of GDP",2004,2004,,,Units,0.2405079
+DEU,Germany,CO2_INTPROD,"CO2 intensity of GDP, CO2 emissions per unit of GDP",2005,2005,,,Units,0.2335332
+DEU,Germany,CO2_INTPROD,"CO2 intensity of GDP, CO2 emissions per unit of GDP",2006,2006,,,Units,0.2283114
+DEU,Germany,CO2_INTPROD,"CO2 intensity of GDP, CO2 emissions per unit of GDP",2007,2007,,,Units,0.2129069
+DEU,Germany,CO2_INTPROD,"CO2 intensity of GDP, CO2 emissions per unit of GDP",2008,2008,,,Units,0.2127676
+DEU,Germany,CO2_INTPROD,"CO2 intensity of GDP, CO2 emissions per unit of GDP",2009,2009,,,Units,0.2099629
+DEU,Germany,CO2_INTPROD,"CO2 intensity of GDP, CO2 emissions per unit of GDP",2010,2010,,,Units,0.2123608
+DEU,Germany,CO2_INTPROD,"CO2 intensity of GDP, CO2 emissions per unit of GDP",2011,2011,,,Units,0.1969084
+DEU,Germany,CO2_INTPROD,"CO2 intensity of GDP, CO2 emissions per unit of GDP",2012,2012,,,Units,0.1998131
+DEU,Germany,CO2_INTPROD,"CO2 intensity of GDP, CO2 emissions per unit of GDP",2013,2013,,,Units,0.2039034
+DEU,Germany,CO2_INTPROD,"CO2 intensity of GDP, CO2 emissions per unit of GDP",2014,2014,,,Units,0.188875
+DEU,Germany,CO2_INTPROD,"CO2 intensity of GDP, CO2 emissions per unit of GDP",2015,2015,,,Units,0.1873325
+DEU,Germany,CO2_INTPROD,"CO2 intensity of GDP, CO2 emissions per unit of GDP",2016,2016,,,Units,0.1844523
+DEU,Germany,CO2_INTPROD,"CO2 intensity of GDP, CO2 emissions per unit of GDP",2017,2017,,,Units,0.1761687
+DEU,Germany,CO2_INTPROD,"CO2 intensity of GDP, CO2 emissions per unit of GDP",2018,2018,,,Units,0.1680474
+KOR,Korea,CO2_INTPROD,"CO2 intensity of GDP, CO2 emissions per unit of GDP",2000,2000,,,Units,0.4098216
+KOR,Korea,CO2_INTPROD,"CO2 intensity of GDP, CO2 emissions per unit of GDP",2001,2001,,,Units,0.4034946
+KOR,Korea,CO2_INTPROD,"CO2 intensity of GDP, CO2 emissions per unit of GDP",2002,2002,,,Units,0.3661855
+KOR,Korea,CO2_INTPROD,"CO2 intensity of GDP, CO2 emissions per unit of GDP",2003,2003,,,Units,0.3565466
+KOR,Korea,CO2_INTPROD,"CO2 intensity of GDP, CO2 emissions per unit of GDP",2004,2004,,,Units,0.3559721
+KOR,Korea,CO2_INTPROD,"CO2 intensity of GDP, CO2 emissions per unit of GDP",2005,2005,,,Units,0.3396963
+KOR,Korea,CO2_INTPROD,"CO2 intensity of GDP, CO2 emissions per unit of GDP",2006,2006,,,Units,0.3276719
+KOR,Korea,CO2_INTPROD,"CO2 intensity of GDP, CO2 emissions per unit of GDP",2007,2007,,,Units,0.3181754
+KOR,Korea,CO2_INTPROD,"CO2 intensity of GDP, CO2 emissions per unit of GDP",2008,2008,,,Units,0.316264
+KOR,Korea,CO2_INTPROD,"CO2 intensity of GDP, CO2 emissions per unit of GDP",2009,2009,,,Units,0.3222784
+KOR,Korea,CO2_INTPROD,"CO2 intensity of GDP, CO2 emissions per unit of GDP",2010,2010,,,Units,0.3310892
+KOR,Korea,CO2_INTPROD,"CO2 intensity of GDP, CO2 emissions per unit of GDP",2011,2011,,,Units,0.3325614
+KOR,Korea,CO2_INTPROD,"CO2 intensity of GDP, CO2 emissions per unit of GDP",2012,2012,,,Units,0.3257241
+KOR,Korea,CO2_INTPROD,"CO2 intensity of GDP, CO2 emissions per unit of GDP",2013,2013,,,Units,0.31523
+KOR,Korea,CO2_INTPROD,"CO2 intensity of GDP, CO2 emissions per unit of GDP",2014,2014,,,Units,0.2991367
+KOR,Korea,CO2_INTPROD,"CO2 intensity of GDP, CO2 emissions per unit of GDP",2015,2015,,,Units,0.3009785
+KOR,Korea,CO2_INTPROD,"CO2 intensity of GDP, CO2 emissions per unit of GDP",2016,2016,,,Units,0.2959619
+KOR,Korea,CO2_INTPROD,"CO2 intensity of GDP, CO2 emissions per unit of GDP",2017,2017,,,Units,0.2921664
+KOR,Korea,CO2_INTPROD,"CO2 intensity of GDP, CO2 emissions per unit of GDP",2018,2018,,,Units,0.2873053
+NLD,Netherlands,CO2_INTPROD,"CO2 intensity of GDP, CO2 emissions per unit of GDP",2000,2000,,,Units,0.2253667
+NLD,Netherlands,CO2_INTPROD,"CO2 intensity of GDP, CO2 emissions per unit of GDP",2001,2001,,,Units,0.2270187
+NLD,Netherlands,CO2_INTPROD,"CO2 intensity of GDP, CO2 emissions per unit of GDP",2002,2002,,,Units,0.2269535
+NLD,Netherlands,CO2_INTPROD,"CO2 intensity of GDP, CO2 emissions per unit of GDP",2003,2003,,,Units,0.2306941
+NLD,Netherlands,CO2_INTPROD,"CO2 intensity of GDP, CO2 emissions per unit of GDP",2004,2004,,,Units,0.2285205
+NLD,Netherlands,CO2_INTPROD,"CO2 intensity of GDP, CO2 emissions per unit of GDP",2005,2005,,,Units,0.2184896
+NLD,Netherlands,CO2_INTPROD,"CO2 intensity of GDP, CO2 emissions per unit of GDP",2006,2006,,,Units,0.2058497
+NLD,Netherlands,CO2_INTPROD,"CO2 intensity of GDP, CO2 emissions per unit of GDP",2007,2007,,,Units,0.1994021
+NLD,Netherlands,CO2_INTPROD,"CO2 intensity of GDP, CO2 emissions per unit of GDP",2008,2008,,,Units,0.1960083
+NLD,Netherlands,CO2_INTPROD,"CO2 intensity of GDP, CO2 emissions per unit of GDP",2009,2009,,,Units,0.1976044
+NLD,Netherlands,CO2_INTPROD,"CO2 intensity of GDP, CO2 emissions per unit of GDP",2010,2010,,,Units,0.2080078
+NLD,Netherlands,CO2_INTPROD,"CO2 intensity of GDP, CO2 emissions per unit of GDP",2011,2011,,,Units,0.1900166
+NLD,Netherlands,CO2_INTPROD,"CO2 intensity of GDP, CO2 emissions per unit of GDP",2012,2012,,,Units,0.1904726
+NLD,Netherlands,CO2_INTPROD,"CO2 intensity of GDP, CO2 emissions per unit of GDP",2013,2013,,,Units,0.1902779
+NLD,Netherlands,CO2_INTPROD,"CO2 intensity of GDP, CO2 emissions per unit of GDP",2014,2014,,,Units,0.1788871
+NLD,Netherlands,CO2_INTPROD,"CO2 intensity of GDP, CO2 emissions per unit of GDP",2015,2015,,,Units,0.1852547
+NLD,Netherlands,CO2_INTPROD,"CO2 intensity of GDP, CO2 emissions per unit of GDP",2016,2016,,,Units,0.1814837
+NLD,Netherlands,CO2_INTPROD,"CO2 intensity of GDP, CO2 emissions per unit of GDP",2017,2017,,,Units,0.1736476
+NLD,Netherlands,CO2_INTPROD,"CO2 intensity of GDP, CO2 emissions per unit of GDP",2018,2018,,,Units,0.1640926
+USA,United States,CO2_INTPROD,"CO2 intensity of GDP, CO2 emissions per unit of GDP",2000,2000,,,Units,0.4167069
+USA,United States,CO2_INTPROD,"CO2 intensity of GDP, CO2 emissions per unit of GDP",2001,2001,,,Units,0.4105929
+USA,United States,CO2_INTPROD,"CO2 intensity of GDP, CO2 emissions per unit of GDP",2002,2002,,,Units,0.3924744
+USA,United States,CO2_INTPROD,"CO2 intensity of GDP, CO2 emissions per unit of GDP",2003,2003,,,Units,0.3860482
+USA,United States,CO2_INTPROD,"CO2 intensity of GDP, CO2 emissions per unit of GDP",2004,2004,,,Units,0.3770916
+USA,United States,CO2_INTPROD,"CO2 intensity of GDP, CO2 emissions per unit of GDP",2005,2005,,,Units,0.3652181
+USA,United States,CO2_INTPROD,"CO2 intensity of GDP, CO2 emissions per unit of GDP",2006,2006,,,Units,0.3488067
+USA,United States,CO2_INTPROD,"CO2 intensity of GDP, CO2 emissions per unit of GDP",2007,2007,,,Units,0.3475328
+USA,United States,CO2_INTPROD,"CO2 intensity of GDP, CO2 emissions per unit of GDP",2008,2008,,,Units,0.3373474
+USA,United States,CO2_INTPROD,"CO2 intensity of GDP, CO2 emissions per unit of GDP",2009,2009,,,Units,0.3215255
+USA,United States,CO2_INTPROD,"CO2 intensity of GDP, CO2 emissions per unit of GDP",2010,2010,,,Units,0.3276565
+USA,United States,CO2_INTPROD,"CO2 intensity of GDP, CO2 emissions per unit of GDP",2011,2011,,,Units,0.3091524
+USA,United States,CO2_INTPROD,"CO2 intensity of GDP, CO2 emissions per unit of GDP",2012,2012,,,Units,0.2890752
+USA,United States,CO2_INTPROD,"CO2 intensity of GDP, CO2 emissions per unit of GDP",2013,2013,,,Units,0.2916918
+USA,United States,CO2_INTPROD,"CO2 intensity of GDP, CO2 emissions per unit of GDP",2014,2014,,,Units,0.2849593
+USA,United States,CO2_INTPROD,"CO2 intensity of GDP, CO2 emissions per unit of GDP",2015,2015,,,Units,0.2704346
+USA,United States,CO2_INTPROD,"CO2 intensity of GDP, CO2 emissions per unit of GDP",2016,2016,,,Units,0.2612106
+USA,United States,CO2_INTPROD,"CO2 intensity of GDP, CO2 emissions per unit of GDP",2017,2017,,,Units,0.2510939
+USA,United States,CO2_INTPROD,"CO2 intensity of GDP, CO2 emissions per unit of GDP",2018,2018,,,Units,0.2521414

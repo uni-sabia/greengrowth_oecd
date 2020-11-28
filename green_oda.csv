@@ -1,0 +1,187 @@
+COU,Country,VAR,Variable,YEA,Year,Unit Code,Unit,PowerCode,Value
+DEU,Germany,ODA_ENV,"Environmentally related ODA, % total ODA",1990,1990,PC,Percentage,Units,3.1115715503693
+DEU,Germany,ODA_ENV,"Environmentally related ODA, % total ODA",1995,1995,PC,Percentage,Units,3.0831346511841
+DEU,Germany,ODA_ENV,"Environmentally related ODA, % total ODA",2000,2000,PC,Percentage,Units,21.251726150513
+DEU,Germany,ODA_ENV,"Environmentally related ODA, % total ODA",2005,2005,PC,Percentage,Units,17.247722625732
+DEU,Germany,ODA_ENV,"Environmentally related ODA, % total ODA",2010,2010,PC,Percentage,Units,45.958637237549
+DEU,Germany,ODA_ENV,"Environmentally related ODA, % total ODA",2011,2011,PC,Percentage,Units,46.267139434815
+DEU,Germany,ODA_ENV,"Environmentally related ODA, % total ODA",2012,2012,PC,Percentage,Units,41.003070831299
+DEU,Germany,ODA_ENV,"Environmentally related ODA, % total ODA",2013,2013,PC,Percentage,Units,40.304279327393
+DEU,Germany,ODA_ENV,"Environmentally related ODA, % total ODA",2014,2014,PC,Percentage,Units,47.687973022461
+DEU,Germany,ODA_ENV,"Environmentally related ODA, % total ODA",2015,2015,PC,Percentage,Units,35.823104858398
+DEU,Germany,ODA_ENV,"Environmentally related ODA, % total ODA",2016,2016,PC,Percentage,Units,33.083930969238
+DEU,Germany,ODA_ENV,"Environmentally related ODA, % total ODA",2017,2017,PC,Percentage,Units,31.285663604736
+DEU,Germany,ODA_ENV,"Environmentally related ODA, % total ODA",2018,2018,PC,Percentage,Units,36.427299499512
+DEU,Germany,ODA_RE,"ODA - renewable energy sector, % total allocable ODA",1990,1990,PC,Percentage,Units,1.5122517347336
+DEU,Germany,ODA_RE,"ODA - renewable energy sector, % total allocable ODA",1995,1995,PC,Percentage,Units,4.93723487854
+DEU,Germany,ODA_RE,"ODA - renewable energy sector, % total allocable ODA",2000,2000,PC,Percentage,Units,1.8396857976914
+DEU,Germany,ODA_RE,"ODA - renewable energy sector, % total allocable ODA",2005,2005,PC,Percentage,Units,12.579895019531
+DEU,Germany,ODA_RE,"ODA - renewable energy sector, % total allocable ODA",2010,2010,PC,Percentage,Units,18.640956878662
+DEU,Germany,ODA_RE,"ODA - renewable energy sector, % total allocable ODA",2011,2011,PC,Percentage,Units,12.805947303772
+DEU,Germany,ODA_RE,"ODA - renewable energy sector, % total allocable ODA",2012,2012,PC,Percentage,Units,8.8390855789185
+DEU,Germany,ODA_RE,"ODA - renewable energy sector, % total allocable ODA",2013,2013,PC,Percentage,Units,9.508807182312
+DEU,Germany,ODA_RE,"ODA - renewable energy sector, % total allocable ODA",2014,2014,PC,Percentage,Units,17.152297973633
+DEU,Germany,ODA_RE,"ODA - renewable energy sector, % total allocable ODA",2015,2015,PC,Percentage,Units,9.1038961410522
+DEU,Germany,ODA_RE,"ODA - renewable energy sector, % total allocable ODA",2016,2016,PC,Percentage,Units,10.587718963623
+DEU,Germany,ODA_RE,"ODA - renewable energy sector, % total allocable ODA",2017,2017,PC,Percentage,Units,8.0831680297852
+DEU,Germany,ODA_RE,"ODA - renewable energy sector, % total allocable ODA",2018,2018,PC,Percentage,Units,16.022212982178
+DEU,Germany,ODA_BIO,"ODA - all sectors - biodiversity, % total ODA",2000,2000,PC,Percentage,Units,8.3856916427612
+DEU,Germany,ODA_BIO,"ODA - all sectors - biodiversity, % total ODA",2005,2005,PC,Percentage,Units,3.056361913681
+DEU,Germany,ODA_BIO,"ODA - all sectors - biodiversity, % total ODA",2010,2010,PC,Percentage,Units,5.2546458244324
+DEU,Germany,ODA_BIO,"ODA - all sectors - biodiversity, % total ODA",2011,2011,PC,Percentage,Units,9.9766960144043
+DEU,Germany,ODA_BIO,"ODA - all sectors - biodiversity, % total ODA",2012,2012,PC,Percentage,Units,8.0198392868042
+DEU,Germany,ODA_BIO,"ODA - all sectors - biodiversity, % total ODA",2013,2013,PC,Percentage,Units,7.1141219139099
+DEU,Germany,ODA_BIO,"ODA - all sectors - biodiversity, % total ODA",2014,2014,PC,Percentage,Units,6.8293585777283
+DEU,Germany,ODA_BIO,"ODA - all sectors - biodiversity, % total ODA",2015,2015,PC,Percentage,Units,6.2638254165649
+DEU,Germany,ODA_BIO,"ODA - all sectors - biodiversity, % total ODA",2016,2016,PC,Percentage,Units,3.8471078872681
+DEU,Germany,ODA_BIO,"ODA - all sectors - biodiversity, % total ODA",2017,2017,PC,Percentage,Units,6.3791351318359
+DEU,Germany,ODA_BIO,"ODA - all sectors - biodiversity, % total ODA",2018,2018,PC,Percentage,Units,5.9892873764038
+DEU,Germany,ODA_CCMIT,"ODA - all sectors - climate change mitigation, % total ODA",2000,2000,PC,Percentage,Units,8.1810636520386
+DEU,Germany,ODA_CCMIT,"ODA - all sectors - climate change mitigation, % total ODA",2005,2005,PC,Percentage,Units,9.3844804763794
+DEU,Germany,ODA_CCMIT,"ODA - all sectors - climate change mitigation, % total ODA",2010,2010,PC,Percentage,Units,28.917182922363
+DEU,Germany,ODA_CCMIT,"ODA - all sectors - climate change mitigation, % total ODA",2011,2011,PC,Percentage,Units,25.770984649658
+DEU,Germany,ODA_CCMIT,"ODA - all sectors - climate change mitigation, % total ODA",2012,2012,PC,Percentage,Units,20.850326538086
+DEU,Germany,ODA_CCMIT,"ODA - all sectors - climate change mitigation, % total ODA",2013,2013,PC,Percentage,Units,19.128087997436
+DEU,Germany,ODA_CCMIT,"ODA - all sectors - climate change mitigation, % total ODA",2014,2014,PC,Percentage,Units,31.687072753906
+DEU,Germany,ODA_CCMIT,"ODA - all sectors - climate change mitigation, % total ODA",2015,2015,PC,Percentage,Units,21.057384490967
+DEU,Germany,ODA_CCMIT,"ODA - all sectors - climate change mitigation, % total ODA",2016,2016,PC,Percentage,Units,22.391244888306
+DEU,Germany,ODA_CCMIT,"ODA - all sectors - climate change mitigation, % total ODA",2017,2017,PC,Percentage,Units,19.250207901001
+DEU,Germany,ODA_CCMIT,"ODA - all sectors - climate change mitigation, % total ODA",2018,2018,PC,Percentage,Units,23.930477142334
+DEU,Germany,ODA_CCADP,"ODA - all sectors - climate change adaptation, % total ODA",2010,2010,PC,Percentage,Units,4.9280977249145
+DEU,Germany,ODA_CCADP,"ODA - all sectors - climate change adaptation, % total ODA",2011,2011,PC,Percentage,Units,18.51669883728
+DEU,Germany,ODA_CCADP,"ODA - all sectors - climate change adaptation, % total ODA",2012,2012,PC,Percentage,Units,12.896076202393
+DEU,Germany,ODA_CCADP,"ODA - all sectors - climate change adaptation, % total ODA",2013,2013,PC,Percentage,Units,12.885531425476
+DEU,Germany,ODA_CCADP,"ODA - all sectors - climate change adaptation, % total ODA",2014,2014,PC,Percentage,Units,15.54292011261
+DEU,Germany,ODA_CCADP,"ODA - all sectors - climate change adaptation, % total ODA",2015,2015,PC,Percentage,Units,13.945515632629
+DEU,Germany,ODA_CCADP,"ODA - all sectors - climate change adaptation, % total ODA",2016,2016,PC,Percentage,Units,9.320930480957
+DEU,Germany,ODA_CCADP,"ODA - all sectors - climate change adaptation, % total ODA",2017,2017,PC,Percentage,Units,12.624938964844
+DEU,Germany,ODA_CCADP,"ODA - all sectors - climate change adaptation, % total ODA",2018,2018,PC,Percentage,Units,15.445071220398
+DEU,Germany,ODA_DES,"ODA - all sectors - desertification, % total ODA",2000,2000,PC,Percentage,Units,6.1373205184936
+DEU,Germany,ODA_DES,"ODA - all sectors - desertification, % total ODA",2005,2005,PC,Percentage,Units,2.5435795783997
+DEU,Germany,ODA_DES,"ODA - all sectors - desertification, % total ODA",2010,2010,PC,Percentage,Units,1.822728395462
+DEU,Germany,ODA_DES,"ODA - all sectors - desertification, % total ODA",2011,2011,PC,Percentage,Units,2.9617161750794
+DEU,Germany,ODA_DES,"ODA - all sectors - desertification, % total ODA",2012,2012,PC,Percentage,Units,2.3674080371857
+DEU,Germany,ODA_DES,"ODA - all sectors - desertification, % total ODA",2013,2013,PC,Percentage,Units,2.3713102340698
+DEU,Germany,ODA_DES,"ODA - all sectors - desertification, % total ODA",2014,2014,PC,Percentage,Units,2.0625536441803
+DEU,Germany,ODA_DES,"ODA - all sectors - desertification, % total ODA",2015,2015,PC,Percentage,Units,1.8907046318054
+DEU,Germany,ODA_DES,"ODA - all sectors - desertification, % total ODA",2016,2016,PC,Percentage,Units,1.7349730730057
+DEU,Germany,ODA_DES,"ODA - all sectors - desertification, % total ODA",2017,2017,PC,Percentage,Units,1.9851398468018
+DEU,Germany,ODA_DES,"ODA - all sectors - desertification, % total ODA",2018,2018,PC,Percentage,Units,2.7537181377411
+DEU,Germany,ODA_GNI,"Net ODA provided, % GNI",1990,1990,PC,Percentage,Units,0.420973
+DEU,Germany,ODA_GNI,"Net ODA provided, % GNI",1995,1995,PC,Percentage,Units,0.307751
+DEU,Germany,ODA_GNI,"Net ODA provided, % GNI",2000,2000,PC,Percentage,Units,0.270087
+DEU,Germany,ODA_GNI,"Net ODA provided, % GNI",2005,2005,PC,Percentage,Units,0.360351
+DEU,Germany,ODA_GNI,"Net ODA provided, % GNI",2010,2010,PC,Percentage,Units,0.386701
+DEU,Germany,ODA_GNI,"Net ODA provided, % GNI",2011,2011,PC,Percentage,Units,0.386793
+DEU,Germany,ODA_GNI,"Net ODA provided, % GNI",2012,2012,PC,Percentage,Units,0.37176
+DEU,Germany,ODA_GNI,"Net ODA provided, % GNI",2013,2013,PC,Percentage,Units,0.380866
+DEU,Germany,ODA_GNI,"Net ODA provided, % GNI",2014,2014,PC,Percentage,Units,0.418735
+DEU,Germany,ODA_GNI,"Net ODA provided, % GNI",2015,2015,PC,Percentage,Units,0.523176
+DEU,Germany,ODA_GNI,"Net ODA provided, % GNI",2016,2016,PC,Percentage,Units,0.699296
+DEU,Germany,ODA_GNI,"Net ODA provided, % GNI",2017,2017,PC,Percentage,Units,0.667405
+USA,United States,ODA_ENV,"Environmentally related ODA, % total ODA",1990,1990,PC,Percentage,Units,1.1855318546295
+USA,United States,ODA_ENV,"Environmentally related ODA, % total ODA",1995,1995,PC,Percentage,Units,5.139196395874
+USA,United States,ODA_ENV,"Environmentally related ODA, % total ODA",2000,2000,PC,Percentage,Units,5.8885955810547
+USA,United States,ODA_ENV,"Environmentally related ODA, % total ODA",2005,2005,PC,Percentage,Units,2.4579217433929
+USA,United States,ODA_ENV,"Environmentally related ODA, % total ODA",2010,2010,PC,Percentage,Units,9.6089677810669
+USA,United States,ODA_ENV,"Environmentally related ODA, % total ODA",2011,2011,PC,Percentage,Units,10.609237670898
+USA,United States,ODA_ENV,"Environmentally related ODA, % total ODA",2012,2012,PC,Percentage,Units,10.972576141357
+USA,United States,ODA_ENV,"Environmentally related ODA, % total ODA",2013,2013,PC,Percentage,Units,12.168267250061
+USA,United States,ODA_ENV,"Environmentally related ODA, % total ODA",2014,2014,PC,Percentage,Units,9.4776725769043
+USA,United States,ODA_ENV,"Environmentally related ODA, % total ODA",2015,2015,PC,Percentage,Units,9.2672348022461
+USA,United States,ODA_ENV,"Environmentally related ODA, % total ODA",2016,2016,PC,Percentage,Units,10.900389671326
+USA,United States,ODA_ENV,"Environmentally related ODA, % total ODA",2017,2017,PC,Percentage,Units,7.9330053329468
+USA,United States,ODA_ENV,"Environmentally related ODA, % total ODA",2018,2018,PC,Percentage,Units,21.674962997436
+USA,United States,ODA_RE,"ODA - renewable energy sector, % total allocable ODA",1990,1990,PC,Percentage,Units,0
+USA,United States,ODA_RE,"ODA - renewable energy sector, % total allocable ODA",1995,1995,PC,Percentage,Units,0
+USA,United States,ODA_RE,"ODA - renewable energy sector, % total allocable ODA",2000,2000,PC,Percentage,Units,0.51455557346344
+USA,United States,ODA_RE,"ODA - renewable energy sector, % total allocable ODA",2005,2005,PC,Percentage,Units,0.01388577744365
+USA,United States,ODA_RE,"ODA - renewable energy sector, % total allocable ODA",2010,2010,PC,Percentage,Units,0.22839738428593
+USA,United States,ODA_RE,"ODA - renewable energy sector, % total allocable ODA",2011,2011,PC,Percentage,Units,0.04808035865426
+USA,United States,ODA_RE,"ODA - renewable energy sector, % total allocable ODA",2012,2012,PC,Percentage,Units,0.14474266767502
+USA,United States,ODA_RE,"ODA - renewable energy sector, % total allocable ODA",2013,2013,PC,Percentage,Units,0.21442577242851
+USA,United States,ODA_RE,"ODA - renewable energy sector, % total allocable ODA",2014,2014,PC,Percentage,Units,0.05330891534686
+USA,United States,ODA_RE,"ODA - renewable energy sector, % total allocable ODA",2015,2015,PC,Percentage,Units,1.1002601385117
+USA,United States,ODA_RE,"ODA - renewable energy sector, % total allocable ODA",2016,2016,PC,Percentage,Units,0.10453547537327
+USA,United States,ODA_RE,"ODA - renewable energy sector, % total allocable ODA",2017,2017,PC,Percentage,Units,1.1431634426117
+USA,United States,ODA_RE,"ODA - renewable energy sector, % total allocable ODA",2018,2018,PC,Percentage,Units,0.21585504710674
+USA,United States,ODA_BIO,"ODA - all sectors - biodiversity, % total ODA",2000,2000,PC,Percentage,Units,0.80719369649887
+USA,United States,ODA_BIO,"ODA - all sectors - biodiversity, % total ODA",2005,2005,PC,Percentage,Units,0.1273343116045
+USA,United States,ODA_BIO,"ODA - all sectors - biodiversity, % total ODA",2010,2010,PC,Percentage,Units,3.016214132309
+USA,United States,ODA_BIO,"ODA - all sectors - biodiversity, % total ODA",2011,2011,PC,Percentage,Units,3.7670893669128
+USA,United States,ODA_BIO,"ODA - all sectors - biodiversity, % total ODA",2012,2012,PC,Percentage,Units,3.9531919956207
+USA,United States,ODA_BIO,"ODA - all sectors - biodiversity, % total ODA",2013,2013,PC,Percentage,Units,3.4411852359772
+USA,United States,ODA_BIO,"ODA - all sectors - biodiversity, % total ODA",2014,2014,PC,Percentage,Units,4.342894077301
+USA,United States,ODA_BIO,"ODA - all sectors - biodiversity, % total ODA",2015,2015,PC,Percentage,Units,3.7231121063232
+USA,United States,ODA_BIO,"ODA - all sectors - biodiversity, % total ODA",2016,2016,PC,Percentage,Units,4.2078113555908
+USA,United States,ODA_BIO,"ODA - all sectors - biodiversity, % total ODA",2017,2017,PC,Percentage,Units,2.7356715202331
+USA,United States,ODA_BIO,"ODA - all sectors - biodiversity, % total ODA",2018,2018,PC,Percentage,Units,18.633798599243
+USA,United States,ODA_CCMIT,"ODA - all sectors - climate change mitigation, % total ODA",2000,2000,PC,Percentage,Units,0
+USA,United States,ODA_CCMIT,"ODA - all sectors - climate change mitigation, % total ODA",2005,2005,PC,Percentage,Units,0.1237146705389
+USA,United States,ODA_CCMIT,"ODA - all sectors - climate change mitigation, % total ODA",2010,2010,PC,Percentage,Units,2.3812849521637
+USA,United States,ODA_CCMIT,"ODA - all sectors - climate change mitigation, % total ODA",2011,2011,PC,Percentage,Units,3.0118296146393
+USA,United States,ODA_CCMIT,"ODA - all sectors - climate change mitigation, % total ODA",2012,2012,PC,Percentage,Units,2.9388675689697
+USA,United States,ODA_CCMIT,"ODA - all sectors - climate change mitigation, % total ODA",2013,2013,PC,Percentage,Units,5.31365442276
+USA,United States,ODA_CCMIT,"ODA - all sectors - climate change mitigation, % total ODA",2014,2014,PC,Percentage,Units,2.8804686069488
+USA,United States,ODA_CCMIT,"ODA - all sectors - climate change mitigation, % total ODA",2015,2015,PC,Percentage,Units,1.9847971200943
+USA,United States,ODA_CCMIT,"ODA - all sectors - climate change mitigation, % total ODA",2016,2016,PC,Percentage,Units,4.2973203659058
+USA,United States,ODA_CCMIT,"ODA - all sectors - climate change mitigation, % total ODA",2017,2017,PC,Percentage,Units,2.455322265625
+USA,United States,ODA_CCMIT,"ODA - all sectors - climate change mitigation, % total ODA",2018,2018,PC,Percentage,Units,2.4331033229828
+USA,United States,ODA_CCADP,"ODA - all sectors - climate change adaptation, % total ODA",2010,2010,PC,Percentage,Units,1.0496120452881
+USA,United States,ODA_CCADP,"ODA - all sectors - climate change adaptation, % total ODA",2011,2011,PC,Percentage,Units,1.6553492546082
+USA,United States,ODA_CCADP,"ODA - all sectors - climate change adaptation, % total ODA",2012,2012,PC,Percentage,Units,2.7442674636841
+USA,United States,ODA_CCADP,"ODA - all sectors - climate change adaptation, % total ODA",2013,2013,PC,Percentage,Units,2.0709602832794
+USA,United States,ODA_CCADP,"ODA - all sectors - climate change adaptation, % total ODA",2014,2014,PC,Percentage,Units,3.1927387714386
+USA,United States,ODA_CCADP,"ODA - all sectors - climate change adaptation, % total ODA",2015,2015,PC,Percentage,Units,1.9534811973572
+USA,United States,ODA_CCADP,"ODA - all sectors - climate change adaptation, % total ODA",2016,2016,PC,Percentage,Units,3.3597588539123
+USA,United States,ODA_CCADP,"ODA - all sectors - climate change adaptation, % total ODA",2017,2017,PC,Percentage,Units,2.8251969814301
+USA,United States,ODA_CCADP,"ODA - all sectors - climate change adaptation, % total ODA",2018,2018,PC,Percentage,Units,1.4568823575974
+USA,United States,ODA_GNI,"Net ODA provided, % GNI",1990,1990,PC,Percentage,Units,0.209414
+USA,United States,ODA_GNI,"Net ODA provided, % GNI",1995,1995,PC,Percentage,Units,0.101789
+USA,United States,ODA_GNI,"Net ODA provided, % GNI",2000,2000,PC,Percentage,Units,0.100266
+USA,United States,ODA_GNI,"Net ODA provided, % GNI",2005,2005,PC,Percentage,Units,0.226033
+USA,United States,ODA_GNI,"Net ODA provided, % GNI",2010,2010,PC,Percentage,Units,0.202632
+USA,United States,ODA_GNI,"Net ODA provided, % GNI",2011,2011,PC,Percentage,Units,0.203574
+USA,United States,ODA_GNI,"Net ODA provided, % GNI",2012,2012,PC,Percentage,Units,0.185609
+USA,United States,ODA_GNI,"Net ODA provided, % GNI",2013,2013,PC,Percentage,Units,0.181737
+USA,United States,ODA_GNI,"Net ODA provided, % GNI",2014,2014,PC,Percentage,Units,0.185688
+USA,United States,ODA_GNI,"Net ODA provided, % GNI",2015,2015,PC,Percentage,Units,0.167526
+USA,United States,ODA_GNI,"Net ODA provided, % GNI",2016,2016,PC,Percentage,Units,0.1861
+USA,United States,ODA_GNI,"Net ODA provided, % GNI",2017,2017,PC,Percentage,Units,0.176803
+USA,United States,ODA_ENVSEC,"ODA - environment sector, % total allocable ODA",1990,1990,PC,Percentage,Units,2.8217940330505
+USA,United States,ODA_ENVSEC,"ODA - environment sector, % total allocable ODA",1995,1995,PC,Percentage,Units,8.8428478240967
+USA,United States,ODA_ENVSEC,"ODA - environment sector, % total allocable ODA",2000,2000,PC,Percentage,Units,1.9746736288071
+USA,United States,ODA_ENVSEC,"ODA - environment sector, % total allocable ODA",2005,2005,PC,Percentage,Units,1.7803883552551
+USA,United States,ODA_ENVSEC,"ODA - environment sector, % total allocable ODA",2010,2010,PC,Percentage,Units,2.5071275234222
+USA,United States,ODA_ENVSEC,"ODA - environment sector, % total allocable ODA",2011,2011,PC,Percentage,Units,3.4077160358429
+USA,United States,ODA_ENVSEC,"ODA - environment sector, % total allocable ODA",2012,2012,PC,Percentage,Units,3.7283596992493
+USA,United States,ODA_ENVSEC,"ODA - environment sector, % total allocable ODA",2013,2013,PC,Percentage,Units,3.2250952720642
+USA,United States,ODA_ENVSEC,"ODA - environment sector, % total allocable ODA",2014,2014,PC,Percentage,Units,4.1134610176086
+USA,United States,ODA_ENVSEC,"ODA - environment sector, % total allocable ODA",2015,2015,PC,Percentage,Units,4.1445045471191
+USA,United States,ODA_ENVSEC,"ODA - environment sector, % total allocable ODA",2016,2016,PC,Percentage,Units,4.0379295349121
+USA,United States,ODA_ENVSEC,"ODA - environment sector, % total allocable ODA",2017,2017,PC,Percentage,Units,3.5740280151367
+USA,United States,ODA_ENVSEC,"ODA - environment sector, % total allocable ODA",2018,2018,PC,Percentage,Units,2.901148557663
+USA,United States,ODA_DES,"ODA - all sectors - desertification, % total ODA",2000,2000,PC,Percentage,Units,0
+USA,United States,ODA_DES,"ODA - all sectors - desertification, % total ODA",2005,2005,PC,Percentage,Units,0
+USA,United States,ODA_DES,"ODA - all sectors - desertification, % total ODA",2010,2010,PC,Percentage,Units,0
+USA,United States,ODA_DES,"ODA - all sectors - desertification, % total ODA",2011,2011,PC,Percentage,Units,0
+USA,United States,ODA_DES,"ODA - all sectors - desertification, % total ODA",2012,2012,PC,Percentage,Units,0
+USA,United States,ODA_DES,"ODA - all sectors - desertification, % total ODA",2013,2013,PC,Percentage,Units,0
+USA,United States,ODA_DES,"ODA - all sectors - desertification, % total ODA",2014,2014,PC,Percentage,Units,0
+USA,United States,ODA_DES,"ODA - all sectors - desertification, % total ODA",2015,2015,PC,Percentage,Units,0
+USA,United States,ODA_DES,"ODA - all sectors - desertification, % total ODA",2016,2016,PC,Percentage,Units,0
+USA,United States,ODA_DES,"ODA - all sectors - desertification, % total ODA",2017,2017,PC,Percentage,Units,0
+USA,United States,ODA_DES,"ODA - all sectors - desertification, % total ODA",2018,2018,PC,Percentage,Units,0
+DEU,Germany,ODA_ENVSEC,"ODA - environment sector, % total allocable ODA",1990,1990,PC,Percentage,Units,6.7896709442139
+DEU,Germany,ODA_ENVSEC,"ODA - environment sector, % total allocable ODA",1995,1995,PC,Percentage,Units,2.2160515785217
+DEU,Germany,ODA_ENVSEC,"ODA - environment sector, % total allocable ODA",2000,2000,PC,Percentage,Units,4.2292890548706
+DEU,Germany,ODA_ENVSEC,"ODA - environment sector, % total allocable ODA",2005,2005,PC,Percentage,Units,5.3006110191345
+DEU,Germany,ODA_ENVSEC,"ODA - environment sector, % total allocable ODA",2010,2010,PC,Percentage,Units,3.9521169662476
+DEU,Germany,ODA_ENVSEC,"ODA - environment sector, % total allocable ODA",2011,2011,PC,Percentage,Units,8.7985038757324
+DEU,Germany,ODA_ENVSEC,"ODA - environment sector, % total allocable ODA",2012,2012,PC,Percentage,Units,9.2824172973633
+DEU,Germany,ODA_ENVSEC,"ODA - environment sector, % total allocable ODA",2013,2013,PC,Percentage,Units,7.977819442749
+DEU,Germany,ODA_ENVSEC,"ODA - environment sector, % total allocable ODA",2014,2014,PC,Percentage,Units,5.8871297836304
+DEU,Germany,ODA_ENVSEC,"ODA - environment sector, % total allocable ODA",2015,2015,PC,Percentage,Units,8.2554216384888
+DEU,Germany,ODA_ENVSEC,"ODA - environment sector, % total allocable ODA",2016,2016,PC,Percentage,Units,8.6150007247925
+DEU,Germany,ODA_ENVSEC,"ODA - environment sector, % total allocable ODA",2017,2017,PC,Percentage,Units,10.97004699707
+DEU,Germany,ODA_ENVSEC,"ODA - environment sector, % total allocable ODA",2018,2018,PC,Percentage,Units,8.9290418624878
